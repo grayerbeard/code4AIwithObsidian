@@ -1,15 +1,11 @@
 #!/usr/bin/env python3
 """
 Obsidian Frontmatter Population Script - Phase 2
-Version 1.1 - November 2025
-
-FIXED: Now properly tracks dry run vs live mode processing
-Files processed in dry run mode will be reprocessed when switching to live mode.
+Version 1.0 - November 2025
 
 This script uses Ollama to intelligently populate frontmatter fields
 based on note content. Features:
 - Progress logging and resume capability
-- Separate tracking for dry run vs live mode
 - Processes files systematically
 - Handles interruptions gracefully
 - Detailed logging of all changes
@@ -32,7 +28,8 @@ from dataclasses import dataclass, asdict
 # ============================================================================
 
 # Your vault path
-# On Desktop
+
+# Om Desktop
 VAULT_PATH = r"K:\Obsidian Vaults\Second Brain"
 
 # On AI Server
@@ -43,23 +40,23 @@ OLLAMA_URL = "http://localhost:11434/api/generate"  # Change if Ollama runs else
 OLLAMA_MODEL = "gemma3:12b"  # Or your preferred model (mistral, deepseek-r1, etc.)
 
 # Folders to process (relative to vault Notes directory)
-# Leave empty [] to process all folders
+# Leave empty [] to process all folders     Notes\AANext
 FOLDERS_TO_PROCESS = [
-    r"Notes\AAnext" 
+    r"Notes\Local AI" 
 ]
 
 # Or set to process entire Notes directory
 PROCESS_ALL_NOTES = False  # Set to True to process all Notes
 
 # Progress tracking
-PROGRESS_LOG = r"C:\code\code4AIwithObsidian\logs\frontmatter_progress.json"
-DETAILED_LOG = r"C:\code\code4AIwithObsidian\logs\frontmatter_changes.log"
+PROGRESS_LOG = r"C:\code\logs\frontmatter_progress.json"
+DETAILED_LOG = r"C:\code\logs\frontmatter_changes.log"
 
 # Dry run mode
 DRY_RUN = False  # Set to False to actually modify files
 
 # Batch size (save progress after this many files)
-BATCH_SIZE = 20
+BATCH_SIZE = 10
 
 # ============================================================================
 # DATA CLASSES
@@ -67,24 +64,20 @@ BATCH_SIZE = 20
 
 @dataclass
 class ProcessingProgress:
-    """Track processing progress with separate tracking for dry run vs live."""
+    """Track processing progress."""
     total_files: int = 0
     processed_files: int = 0
     skipped_files: int = 0
     error_files: int = 0
     last_processed_file: str = ""
-    processed_list_dry_run: List[str] = None  # Files processed in dry run
-    processed_list_live: List[str] = None     # Files actually updated
+    processed_list: List[str] = None
     error_list: List[str] = None
     started_at: str = ""
     last_updated: str = ""
-    current_mode: str = "dry_run"  # Track current run mode
     
     def __post_init__(self):
-        if self.processed_list_dry_run is None:
-            self.processed_list_dry_run = []
-        if self.processed_list_live is None:
-            self.processed_list_live = []
+        if self.processed_list is None:
+            self.processed_list = []
         if self.error_list is None:
             self.error_list = []
 
@@ -206,7 +199,6 @@ class FrontmatterPopulator:
         self.vault_path = Path(vault_path)
         self.dry_run = dry_run
         self.progress = self._load_progress()
-        self.progress.current_mode = "dry_run" if dry_run else "live"
         self.analyzer = OllamaAnalyzer(OLLAMA_MODEL, OLLAMA_URL)
         
         # Initialize detailed log
@@ -222,11 +214,6 @@ class FrontmatterPopulator:
             try:
                 with open(PROGRESS_LOG, 'r') as f:
                     data = json.load(f)
-                    # Handle old format (single processed_list)
-                    if 'processed_list' in data and 'processed_list_dry_run' not in data:
-                        # Migrate old format
-                        data['processed_list_dry_run'] = data.pop('processed_list', [])
-                        data['processed_list_live'] = []
                     return ProcessingProgress(**data)
             except Exception as e:
                 print(f"⚠ Could not load progress file: {e}")
@@ -242,10 +229,7 @@ class FrontmatterPopulator:
         with open(PROGRESS_LOG, 'w') as f:
             json.dump(asdict(self.progress), f, indent=2)
         
-        if self.dry_run:
-            print(f"💾 Progress saved: {len(self.progress.processed_list_dry_run)} files (dry run)")
-        else:
-            print(f"💾 Progress saved: {len(self.progress.processed_list_live)} files (live)")
+        print(f"💾 Progress saved: {self.progress.processed_files}/{self.progress.total_files} files")
     
     def _log(self, message: str):
         """Write to detailed log file."""
@@ -253,7 +237,7 @@ class FrontmatterPopulator:
         self.detail_log.flush()
     
     def get_files_to_process(self) -> List[Path]:
-        """Get list of files to process based on configuration and mode."""
+        """Get list of files to process based on configuration."""
         all_files = []
         
         if PROCESS_ALL_NOTES:
@@ -267,20 +251,11 @@ class FrontmatterPopulator:
                 else:
                     print(f"⚠ Folder not found: {folder_path}")
         
-        # Filter based on current mode
-        if self.dry_run:
-            # In dry run, skip files already processed in dry run
-            files_to_process = [
-                f for f in all_files 
-                if str(f) not in self.progress.processed_list_dry_run
-            ]
-        else:
-            # In live mode, skip files already processed in LIVE mode
-            # (Files from dry run will be reprocessed)
-            files_to_process = [
-                f for f in all_files 
-                if str(f) not in self.progress.processed_list_live
-            ]
+        # Filter out already processed files
+        files_to_process = [
+            f for f in all_files 
+            if str(f) not in self.progress.processed_list
+        ]
         
         return files_to_process
     
@@ -424,25 +399,13 @@ class FrontmatterPopulator:
         
         # Get files to process
         files = self.get_files_to_process()
-        
-        if not files:
-            if self.dry_run:
-                print(f"\n✓ All files already processed in DRY RUN mode!")
-                print(f"   {len(self.progress.processed_list_dry_run)} files in dry run list")
-                print(f"\n💡 To actually update files, set DRY_RUN = False")
-            else:
-                print(f"\n✓ All files already processed in LIVE mode!")
-                print(f"   {len(self.progress.processed_list_live)} files updated")
-            return
-        
         self.progress.total_files = len(files)
         
-        print(f"\n📊 Mode: {'DRY RUN' if self.dry_run else 'LIVE'}")
-        if self.dry_run:
-            print(f"   Files already tested: {len(self.progress.processed_list_dry_run)}")
-        else:
-            print(f"   Files already updated: {len(self.progress.processed_list_live)}")
-        print(f"   Files to process now: {len(files)}")
+        if not files:
+            print("\n✓ All files already processed!")
+            return
+        
+        print(f"\n📊 Progress: {self.progress.processed_files} done, {len(files)} remaining")
         print(f"{'='*80}\n")
         
         # Process files
@@ -453,11 +416,7 @@ class FrontmatterPopulator:
             
             if success:
                 self.progress.processed_files += 1
-                # Add to appropriate list based on mode
-                if self.dry_run:
-                    self.progress.processed_list_dry_run.append(str(filepath))
-                else:
-                    self.progress.processed_list_live.append(str(filepath))
+                self.progress.processed_list.append(str(filepath))
             else:
                 self.progress.error_files += 1
                 self.progress.error_list.append(str(filepath))
@@ -477,13 +436,9 @@ class FrontmatterPopulator:
         print(f"\n{'='*80}")
         print("PROCESSING COMPLETE")
         print(f"{'='*80}")
-        print(f"Mode: {'DRY RUN' if self.dry_run else 'LIVE'}")
-        print(f"Total files in this run: {self.progress.total_files}")
-        print(f"Successfully processed: {self.progress.processed_files}")
+        print(f"Total files: {self.progress.total_files}")
+        print(f"Processed: {self.progress.processed_files}")
         print(f"Errors: {self.progress.error_files}")
-        print(f"\nOverall statistics:")
-        print(f"  Dry run tested: {len(self.progress.processed_list_dry_run)} files")
-        print(f"  Live updated: {len(self.progress.processed_list_live)} files")
         
         if self.progress.error_list:
             print(f"\nFiles with errors ({len(self.progress.error_list)}):")
@@ -498,8 +453,7 @@ class FrontmatterPopulator:
         
         if self.dry_run:
             print("ℹ This was a DRY RUN - no files were modified.")
-            print("💡 Set DRY_RUN = False to actually update files.")
-            print("   (Files tested in dry run will be reprocessed in live mode)")
+            print("Set DRY_RUN = False to actually update files.")
     
     def __del__(self):
         """Clean up."""
@@ -517,7 +471,7 @@ def main():
 ╔══════════════════════════════════════════════════════════════════╗
 ║  Obsidian Frontmatter Population - Phase 2                      ║
 ║  Intelligent population using Ollama                            ║
-║  Version 1.1 - November 2025 (Fixed: Dry Run Tracking)         ║
+║  Version 1.0 - November 2025                                    ║
 ╚══════════════════════════════════════════════════════════════════╝
     """)
     

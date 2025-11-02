@@ -1,0 +1,281 @@
+
+================================================================================
+Session started: 2025-11-01 21:05:01
+Mode: DRY RUN
+================================================================================
+
+
+--- Processing: A view of the effect of the Reformation from Kuusisto Bishops Castle demolished by it in 1528..md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Catholic Church', 'Kuusisto', 'Economic History', 'Tithes', 'Reformation', 'Finland', 'Turk', 'Land Ownership']
+  tags: ['reformation', 'new'] → ['kuusisto', 'catholic church', 'new', 'finland', 'reformation', 'economic history', 'history']
+  status: new → in-progress
+[DRY RUN] Would update file
+
+--- Processing: Desktop power use.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['LLM', 'performance', 'AI', 'power efficiency', 'CPU', 'GPU', 'Finland']
+  tags: ['powerEfficiency'] → ['desktop', 'optimization', 'powerEfficiency']
+  tools_used: [] → ['Copilot', 'Obsidian']
+  status: new → in-progress
+[DRY RUN] Would update file
+
+--- Processing: Detailed investigation Costs Of AI.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Gemini', 'NanoGPT', 'OpenRouter', 'OpenAI', 'LLMs', 'AI Costs', 'API Pricing', 'Anthropic']
+  tags: ['cost'] → ['LLM', 'AI', 'pricing', 'API', 'cost']
+  tools_used: [] → ['Google/Gemini', 'NanoGPT', 'OpenAI', 'OpenRouter', 'LN Studio', 'OpenWebUI', 'MSTY', 'Anthropic', 'AnythingLLM', 'Ollama', 'Perplexity AI']
+  ai_model: None → ['GPT', 'Gemini', 'Grok']
+  status: new → completed
+[DRY RUN] Would update file
+
+--- Processing: In search of a way to Personalize AI Setup.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → idea
+  topics: [] → ['SystemSculpt', 'Prompt Engineering', 'AI Setup', 'AI Personalization', 'User Needs']
+  tags: ['new'] → ['SystemSculpt', 'AI', 'new', 'Obsidian', 'Personalization', 'Prompting']
+  tools_used: [] → ['SystemSculpt', 'NanoGPT', 'Obsidian']
+  ai_model: None → Grok 4
+[DRY RUN] Would update file
+
+--- Processing: Insights on Enhancing SystemSculpt AI Amid Growing Competition.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['LLM', 'SystemSculpt', 'Competition', 'AI', 'Plugins', 'Obsidian', 'Mobile']
+  tags: [] → ['SystemSculpt', 'Research', 'AI', 'Plugins', 'Obsidian']
+  technology_stack: [] → ['Groq', 'OpenAI', 'Obsidian', 'Ollama']
+  tools_used: [] → ['Local Copilot', 'SystemSculpt', 'OpenWebUI', 'GPT4All', 'AnythingLLM', 'AI Assistant', 'Obsidian Copilot', 'Obsidian', 'Smart Connections']
+  ai_model: None → ['OpenAI', 'Groq', 'Ollama']
+  status: new → in-progress
+[DRY RUN] Would update file
+
+--- Processing: Investigating using agents.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['AI Agents', 'System Sculpt AI', 'Knowledge Management', 'Automation', 'Obsidian', 'MCP']
+  tags: ['agents'] → ['knowledge-management', 'agents', 'system-sculpt-ai']
+  technology_stack: [] → ['System Sculpt AI Plugin', 'Obsidian']
+  tools_used: [] → ['LLM', 'System Sculpt AI Plugin']
+  ai_model: None → Not specified
+  status: new → in-progress
+[DRY RUN] Would update file
+
+--- Processing: lg rPi 5 or nvidia orin nano and prospects for future.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Raspberry Pi 5', 'NVIDIA Orin Nano', 'Edge AI', 'Inference AI', 'AI Hardware', 'Single Board Computers']
+  tags: ['#index', '#2'] → ['Hailo', '#2', 'AI', 'Hardware', 'Raspberry Pi', 'NVIDIA', '#index', 'Orin Nano']
+  technology_stack: [] → ['PCIe', 'M.2']
+  status: new → in-progress
+[DRY RUN] Would update file
+
+--- Processing: Ollama Network Problems.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → troubleshooting
+  topics: [] → ['networking', 'docker-compose', 'open webui', 'ollama', 'docker']
+  tags: ['docker'] → ['webui', 'networking', 'ollama', 'docker', 'troubleshooting']
+  technology_stack: [] → ['docker-compose', 'docker']
+  tools_used: [] → ['open webui', 'docker-compose', 'docker', 'ollama']
+  status: new → in-progress
+[DRY RUN] Would update file
+
+--- Processing: Options for Accessing Msty remotely.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Msty', 'Tailscale', 'Knowledge Management', 'Remote Access', 'Obsidian']
+  tags: ['new'] → ['mobile', 'webui', 'msty-studio', 'new', 'remote']
+  technology_stack: [] → ['Msty', 'Tailscale', 'Obsidian']
+  tools_used: [] → ['Sidecar', 'Tailscale Serve', 'Msty Studio']
+[DRY RUN] Would update file
+
+--- Processing: Rhaspy as main Chat control can this be done.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → documentation
+  topics: [] → ['speech recognition', 'voice assistants', 'natural language processing']
+  tags: [] → ['rhasspy', 'oov', 'speech-to-text']
+  technology_stack: [] → ['rhasspy']
+  tools_used: [] → ['google cloud speech-to-text', 'rhasspy', 'mozilla deepspeech']
+  ai_model: None → llama-3.1-70b-versatile
+  status: new → in-progress
+[DRY RUN] Would update file
+
+--- Processing: Set Up for n8n on R pi 5.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → documentation
+  topics: [] → ['Docker', 'Networking', 'Raspberry Pi', 'Tailscale', 'n8n', 'Automation']
+  tags: None → ['docker-compose', 'arm64']
+  technology_stack: [] → ['Docker', 'Tailscale', 'n8n']
+  tools_used: [] → ['Docker', 'Tailscale', 'n8n']
+  status: new → in-progress
+[DRY RUN] Would update file
+
+--- Processing: Strategy.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['LLM', 'SystemSculpt', 'Data Processing', 'AI', 'Automation', 'Obsidian']
+  tags: ['new'] → ['LLM', 'SystemSculpt', 'automation', 'AI', 'new', 'Obsidian']
+  tools_used: [] → ['SystemSculpt', 'Obsidian']
+  status: new → in-progress
+[DRY RUN] Would update file
+
+================================================================================
+Session started: 2025-11-01 21:09:19
+Mode: DRY RUN
+================================================================================
+
+
+================================================================================
+Session started: 2025-11-01 21:09:44
+Mode: LIVE
+================================================================================
+
+
+--- Processing: A view of the effect of the Reformation from Kuusisto Bishops Castle demolished by it in 1528..md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Economic History', 'Tithes', 'Kuusisto', 'Finland', 'Land Ownership', 'Reformation', 'Catholic Church', 'Turk']
+  tags: ['reformation', 'new'] → ['history', 'reformation', 'new', 'catholic church', 'finland', 'kuusisto', 'economic history']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Desktop power use.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['LLM', 'powerEfficiency', 'CPU', 'performance', 'Finland', 'GPU', 'AI']
+  tags: ['powerEfficiency'] → ['LLM', 'AI', 'powerEfficiency', 'performance']
+  tools_used: [] → ['Copilot']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Detailed investigation Costs Of AI.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['OpenAI', 'Gemini', 'AI Cost', 'OpenRouter', 'NanoGPT', 'LLMs', 'Anthropic', 'API Pricing']
+  tags: ['cost'] → ['LLM', 'API', 'pricing', 'cost', 'AI']
+  tools_used: [] → ['OpenAI', 'LN Studio', 'AnythingLLM', 'Ollama', 'OpenRouter', 'Perplexity AI', 'MSTY', 'OpenWebUI', 'NanoGPT', 'Google/Gemini', 'Anthropic']
+  ai_model: None → ['GPT', 'Gemini', 'Grok']
+  status: new → completed
+✓ File updated
+
+--- Processing: In search of a way to Personalize AI Setup.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → idea
+  topics: [] → ['Obsidian Plugins', 'SystemSculpt', 'AI Setup', 'AI Personalization', 'Prompt Engineering', 'User Needs']
+  tags: ['new'] → ['new', 'SystemSculpt', 'Obsidian', 'Prompting', 'Personalization', 'AI']
+  tools_used: [] → ['Obsidian', 'NanoGPT', 'SystemSculpt']
+  ai_model: None → Grok 4
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Insights on Enhancing SystemSculpt AI Amid Growing Competition.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Competitive Analysis', 'Obsidian', 'Plugin Development', 'Knowledge Management', 'SystemSculpt AI', 'AI']
+  tags: [] → ['ai', 'systemsculpt', 'competition', 'plugins', 'obsidian']
+  technology_stack: [] → ['Obsidian', 'OpenAI', 'Groq', 'Ollama']
+  tools_used: [] → ['AnythingLLM', 'Obsidian Copilot', 'Smart Connections', 'GPT4All', 'OpenWebUI', 'AI Assistant', 'Local Copilot']
+  ai_model: None → ['OpenAI', 'Groq', 'Ollama']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Investigating using agents.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Obsidian', 'Automation', 'Knowledge Management', 'System Sculpt AI', 'MCP', 'AI Agents']
+  tags: ['agents'] → ['agents', 'knowledge-management', 'system-sculpt-ai']
+  technology_stack: [] → ['Obsidian', 'System Sculpt AI plugin']
+  tools_used: [] → ['note_writer', 'note_summarizer', 'vault_reader', 'System Sculpt AI plugin']
+  ai_model: None → LLM (general)
+  status: new → in-progress
+✓ File updated
+
+--- Processing: lg rPi 5 or nvidia orin nano and prospects for future.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Inference AI', 'Single Board Computers', 'AI Hardware', 'Raspberry Pi 5', 'NVIDIA Orin Nano', 'Edge AI']
+  tags: ['#index', '#2'] → ['#2', 'Hardware', 'Hailo', 'NVIDIA', '#index', 'Orin Nano', 'Raspberry Pi', 'AI']
+  technology_stack: [] → ['PCIe', 'M.2']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Ollama Network Problems.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → troubleshooting
+  topics: [] → ['networking', 'ollama', 'docker-compose', 'docker', 'open webui']
+  tags: ['docker'] → ['webui', 'networking', 'troubleshooting', 'ollama', 'docker']
+  technology_stack: [] → ['docker-compose', 'docker']
+  tools_used: [] → ['ollama', 'docker-compose', 'docker', 'open webui']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Options for Accessing Msty remotely.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Tailscale', 'Mobile Computing', 'Obsidian', 'Remote Access', 'Knowledge Management', 'Msty']
+  tags: ['new'] → ['mobile', 'new', 'tailscale', 'knowledge-stacks', 'msty', 'remote-access']
+  technology_stack: [] → ['Tailscale', 'Obsidian', 'Msty']
+  tools_used: [] → ['Msty Studio', 'Tailscale Serve', 'Web Browser']
+✓ File updated
+
+--- Processing: Rhaspy as main Chat control can this be done.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → documentation
+  topics: [] → ['speech recognition', 'natural language processing', 'voice assistants', 'Rhasspy']
+  tags: [] → ['oov', 'rhasspy', 'word-spotting', 'speech-to-text']
+  technology_stack: [] → ['Rhasspy']
+  tools_used: [] → ['Mozilla DeepSpeech', 'Google Cloud Speech-to-Text', 'Rhasspy']
+  ai_model: None → llama-3.1-70b-versatile
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Set Up for n8n on R pi 5.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → documentation
+  topics: [] → ['Tailscale', 'Docker', 'Automation', 'n8n', 'Raspberry Pi', 'Networking']
+  tags: None → ['raspberrypi', 'tailscale', 'docker-compose', 'n8n', 'automation']
+  technology_stack: [] → ['Docker', 'Tailscale', 'Raspberry Pi']
+  tools_used: [] → ['Tailscale', 'n8n', 'Docker Compose']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Strategy.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['LLM', 'SystemSculpt', 'Obsidian', 'Automation', 'Data Processing', 'AI']
+  tags: ['new'] → ['new', 'LLM', 'SystemSculpt', 'Obsidian', 'Automation', 'AI']
+  tools_used: [] → ['Obsidian', 'SystemSculpt']
+  status: new → in-progress
+✓ File updated
+
+================================================================================
+Session started: 2025-11-01 21:18:59
+Mode: LIVE
+================================================================================
+
