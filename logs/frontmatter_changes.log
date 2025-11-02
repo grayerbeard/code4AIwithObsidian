@@ -279,3 +279,4633 @@ Session started: 2025-11-01 21:18:59
 Mode: LIVE
 ================================================================================
 
+
+================================================================================
+Session started: 2025-11-01 21:19:30
+Mode: LIVE
+================================================================================
+
+
+--- Processing: 2024-08-14 setting up AI chat.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['User Profile', 'AI Chat', 'Prompt Engineering', 'Context Files']
+  tags: [] → ['AI', 'Obsidian', 'Chatbot', 'Context']
+  ai_model: None → Gemini Pro 1.5
+  status: new → in-progress
+✓ File updated
+
+--- Processing: 2025-08-27 15-23 - Chat Export.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Purgatory', 'Church History', 'Catholicism', 'Forgiveness', 'Indulgences', 'Vatican II', 'Theology']
+  tags: None → ['theology', 'catholicism', 'religion']
+  status: new → completed
+✓ File updated
+
+--- Processing: 2nd Hand Plug in Hybrids.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → research
+  topics: [] → ['used cars', 'reliability', 'hybrids', 'plug-in hybrids', 'automotive', 'cars']
+  tags: ['newcar/plugin'] → ['used', 'newcar/plugin', 'hybrid', 'reliability', 'automotive', 'plugin', 'cars']
+  status: new → completed
+✓ File updated
+
+--- Processing: 3D Printer new Controller.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Controller Upgrade', 'Duet WiFi', 'RAMPS', '3D Printing', 'Marlin Firmware', 'Arduino', 'Monoprice Select Mini']
+  tags: ['jneController'] → ['Controller', 'Monoprice', 'jneController', 'Upgrade', '3DPrinting']
+  technology_stack: [] → ['Arduino', 'Marlin Firmware', 'RAMPS 1.4', 'Duet WiFi']
+  tools_used: [] → ['Monoprice.com', 'YouTube', 'Thingiverse', 'Instructables', 'Wikipedia', 'Reddit']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: 3D Printer Sort out Log.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → log
+  topics: [] → ['Troubleshooting', '3D Printing', 'Calibration', 'Settings']
+  tags: ['github/3dprintHowTo/diary'] → ['adhesion', 'z-offset', 'extruder', 'calibration', 'bed', '3dprinting', 'github/3dprintHowTo/diary']
+  technology_stack: [] → ['Creality Slicer', '3D Printer']
+  tools_used: [] → ['Creality Slicer', 'YouTube', 'Makers Muse']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: 3d Printing Assemblies Video to Check Out.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['3D Printing', 'Combat Robot', 'Robotics', 'Assembly', 'Design']
+  tags: ['github/3dprintHowTo'] → ['3D Printing', 'Combat Robot', 'Design Tricks', 'github/3dprintHowTo', 'Assembly', 'Robotics', 'Indexing']
+  technology_stack: [] → ['Onshape', 'FreeCAD', 'Fusion 360']
+  tools_used: [] → ['Onshape', 'Podia', 'FreeCAD', 'Fusion 360']
+  status: new → completed
+✓ File updated
+
+--- Processing: 800cal day notes.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → log
+  topics: [] → ['diet', 'monitoring', 'weight loss', 'health', 'exercise', 'nutrition']
+  tags: ['flossy/diet'] → ['flossy/diet', 'weight_loss', 'diet', 'health_tracking', 'exercise', 'nutrition']
+  tools_used: [] → ['measuring kit', 'ketosis strips', 'blood sugar test']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Abandoned Vehicle.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['Local Government', 'Vehicle Abandonment', 'Parking Regulations', 'UK Law']
+  tags: ['new'] → ['new', 'vehicles', 'law', 'UK', 'parking']
+  status: new → completed
+✓ File updated
+
+--- Processing: About Fabric.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → documentation
+  topics: [] → ['LLM', 'prompt engineering', 'AI', 'framework', 'automation']
+  tags: ['system/fabric'] → ['llm', 'ai', 'system/fabric', 'automation']
+  tools_used: [] → ['Node', 'Ollama', 'npm']
+  ai_model: None → gpt4-turbo
+✓ File updated
+
+--- Processing: About WMIS.md ---
+Changes suggested:
+  category: None → Project
+  note_type: None → reference
+  topics: [] → ["men's health", 'art', 'woodwork', 'shed', 'computers', '3D printing', 'community', 'charity']
+  tags: ['WMIS'] → ['Whitchurch', 'Shropshire', 'sheds', 'community', 'WMIS']
+  tools_used: [] → ['Google Maps', '3D printer']
+  status: new → completed
+✓ File updated
+
+--- Processing: Accessing Home Desktop Files Remotely -Tailscale Docker vs FTP vs Alternatives.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['security', 'remote access', 'networking', 'file sharing', 'VPN']
+  tags: ['new'] → ['new', 'tailscale', 'ftp', 'zerotier', 'wireguard', 'docker']
+  technology_stack: [] → ['tailscale', 'ftp', 'ftps', 'wireguard', 'sftp', 'docker']
+  tools_used: [] → ['tailscale', 'zerotier', 'docker', 'ftp']
+✓ File updated
+
+--- Processing: account of what is coming.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Obsidian', 'Knowledge Management', 'SystemSculpt', 'AI', 'Second Brain']
+  tags: ['new'] → ['obsidian', 'new', 'systemsculpt', 'knowledge-management', 'ai']
+  ai_model: None → ChatGPT
+✓ File updated
+
+--- Processing: Achieving the Perfect First Layer in FDM 3D Printing.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Slicer Settings', 'PLA', '3D Printing', 'ASA', 'Polycarbonate', 'FDM', 'ABS', 'Bed Adhesion', 'PETG', 'Bed Leveling']
+  tags: ['new'] → ['new', 'Troubleshooting', '3D Printing', 'FDM', 'First Layer', 'Materials']
+  tools_used: [] → ['Acetone', 'Isopropyl Alcohol', 'Sandpaper']
+✓ File updated
+
+--- Processing: Action Fraud info.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → guide
+  topics: [] → ['gift card', 'scam', 'Action Fraud', 'fraud', 'John Lewis']
+  tags: ['new'] → ['gift card', 'new', 'security', 'scam', 'Action Fraud', 'fraud', 'John Lewis']
+  tools_used: [] → ['Action Fraud website', 'John Lewis website']
+✓ File updated
+
+--- Processing: Adapt 3D Printer to Use Laser.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Modification', 'DIY', '3D Printing', 'Laser Cutting', 'GRBL']
+  tags: [] → ['select mini', 'diy', 'modification', 'monoprice', 'laser']
+  technology_stack: [] → ['GRBL', 'Laser Diode']
+  tools_used: [] → ['Instructables', 'Maker Forums']
+  status: new → needs-review
+✓ File updated
+
+--- Processing: Adding lightLLM with Open WebUI.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['LLM', 'Docker', 'Ollama', 'LiteLLM', 'OpenWebUI', 'API']
+  tags: ['new'] → ['LLM', 'Docker', 'new', 'Ollama', 'LiteLLM', 'OpenWebUI', 'Guide', 'Integration']
+  technology_stack: [] → ['Docker', 'Ollama', 'LiteLLM', 'YAML', 'OpenWebUI']
+  tools_used: [] → ['LiteLLM', 'Docker', 'OpenWebUI', 'Ollama']
+✓ File updated
+
+--- Processing: Adding Python to Path.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['PATH', 'Windows', 'Environment Variables', 'Python', 'PlatformIO']
+  tags: ['new'] → ['path', 'new', 'environment', 'windows', 'python', 'platformio']
+  technology_stack: [] → ['Windows 11', 'Python', 'PlatformIO', 'Visual Studio Code']
+  tools_used: [] → ['Command Prompt', 'pip', 'PowerShell', 'Visual Studio Code']
+  status: new → completed
+✓ File updated
+
+--- Processing: Adding sorting.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → documentation
+  topics: [] → ['file indexing', 'python', 'sorting', 'markdown']
+  tags: ['github/python/sorting'] → ['indexing', 'github/python/sorting', 'file-management']
+  technology_stack: [] → ['python']
+  tools_used: [] → ['python', 'os']
+  status: new → completed
+✓ File updated
+
+--- Processing: advertisers at Whitchurch Canal Arm.md ---
+Changes suggested:
+  category: None → Project
+  note_type: None → reference
+  topics: [] → ['Whitchurch', 'Shropshire', 'local business', 'advertising', 'charity', 'finance']
+  tags: ['new'] → ['Whitchurch', 'new', 'Shropshire', 'local', 'advertising', 'finance']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: AI has all the answers – even the wrong ones.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['AI limitations', 'GPT-4', 'logic puzzles', 'large language models', 'reasoning']
+  tags: ['flossy/TimHarford'] → ['LLM', 'puzzles', 'flossy/TimHarford', 'AI', 'reasoning']
+  ai_model: None → GPT-4
+  status: new → completed
+✓ File updated
+
+--- Processing: AI Hype is completely out of control - especially since ChatGPT-4o.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Large Language Models', 'Software Development', 'AI', 'Job Market', 'ChatGPT', 'AI Ethics', 'Future of Work', 'Technology Hype']
+  tags: ['new'] → ['new', 'Software Development', 'Hype', 'AI', 'ChatGPT-4o', 'Future of Work']
+  ai_model: None → ChatGPT-4o
+✓ File updated
+
+--- Processing: AI Info Sources.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → reference
+  topics: [] → ['LLM', 'Resources', 'RAG', 'AI', 'Documentation']
+  tags: ['sources'] → ['LLM', 'documentation', 'RAG', 'AI', 'sources']
+  tools_used: [] → ['Anthropic', 'Arxiv', 'Hugging Face', 'Kaggle', 'Langchain', 'OpenAI', 'Towards Data Science']
+  status: new → completed
+✓ File updated
+
+--- Processing: AI Options Chat.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → idea
+  topics: [] → ['Cloud AI', 'Ollama', 'Local AI', 'Obsidian', 'Jetson Nano', 'AI', 'Privacy']
+  tags: ['new'] → ['new', 'Ollama', 'Obsidian', 'Jetson', 'AI', 'Cloud', 'Local']
+  technology_stack: [] → ['Jetson Nano', 'Python', 'Ollama']
+  tools_used: [] → ['Gemini Pro', 'Obsidian', 'Ollama']
+  ai_model: None → ['Gemini Pro', 'Ollama models']
+✓ File updated
+
+--- Processing: AI Tools and Websites for Table Design and Cutting Lists.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['cutting lists', 'woodworking', 'optimization', 'table design', 'AI tools']
+  tags: ['new'] → ['tools', 'new', 'cutting lists', 'woodworking', 'optimization', 'AI']
+  tools_used: [] → ['CutList Optimizer', 'SketchUp', 'EdrawMax AI']
+✓ File updated
+
+--- Processing: aiserver Log.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → log
+  topics: [] → ['pinggy', 'remote-management', 'systemd', 'docker']
+  tags: ['new'] → ['new', 'docker-compose', 'pinggy-tunnel', 'systemd-service']
+  technology_stack: [] → ['bash', 'systemd', 'docker']
+  tools_used: [] → ['nano', 'ollama', 'docker-compose', 'open-webui', 'pinggy']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Ali Abdaal  The Second Brain - A Life-Changing Productivity System.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → guide
+  topics: [] → ['creativity', 'second brain', 'productivity', 'personal knowledge management', 'note-taking']
+  tags: ['SYSTEM/obsidian/howto'] → ['SYSTEM/obsidian/howto', 'secondbrain', 'productivity']
+  tools_used: [] → ['Kindle', 'Obsidian', 'Apple Watch']
+✓ File updated
+
+--- Processing: all about using Grow API keys free.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['LLM', 'Usage Limits', 'Free Tier', 'Groq', 'AI', 'API']
+  tags: ['AIProductivity'] → ['AIProductivity', 'LLMs', 'Groq', 'API Keys']
+  tools_used: [] → ['Obsidian', 'SystemSculpt AI plugin']
+  ai_model: None → ['LLaMA3 70b', 'Mixtral 8x7B', 'LLaMA3 8B', 'Gemma 7B']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Allowed Trustee Expenses.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → reference
+  topics: [] → ['expenses', 'trustees', 'payments', 'charity law', 'UK regulations', 'commercial partnerships']
+  tags: [] → ['charity', 'trustee_expenses', 'governance']
+  status: new → completed
+✓ File updated
+
+--- Processing: Alternative Approach For Local AI using SBC.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Local AI', 'Edge Computing', 'NPU', 'AI', 'Single Board Computers']
+  tags: ['new'] → ['new', 'Local AI', 'SBC', 'Edge Computing', 'NPU', 'BeagleBone', 'Radxa', 'Jetson', 'ArmSom', 'AI', 'Orange Pi']
+  technology_stack: [] → ['TensorFlow', 'PyTorch']
+✓ File updated
+
+--- Processing: Alternatives to Home Assistant Report by Claude 3.5.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Raspberry Pi', 'Home Automation', 'AI', 'Home Assistant', 'Automation']
+  tags: [] → ['simplicity', 'home-automation', 'raspberry-pi', 'ai', 'home-assistant']
+  technology_stack: [] → ['Docker', 'Raspberry Pi', 'YAML', 'Home Assistant', 'Git']
+  tools_used: [] → ['Docker', 'Home Assistant', 'Git']
+  ai_model: None → Claude 3.5
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Alternatives to Obsidian Tools.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['Obsidian', 'Python', 'Software Tools', 'Knowledge Management']
+  tags: [] → ['tools', 'Obsidian', 'Python']
+  technology_stack: [] → ['Python']
+  tools_used: [] → ['Obsidian', 'Obsidian-Python', 'obsidiantools', 'Obsidianizer']
+  status: new → completed
+✓ File updated
+
+--- Processing: Alternatives to tinytuy.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → reference
+  topics: [] → ['Local Control', 'Smart Home', 'Python', 'Tuya']
+  tags: ['github/python/modules/tuya'] → ['github/python/modules/tuya', 'python', 'tuya']
+  technology_stack: [] → ['Python']
+  tools_used: [] → ['GitHub', 'tuyapower', 'tuyaface', 'tinytuya', 'localtuya']
+  ai_model: None → GPT-4
+  status: new → completed
+✓ File updated
+
+--- Processing: Am I boring you - Good.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → reference
+  topics: [] → ['power grids', 'electricity', 'alternating current', 'engineering', 'renewable energy', 'stability']
+  tags: ['new'] → ['grid', 'new', 'energy', 'tim-harford']
+✓ File updated
+
+--- Processing: Anaconda on R Pi.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['Virtual Environments', 'Raspberry Pi', 'Anaconda', 'Miniforge', 'Python', 'R', 'Package Management']
+  tags: ['github/python/virtenv'] → ['raspberrypi', 'conda', 'python', 'github/python/virtenv', 'miniforge']
+  technology_stack: [] → ['Python', 'R']
+  tools_used: [] → ['Miniforge', 'Anaconda', 'Conda']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Analysis of Donald Trump's Economic Policy Speech.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['inflation', 'Donald_Trump', 'political_economy', 'immigration', 'economics', 'energy_policy', 'US_politics']
+  tags: ['history/Turmp'] → ['economics', 'history/Turmp', 'political_analysis', 'history/Trump']
+  status: new → completed
+✓ File updated
+
+--- Processing: Analysis of Likely effect of Trump's Tariffs on imports..md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Trump', 'tariffs', 'economics', 'US policy', 'manufacturing', 'international relations', 'trade']
+  tags: ['new'] → ['new', 'Trump', 'tariffs', 'economics', 'policy', 'manufacturing', 'trade']
+  tools_used: [] → ['Trade Partnership Worldwide', 'USDA', 'PIIE', 'Deepseek R1', 'NBER']
+  ai_model: None → Deepseek R1
+✓ File updated
+
+--- Processing: Analysis Trump Speech August 16th 2024.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Political Speeches', 'Donald Trump', 'Economic Policy', 'AI Prompting']
+  tags: ['history/Turmp'] → ['ai-prompting', 'speech-analysis', 'economic-policy', 'political-analysis', 'history/Turmp', 'history/Trump']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Android TV on R Pi.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Streaming', 'Raspberry Pi', 'Android TV', 'Home Entertainment', 'Projector']
+  tags: ['IT/howto'] → ['projector', 'raspberrypi', 'streaming', 'androidtv', 'IT/howto', 'howto']
+  technology_stack: [] → ['Android TV', 'Raspberry Pi']
+  tools_used: [] → ['SD card']
+  status: new → completed
+✓ File updated
+
+--- Processing: annual health reviews etc.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → reference
+  topics: [] → ['annual review', 'patient communication', 'antibiotics', 'asthma', 'medication']
+  tags: ['new'] → ['churchmere medical group', 'new', 'patient', 'mr torrens']
+  status: new → completed
+✓ File updated
+
+--- Processing: Another sedco 445 version.md ---
+Changes suggested:
+  category: None → Maritime
+  note_type: None → research
+  topics: [] → ['Silver Coins', 'Sedco 445', 'Dynamic Positioning', 'Maritime History', 'ARAMCO', 'Deepwater Navigator', 'Drilling Ships', 'SS John Barry']
+  tags: ['WEBLOG/stories'] → ['ships', 'treasure', 'maritime', 'history', 'WEBLOG/stories', 'Saudi Arabia', 'drilling']
+  technology_stack: [] → ['dynamic positioning']
+  tools_used: [] → ['IFREMER video grab']
+  status: new → completed
+✓ File updated
+
+--- Processing: App for references.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → guide
+  topics: [] → ['Digital Tools', 'Productivity', 'Obsidian', 'Reference Management', 'Zotero']
+  tags: ['new'] → ['new', 'reference-management', 'Obsidian', 'productivity', 'Zotero']
+  tools_used: [] → ['Omnivore', 'YouTube', 'Obsidian', 'Zotero']
+✓ File updated
+
+--- Processing: Ar1000 turbine.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['turbines', 'maritime', 'engineering', 'tidal energy', 'renewable energy']
+  tags: ['tidal', 'Answer'] → ['Answer', 'tidal', 'Atlantis Resources', 'AR1000']
+  technology_stack: [] → ['tidal turbines', 'horizontal axis turbines']
+  tools_used: [] → ['Perplexity AI']
+  ai_model: None → Perplexity AI
+  status: new → completed
+✓ File updated
+
+--- Processing: Arduino LCD Module.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Programming', 'Display', 'LCD', 'Arduino', 'Electronics']
+  tags: ['new'] → ['new', 'LCD', '12864', 'u8glib', 'Arduino', 'u8g2']
+  technology_stack: [] → ['Arduino', 'C++']
+  tools_used: [] → ['Arduino IDE', 'u8g2 Library', 'u8glib Library']
+✓ File updated
+
+--- Processing: Are Openreach Site visits in need of an upgrade.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['FTTP', 'Troubleshooting', 'Openreach', 'ISP', 'Network Configuration', 'Authentication']
+  tags: [] → ['fault', 'connectivity', 'internet']
+  technology_stack: [] → ['FTTP', 'ONT', 'Router']
+  tools_used: [] → ['Plusnet Forum', 'Openreach System']
+  status: new → needs-review
+✓ File updated
+
+--- Processing: art installation At Design Museum July 2024.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → reference
+  topics: [] → ['art', 'Helsinki', 'exhibition', 'design', 'contemporary art', 'installation', 'Finland']
+  tags: ['Finland/summer24/DesignMuseum'] → ['Finland/summer24/DesignMuseum', 'Fantasman', 'Design Museum Helsinki', 'Sintti Henttu']
+  status: new → completed
+✓ File updated
+
+--- Processing: Attingham park.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → reference
+  topics: [] → ['Shropshire', 'Christmas', 'Festivals', 'National Trust', 'Attingham Park', 'Historic Houses']
+  tags: ['new'] → ['travel', 'england', 'new', 'christmas']
+✓ File updated
+
+--- Processing: Autism Dyslexia and ADHD Compared and General Good Health Advice.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → research
+  topics: [] → ['Neurodiversity', 'Autism', 'Cognitive Differences', 'Dyslexia', 'ADHD', 'Coping Mechanisms', 'Mental Health']
+  tags: ['flossy/mentalhealth'] → ['neurodiversity', 'flossy/mentalhealth', 'adhd', 'coping-strategies', 'autism', 'dyslexia']
+  status: new → completed
+✓ File updated
+
+--- Processing: Avoiding ProCrastination.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → guide
+  topics: [] → ['procrastination', 'note-taking', 'time management', 'productivity']
+  tags: ['flossy/getitdone'] → ['note-taking', 'flossy/getitdone', 'productivity']
+  tools_used: [] → ['Obsidian', 'OpenAI']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Bank of Dave Story.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → reference
+  topics: [] → ['Bank of Dave', 'Burnley', 'Film Adaptation', 'Real Life Story', 'Financial Crisis', 'Community Banking', 'Dave Fishwick']
+  tags: ['new'] → ['new', 'business', 'banking', 'film', 'biography', 'UK']
+✓ File updated
+
+--- Processing: Banning Social Media.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → research
+  topics: [] → ['Facebook', 'Instagram', 'TikTok', 'social media', 'Twitter', 'addiction', 'behavioral economics']
+  tags: ['flossy/TimHarford'] → ['flossy/TimHarford', 'behavioral-economics', 'social-media-usage']
+  tools_used: [] → ['Facebook', 'Instagram', 'Twitter', 'TikTok']
+  status: new → completed
+✓ File updated
+
+--- Processing: Bath Assembly Rooms..md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Leisure', 'Social History', 'Bath', 'Wealth', 'Georgian Era', 'Assembly Rooms']
+  tags: ['flossy/history'] → ['assembly-rooms', 'georgian', 'flossy/history', 'bath', 'social-history']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: BBC sunday 28th 2019 notes ref CNE.md ---
+Changes suggested:
+  category: None → Project
+  note_type: None → reference
+  topics: [] → ['local_government', 'shed', 'community', 'roofing', 'maintenance', 'building']
+  tags: ['WMIS'] → ['Whitchurch', 'CNE', 'WMIS']
+  status: new → archived
+✓ File updated
+
+--- Processing: Beard taxes and other lessons for Rachel Reeves.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → reference
+  topics: [] → ['Russia', 'Argentina', 'economics', 'film history', 'Ernest Borgnine', 'Tim Harford', 'taxation']
+  tags: ['flossy/TimHarford'] → ['flossy/TimHarford', 'historical_anecdotes', 'tax', 'beard tax']
+  status: new → completed
+✓ File updated
+
+--- Processing: Best AI for python 2024-07-13.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['AI', 'Python', 'AI Tools', 'Code Completion']
+  tags: ['github/Linux/howto'] → ['Code', 'Programming', 'github/Linux/howto', 'AI', 'Python', 'Tools']
+  technology_stack: [] → ['Python']
+  tools_used: [] → ['Ponicode', 'GitHub Copilot', 'Intellicode', 'Jedi', 'Amazon CodeWhisperer', 'Sourcegraph Cody', 'Tabnine']
+  ai_model: None → ['OpenAI Codex', 'Llama3']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Best LLM for R Pi 5 16GB.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Ollama', 'LLMs', 'AI Hardware', 'Raspberry Pi']
+  tags: ['LocalAI/Models'] → ['Raspberry Pi 5', 'Gemma', 'Phi-3', 'Ollama', 'LocalAI', 'Models', 'LocalAI/Models', 'LLMs', 'AI']
+  technology_stack: [] → ['Ollama']
+  tools_used: [] → ['Raspberry Pi 5', 'Ollama']
+  ai_model: None → ['Gemma 2 2B', 'Phi 3 Mini']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: best mobile at 35 and 37.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['UK', 'network speeds', 'mobile broadband', 'telecommunications']
+  tags: ['mobile'] → ['telecom', 'O2', 'EE', 'broadband', 'Three', 'Vodafone', 'mobile']
+  tools_used: [] → ['Ookla Speedtest', 'OpenSignal']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Best us of R Pi for AI.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['Raspberry Pi', 'Markdown', 'Obsidian', 'AI', 'Low Power Computing', 'Server']
+  tags: ['new'] → ['obsidian', 'raspberrypi', 'new', 'server', 'ai', 'markdown']
+  technology_stack: [] → ['Raspberry Pi OS', 'Linux']
+  tools_used: [] → ['SSH', 'VNC']
+✓ File updated
+
+--- Processing: Beware Giffen-ish vibes in the money markets.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → research
+  topics: [] → ['money markets', 'Robert Giffen', 'economics', 'Giffen goods', 'Alfred Marshall']
+  tags: ['new'] → ['market_behavior', 'new', 'economics', 'historical_economics']
+✓ File updated
+
+--- Processing: Bidens miss speaks.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → research
+  topics: [] → ['cognitive decline', 'Joe Biden', 'aging', 'health', 'politics', 'mental health']
+  tags: ['flossy/history'] → ['cognitive decline', 'Joe Biden', 'aging', 'health', 'flossy/history', 'politics']
+  status: new → completed
+✓ File updated
+
+--- Processing: Billy Bragg on Trump.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['US Politics', 'Donald Trump', 'Political Commentary', 'Conservative Movement', 'Approval Ratings']
+  tags: ['trumo-musk'] → ['donald-trump', 'us-politics', 'political-commentary', 'trumo-musk', 'conservative-politics']
+  status: new → completed
+✓ File updated
+
+--- Processing: Bird Box Designs.md ---
+Changes suggested:
+  category: None → Project
+  note_type: None → research
+  topics: [] → ['bird boxes', 'DIY', 'wildlife', 'ornithology', 'birdhouses']
+  tags: ['shed/birdbox'] → ['shed/birdbox', 'diy', 'wildlife']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Birdboxes with Cameras.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['security', 'DIY', 'wildlife', 'birdwatching', 'electronics']
+  tags: ['new'] → ['raspberrypi', 'new', 'diy', 'motioneye', 'camera', 'birdcam']
+  technology_stack: [] → ['Raspberry Pi Zero W', 'Python']
+  tools_used: [] → ['Instructables', 'Raspberry Pi Forums', 'MotionEyeOS']
+✓ File updated
+
+--- Processing: BirdCam with R Pi Legacy OS and picamera module.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Picamera', 'Raspberry Pi', 'Camera', 'Picamera2', 'Python', 'Legacy OS']
+  tags: ['new'] → ['raspberrypi', 'new', 'camera', 'legacy', 'picamera', 'birdcam']
+  technology_stack: [] → ['CSI Camera', 'Raspberry Pi OS', 'Python']
+  tools_used: [] → ['pip', 'apt-get', 'raspi-config']
+✓ File updated
+
+--- Processing: Bookshelf with books..md ---
+Changes suggested:
+  category: None → Project
+  note_type: None → idea
+  topics: [] → ['DIY', 'design', 'bookshelves', 'home improvement', 'crafts']
+  tags: ['new'] → ['new', 'DIY', 'creative', 'shelves', 'design', 'books']
+✓ File updated
+
+--- Processing: Boys from the Blackstuff.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → reference
+  topics: [] → ['Liverpool', 'British Television', 'Social Realism', 'Boys from the Blackstuff', 'James Graham', 'Alan Bleasdale', 'Stage Adaptation', 'The Lowry Theatre', 'Thatcherism']
+  tags: ['new'] → ['television', 'new', 'theatre', 'social commentary']
+✓ File updated
+
+--- Processing: Boys from the Blackstuff2.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → reference
+  topics: [] → ['Liverpool', 'British Television', 'Social Realism', 'Boys from the Blackstuff', 'James Graham', 'Alan Bleasdale', 'Stage Adaptation', 'The Lowry Theatre', 'Thatcherism']
+  tags: ['new'] → ['new', 'theatre', 'british history', 'social commentary', 'television']
+✓ File updated
+
+--- Processing: Building a Python UI for TAPO Smart Plug Power Monitoring.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['tapo', 'power monitoring', 'python', 'smart home', 'ui']
+  tags: [] → ['tapo', 'python', 'ui', 'smartplug', 'tkinter']
+  technology_stack: [] → ['python', 'tkinter']
+  tools_used: [] → ['pip', 'PyP100']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Building make4LLM.py.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → documentation
+  topics: [] → ['OCR', 'PDF processing', 'Python scripting', 'Text extraction', 'Markdown conversion']
+  tags: ['python/obsidian'] → ['ocr', 'python/obsidian', 'python', 'pdf', 'localAI', 'markdown', 'text-extraction']
+  technology_stack: [] → ['pymupdf4llm', 'PIL', 'Python', 'pytesseract']
+  tools_used: [] → ['pymupdf4llm', 'PIL', 'Python', 'pytesseract']
+  ai_model: None → Anthropic Claude 3.5 Sonnet
+  status: new → in-progress
+✓ File updated
+
+--- Processing: C S Lewis journey from Atheism to Faith.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Atheism', 'Philosophy of Religion', 'Autobiography', 'Mere Christianity', 'Christianity', 'Moral Philosophy', 'C.S. Lewis']
+  tags: ['philosophy'] → ['philosophy', 'religion', 'conversion', 'biography', 'faith']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Can an AI recognise Sarcasm.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Natural Language Processing', 'Communication', 'Multimodal Analysis', 'Sarcasm Detection', 'Artificial Intelligence']
+  tags: ['flossy/AI'] → ['sarcasm', 'NLP', 'multimodal', 'flossy/AI', 'AI']
+  tools_used: [] → ['MUStARD dataset']
+  ai_model: None → Not specified
+✓ File updated
+
+--- Processing: Can economic growth still make us happy.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['Easterlin paradox', 'wellbeing', 'social science', 'economics', 'happiness']
+  tags: ['new'] → ['new', 'easterlin-paradox', 'economics', 'happiness', 'tim-harford']
+  tools_used: [] → ['World Happiness Report', 'Can We Be Happier? (book)']
+✓ File updated
+
+--- Processing: Can we ‘nudge’ our way to higher growth.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['nudging', 'behavioural insight', 'growth', 'economics', 'public policy', 'behavioral economics']
+  tags: ['economic'] → ['growth', 'economic', 'policy', 'nudges', 'behavioral']
+  status: new → completed
+✓ File updated
+
+--- Processing: Canal Boat 2025.md ---
+Changes suggested:
+  category: None → Maritime
+  note_type: None → reference
+  topics: [] → ['confirmation', 'canal boat', 'marina', 'holiday', 'booking']
+  tags: ['new'] → ['ar000792', 'new', '150748', 'hilperton marina', 'canalboat club', 'kakariki']
+  tools_used: [] → ['Adobe Reader']
+  project: None → None
+  status: new → completed
+✓ File updated
+
+--- Processing: Canal Restoration Projects to compare WWT to.md ---
+Changes suggested:
+  category: None → Maritime
+  note_type: None → reference
+  topics: [] → ['canal restoration', 'waterways', 'canals', 'Shrewsbury and Newport Canals', 'Stroudwater Navigation', 'Thames and Severn Canal']
+  tags: ['new'] → ['new', 'canal restoration', 'UK waterways']
+✓ File updated
+
+--- Processing: Cara NCU.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['Intel Nova Lake', 'AI Hardware', 'Local AI', 'NPU', 'mini PC', 'Intel Panther Lake']
+  tags: ['Questio', 'CaraPC'] → ['Questio', 'Hardware', 'CaraPC', 'AI', 'Timeline', 'Planning']
+  technology_stack: [] → ['NPU', 'mini PC', 'Intel CPUs']
+  tools_used: [] → ['Perplexity AI']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Carbon monoxide detector requirements for balanced flue gas boilers in England.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → guide
+  topics: [] → ['CO detectors', 'carbon monoxide', 'home safety', 'balanced flue', 'gas boilers', 'England', 'landlord regulations']
+  tags: ['CO2detectors'] → ['landlord', 'home', 'CO2detectors', 'UK', 'legal']
+  status: new → completed
+✓ File updated
+
+--- Processing: Change RPi user.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Security', 'Raspberry Pi', 'User Management', 'Linux']
+  tags: ['github/RPI/setup'] → ['RPI', 'usermod', 'github/RPI/setup', 'Linux']
+  technology_stack: [] → ['Raspberry Pi OS', 'Linux']
+  tools_used: [] → ['passwd', 'SSH', 'usermod']
+  status: new → reference
+✓ File updated
+
+--- Processing: Changing R Pi 5 Desktop and then VNC Connection.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Raspberry Pi', 'Touchscreen', 'Linux', 'Desktop Environment', 'KDE Plasma']
+  tags: [] → ['raspberrypi', 'desktop', 'touchscreen', 'kde', 'rpi5']
+  technology_stack: [] → ['Raspberry Pi OS', 'Bash', 'Linux']
+  tools_used: [] → ['sudo', 'apt']
+  status: new → completed
+✓ File updated
+
+--- Processing: Chat about Whitchurch Shed Safety Policy.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → documentation
+  topics: [] → ['men in sheds', 'safety', 'shed', 'risk management', 'policy', 'whitchurch']
+  tags: ['shed/safety'] → ['health-and-safety', 'policy', 'men-in-sheds', 'shed/safety', 'whitchurch']
+  status: new → completed
+✓ File updated
+
+--- Processing: Chat to Extract Info From Makers Muser Video.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Ender 3 V2', 'Troubleshooting', '3D Printing', 'Maintenance', 'Makers Muse']
+  tags: ['new'] → ['new', 'Ender 3 V2', 'Troubleshooting', '3D Printing', 'Makers Muse']
+  technology_stack: [] → ['Marlin (firmware)']
+  tools_used: [] → ['Slicer Software']
+✓ File updated
+
+--- Processing: chat with Gemini about A beutiful Mind.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Nobel Prize', 'Game Theory', 'John Nash', 'Abel Prize', 'Mathematics', 'Biographies', 'A Beautiful Mind', 'Mental Health']
+  tags: ['new'] → ['biography', 'Gemini', 'new', 'film']
+  status: new → completed
+  ai_model: None → Gemini
+✓ File updated
+
+--- Processing: Check of reviews AI plugins.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Productivity', 'Obsidian', 'Knowledge Management', 'ChatGPT', 'AI Plugins']
+  tags: ['new'] → ['new', 'Obsidian', 'AI', 'Plugins', 'Review']
+  tools_used: [] → ['ChatGPT', 'Obsidian', 'Azure', 'OpenAI']
+  ai_model: None → ['ChatGPT', 'GPT-4']
+  status: new → completed
+✓ File updated
+
+--- Processing: Checking on SystemSculpt.com domain status..md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['domains', 'internet', 'DNS', 'WHOIS']
+  tags: ['new'] → ['new', 'internet', 'SystemSculpt', 'domains', 'technical']
+  tools_used: [] → ['WHOIS.com', 'ICANN Lookup', 'Sysinternals', 'PowerShell', 'Namecheap WHOIS', 'WHOIS']
+  status: new → completed
+✓ File updated
+
+--- Processing: checkout CoPilot for non profits.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['Productivity', 'Nonprofits', 'AI', 'Microsoft 365', 'Grants', 'Microsoft Copilot']
+  tags: ['system/AIchat'] → ['nonprofit', 'microsoft365', 'productivity', 'copilot', 'system/AIchat', 'ai']
+  technology_stack: [] → ['Microsoft 365']
+  tools_used: [] → ['Microsoft Admin Center']
+  ai_model: None → Microsoft Copilot
+✓ File updated
+
+--- Processing: Choosing Correct Marlin Configuration for Monoprice Mini V2.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Malyan M200', '3D Printing', 'Monoprice Mini V2', 'Marlin Firmware']
+  tags: [] → ['Configuration', 'Firmware', 'Marlin', '3D Printer']
+  technology_stack: [] → ['Marlin Firmware', 'C++']
+  tools_used: [] → ['GitHub', '3DWork.io']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Claims about USAid.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['fact-checking', 'Hungary', 'USAID', 'Viktor Orbán', 'international aid', 'political disinformation', 'media funding']
+  tags: ['misinformation'] → ['international relations', 'political propaganda', 'misinformation', 'foreign policy']
+  tools_used: [] → ['USASpending.gov', 'X (formerly Twitter)']
+  status: new → completed
+✓ File updated
+
+--- Processing: claude  3.7 sonnet solution.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → documentation
+  topics: [] → ['Docker', 'Ollama', 'Proxy', 'WebUI', 'Configuration', 'Nginx']
+  tags: ['new'] → ['nginx', 'new', 'ollama', 'troubleshooting', 'docker', 'proxy', 'webui']
+  technology_stack: [] → ['Docker', 'YAML', 'Nginx']
+  tools_used: [] → ['Docker', 'Claude', 'YAML', 'Nginx']
+  ai_model: None → Claude 3.7
+  status: new → completed
+✓ File updated
+
+--- Processing: Cleaning 3D Printer PEI Baseplate.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Cleaning', '3D Printing', 'Maintenance', 'PEI Baseplate']
+  tags: ['github/3dprintHowTo'] → ['PEI', '3D Printing', 'Maintenance', 'github/3dprintHowTo', 'Cleaning', 'Acetone', 'Isopropyl Alcohol']
+  technology_stack: [] → ['3D Printers']
+  tools_used: [] → ['Dish Soap', 'Acetone', 'Isopropyl Alcohol', 'Lint-free cloth']
+  status: new → completed
+✓ File updated
+
+--- Processing: Cloudflare.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['Cloudflare', 'Performance', 'Web Security', 'Reverse Proxy', 'Network Infrastructure']
+  tags: [] → ['cloudflare', 'security', 'network', 'outage', 'performance']
+  technology_stack: [] → ['Cloudflare']
+  tools_used: [] → ['Cloudflare Dashboard', 'WARP']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: code in ai course.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['AI', 'OpenAI', 'Python', 'ChatGPT', 'Django', 'API', 'Tkinter']
+  tags: ['new'] → ['new', 'course', 'discount', 'python', 'ai', 'promotion']
+  technology_stack: [] → ['Python', 'Tkinter', 'Django']
+  tools_used: [] → ['OpenAI API', 'ChatGPT']
+  ai_model: None → ChatGPT
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Code to get contents of GitHub repo.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → documentation
+  topics: [] → ['GitHub', 'Markdown', 'Python', 'Automation', 'API']
+  tags: ['new'] → ['Python', 'GitHub', 'new', 'API']
+  technology_stack: [] → ['requests', 'Python', 'GitHub API']
+  tools_used: [] → ['urllib', 'requests', 'Python', 'yaml']
+✓ File updated
+
+--- Processing: Compareing Embedding and RAG.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Embeddings', 'Obsidian', 'RAG', 'SystemSculpt AI', 'AI']
+  tags: ['new'] → ['rag', 'AI', 'new', 'embeddings']
+  technology_stack: [] → ['Obsidian', 'SystemSculpt AI']
+  tools_used: [] → ['Obsidian', 'SystemSculpt AI']
+✓ File updated
+
+--- Processing: Comparing Performance of Windows 11 WSL and Native Linux.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['benchmarking', 'Linux', 'Windows', 'WSL', 'performance']
+  tags: ['Linux'] → ['benchmarking', 'Linux', 'Windows 11', 'WSL', 'performance']
+  technology_stack: [] → ['Linux', 'Python', 'C/C++', 'Windows 11', 'WSL']
+  tools_used: [] → ['Sysbench', 'Phoronix Test Suite']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Comprehensive Guide to Using Ollama After Installation.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['LLM', 'local AI', 'ollama', 'AI', 'language models']
+  tags: ['IT/howto/ollama'] → ['IT/howto/ollama', 'AI', 'ollama', 'LLM']
+  technology_stack: [] → ['command line']
+  tools_used: [] → ['ollama']
+  ai_model: None → ['gemma2', 'llama3']
+  status: new → completed
+✓ File updated
+
+--- Processing: Connect Eufy Homebase to WiFi.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['home automation', 'eufy', 'HomeBase', 'networking', 'WiFi']
+  tags: ['homeSecurity'] → ['homeSecurity', 'networking', 'WiFi', 'eufy']
+  technology_stack: [] → ['WiFi', 'Ethernet']
+  tools_used: [] → ['eufy Clean App']
+  status: new → completed
+✓ File updated
+
+--- Processing: Connect RPi - Laptop with network cable.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['SSH', 'Raspberry Pi', 'Ethernet', 'Linux', 'Networking']
+  tags: ['new'] → ['ethernet', 'raspberrypi', 'new', 'ssh', 'tutorial', 'linux', 'networking']
+  technology_stack: [] → ['Windows', 'Raspberry Pi OS']
+  tools_used: [] → ['MobaXterm', 'raspi-config', 'PuTTY']
+✓ File updated
+
+--- Processing: Connecting Python to Obsidian.md ---
+Changes suggested:
+  category:  → Technical
+  note_type:  → guide
+  topics: [] → ['Obsidian', 'Python', 'Integration']
+  tags: [] → ['obsidian', 'python', 'programming']
+  technology_stack: [] → ['Python']
+  tools_used: [] → ['Obsidian']
+  project:  → Connecting Python to Obsidian
+✓ File updated
+
+--- Processing: Connecting to Ramps 1.4.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Wiring', '3D Printing', 'Thermistor', 'Arduino', 'Electronics', 'RAMPS 1.4']
+  tags: ['new', 'RAMPS_dossier.pdf'] → ['new', 'Wiring', 'Dupont Connector', 'RAMPS_dossier.pdf', 'Arduino', 'RAMPS 1.4']
+  technology_stack: [] → ['Arduino', 'RAMPS 1.4']
+  tools_used: [] → ['Crimping Tool', 'Needle-Nose Pliers']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Connectng to P Pi with Network Cable.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['SSH', 'Raspberry Pi', 'Ethernet', 'Windows', 'IP Addressing', 'Networking', 'Internet Sharing', 'VNC']
+  tags: ['new'] → ['ethernet', 'raspberrypi', 'new', 'networking', 'windows']
+  technology_stack: [] → ['Windows', 'Raspberry Pi 5']
+  tools_used: [] → ['SSH', 'VNC']
+  status: new → completed
+✓ File updated
+
+--- Processing: Converting CD Video.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['conversion', 'CD', 'USB', 'DVD', 'video']
+  tags: ['new'] → ['new', 'dvd', 'cd', 'conversion', 'usb', 'video']
+  tools_used: [] → ['MakeMKV', 'Handbrake', 'VLC']
+✓ File updated
+
+--- Processing: CoPilot v Waiver for Obsidian.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → reference
+  topics: [] → ['Obsidian', 'Knowledge Management', 'ChatGPT', 'AI', 'Plugins']
+  tags: ['SYSTEM/obsidian/howto'] → ['obsidian', 'SYSTEM/obsidian/howto', 'plugins', 'copilot', 'chatgpt', 'waiver']
+  technology_stack: [] → ['ChatGPT', 'Obsidian']
+  tools_used: [] → ['Obsidian Waiver', 'YouTube', 'Obsidian', 'Obsidian Co-pilot']
+  ai_model: None → ['GPT-3.5', 'GPT-4', 'GPT-3.5 turbo', 'GPT-3.5 turbo 0301']
+  status: new → completed
+✓ File updated
+
+--- Processing: Core Note Finland V U On Governance.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Government Performance', 'Governance', 'Comparative Politics', 'Political Science', 'Voting Systems', 'UK', 'Finland']
+  tags: ['flossy/governance'] → ['Governance', 'Comparative Politics', 'UK', 'flossy/governance', 'Political Systems', 'Finland']
+  tools_used: [] → ['Citation', 'Obsidian', 'Dataview']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Cost of Green Energy.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['cost analysis', 'renewable energy', 'electricity', 'solar power', 'economics', 'energy', 'wind power']
+  tags: [] → ['solar', 'wind', 'renewable', 'LCOE', 'energy', 'cost']
+  status: new → completed
+✓ File updated
+
+--- Processing: Cost of Warfare.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Military Strategy', 'Intelligence', 'Israel', 'Surveillance', 'Hezbollah', 'Missiles', 'Warfare', 'Lebanon']
+  tags: ['war'] → ['security', 'middle east', 'conflict', 'war', 'geopolitics']
+  tools_used: [] → ['CNN', 'CSIS']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Coyote.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → note
+  topics: [] → ['names', 'identity', 'narrative', 'travel', 'humor']
+  tags: ['jmcg/verseandworse'] → ['short-story', 'jmcg/verseandworse', 'character-study']
+  status: new → completed
+✓ File updated
+
+--- Processing: Creality Email reply re USB problem..md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → reference
+  topics: [] → ['Troubleshooting', '3D Printing', 'USB', 'Firmware', 'Creality', 'Customer Support']
+  tags: ['github/3dprintHowTo'] → ['usb-problem', 'creality', 'github/3dprintHowTo', 'firmware-update', 'customer-support']
+  technology_stack: [] → ['Creality 3D Printer']
+  tools_used: [] → ['Creality Website', 'Gmail']
+  status: new → completed
+✓ File updated
+
+--- Processing: Creality Reply Ref USB.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → documentation
+  topics: [] → ['Ender 3 V2', '3D Printing', 'Creality', 'Firmware', 'USB Power']
+  tags: ['github/3dprintHowTo'] → ['github/3dprintHowTo', 'PowerBlocker', 'Creality', 'USB', 'UserManual', 'FirmwareCorruption', 'Ender3V2']
+  technology_stack: [] → ['USB', 'Firmware']
+  tools_used: [] → ['YouTube', 'Google Drive', 'Amazon', 'Perplexity AI']
+  status: new → completed
+✓ File updated
+
+--- Processing: Creating a Mode Switcher Module in Flask for RPi Project.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → documentation
+  topics: [] → ['raspberrypi', 'web development', 'flask', 'python', 'mode switching', 'dropdown menu']
+  tags: ['github/python/flask'] → ['github/python/flask', 'raspberrypi', 'web-app']
+  technology_stack: [] → ['flask', 'python']
+  tools_used: [] → ['flask', 'python']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Curacao Versre.md ---
+Changes suggested:
+  category: None → Maritime
+  note_type: None → log
+  topics: [] → ['Caribbean', 'seafaring', 'tanker', 'shipping', 'social commentary', 'Curacao', 'Willemstad']
+  tags: ['jmcg/verseandworse'] → ['jmcg/verseandworse', 'maritime', 'personal', '1960s', 'travel']
+  status: new → archived
+✓ File updated
+
+--- Processing: Custom Css For Shed Website.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['joomla', 'web development', 'css', 'website customization', 'fonts']
+  tags: ['WEBLOG/howto'] → ['joomla', 'web', 'css', 'WEBLOG/howto', 'men-in-sheds', 'fonts', 'nina-template']
+  technology_stack: [] → ['joomla', 'css']
+  tools_used: [] → ['joomla admin panel']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Daniel Miessler How to Create Custom Fabric Patterns.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['fabric', 'patterns', 'development', 'customization']
+  tags: ['system/fabric/howto'] → ['tutorial', 'programming', 'system/fabric/howto']
+  technology_stack: [] → ['fabric']
+  tools_used: [] → ['youtube', 'terminal']
+✓ File updated
+
+--- Processing: DC Generators Tidal Turbines.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['power generation', 'dc generators', 'hydroelectric power', 'tidal energy', 'renewable energy']
+  tags: ['jmcg'] → ['dc', 'renewable', 'tidal', 'energy', 'generators', 'jmcg']
+  technology_stack: [] → ['diode bridge', 'dc generators', 'dc-dc converter']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Defining Obsidian Use Cases.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['Productivity', 'Obsidian', 'Knowledge Management', 'Use Cases', 'User Research']
+  tags: ['new'] → ['obsidian', 'new', 'research', 'user-research']
+  tools_used: [] → ['Obsidian']
+✓ File updated
+
+--- Processing: Deservedness for Benifits.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['benefits', 'stigma', 'deservingness', 'UK', 'social welfare', 'social policy']
+  tags: ['new'] → ['social', 'new', 'policy']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Diet for those had gall bladder removed and relationship to Gout.md ---
+Changes suggested:
+  category:  → Health
+  note_type:  → research
+  topics: [] → ['health', 'gout', 'diet', 'gallbladder']
+  tags: [] → ['health', 'gout', 'diet', 'gallbladder']
+✓ File updated
+
+--- Processing: Diet Notes from Mitchell to Check Out.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → reference
+  topics: [] → ['heart health', 'diet', 'nutrition', 'healthy eating', 'diabetes']
+  tags: ['flossy/diet'] → ['flossy/diet', 'external-links', 'reference']
+  tools_used: [] → ['Outlook']
+  status: new → completed
+✓ File updated
+
+--- Processing: Diet with Gall bladder removed.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → guide
+  topics: [] → ['diet', 'health', 'gallbladder', 'nutrition', 'digestion']
+  tags: ['gallBladder'] → ['post-surgery', 'nutrition', 'dietary-restrictions', 'gallBladder']
+  status: new → completed
+✓ File updated
+
+--- Processing: Differenced Typescript and JavaScript.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → reference
+  topics: [] → ['Programming Languages', 'JavaScript', 'TypeScript', 'Web Development']
+  tags: ['otherLanguages'] → ['otherLanguages', 'TypeScript', 'webdev', 'programming', 'JavaScript']
+  technology_stack: [] → ['JavaScript', 'TypeScript']
+  status: new → completed
+✓ File updated
+
+--- Processing: Differences between a Licence and a Lease.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → guide
+  topics: [] → ['property law', 'real estate', 'contracts', 'legal terms']
+  tags: [] → ['rental agreement', 'lease', 'licence']
+  status: new → completed
+✓ File updated
+
+--- Processing: DIY Wooden Fence Post Caps.md ---
+Changes suggested:
+  category: None → Project
+  note_type: None → research
+  topics: [] → ['garden', 'DIY', 'woodworking', 'fences']
+  tags: ['new'] → ['new', 'post_caps', 'wood']
+  tools_used: [] → ['miter saw', 'table saw', 'router']
+✓ File updated
+
+--- Processing: Do you want the good feedback, or the bad feedback.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → research
+  topics: [] → ['learning', 'feedback', 'behavioral_economics', 'psychology', 'mistakes']
+  tags: ['new'] → ['new', 'feedback_bias', 'one-way_street', 'tim_harford']
+✓ File updated
+
+--- Processing: Doc on WMIS barclays.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → documentation
+  topics: [] → ['Notifications', 'Security', 'Documents', 'Online Banking', 'Barclays', 'Statements']
+  tags: ['new'] → ['new', 'email', 'notifications', 'statements', 'Barclays', 'online-banking']
+  tools_used: [] → ['Barclays app', 'Barclays Online Banking']
+✓ File updated
+
+--- Processing: docker commands for start stop.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Docker Compose', 'Docker', 'Scripting', 'Command Line']
+  tags: [] → ['compose', 'scripting', 'docker', 'automation']
+  technology_stack: [] → ['Docker', 'Bash', 'Batch']
+  tools_used: [] → ['Docker Compose', 'NPM', 'Make']
+  status: new → completed
+✓ File updated
+
+--- Processing: DOGE not saving Money.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Tax Revenue', 'DOGE', 'Elon Musk', 'US Government', 'Economic Impact', 'Federal Workforce', 'Fiscal Policy']
+  tags: ['new'] → ['new', 'economics', 'policy', 'finance', 'government']
+✓ File updated
+
+--- Processing: Doing proper set up on R Pi 5 for pinggy tunnel.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['raspberrypi', 'networking', 'remote-access', 'tunneling', 'pinggy']
+  tags: ['new'] → ['raspberrypi', 'new', 'tmux', 'networking', 'tunnel', 'systemd', 'pinggy']
+  technology_stack: [] → ['ssh', 'bash', 'systemd', 'tmux']
+  tools_used: [] → ['nano', 'ssh', 'systemctl', 'tmux']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: DVT Deep Vein Thrombosis.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → reference
+  topics: [] → ['deep vein thrombosis', 'causes', 'DVT', 'symptoms', 'medical conditions', 'blood clots', 'pulmonary embolism']
+  tags: ['healrh/myrightlegproblem'] → ['healrh/myrightlegproblem', 'thrombosis', 'medical', 'health/myrightlegproblem']
+  ai_model: None → Copilot
+  status: new → completed
+✓ File updated
+
+--- Processing: Economists Discus the Trump Biden Debate.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Trump', 'Politics', 'Debate Analysis', 'Economics', 'US Elections', 'Biden']
+  tags: ['Trump'] → ['Trump', 'Debate', 'Economics', '2024 Election', 'Biden']
+  status: new → completed
+✓ File updated
+
+--- Processing: Edinburgh Best Jokes 2024.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → reference
+  topics: [] → ['comedy', 'jokes', 'Edinburgh Fringe', 'UK', 'humor']
+  tags: ['njokes'] → ['fringe', 'edinburgh', 'njokes', '2024']
+  status: new → completed
+✓ File updated
+
+--- Processing: Edit this Chats about Models for Ollama.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → reference
+  topics: [] → ['AI', 'LLMs', 'Language Models', 'Ollama']
+  tags: ['new'] → ['new', 'Ollama', 'models', 'LLMs', 'AI']
+  tools_used: [] → ['OpenAI API', 'Hugging Face Model Hub', 'Perplexity AI', 'Google Cloud AI Platform']
+  ai_model: None → ['GPT-4', 'LLaMA', 'Perplexity Model', 'PaLM 2', 'LLaMa-7B', 'GPT-J-6B']
+✓ File updated
+
+--- Processing: Effective Dyslexia-Friendly Study Strategies.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → guide
+  topics: [] → ['dyslexia', 'learning strategies', 'study skills', 'accessibility']
+  tags: ['flossy/howtostudy'] → ['dyslexia', 'flossy/howtostudy', 'learning-disabilities']
+  tools_used: [] → ['mind maps', 'text-to-speech software', 'speech-to-text software', 'digital devices']
+  ai_model: None → GPT-4
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Ego and AI.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Ethics', 'Freud', 'Artificial Intelligence', 'Ego', 'Jung', 'AI', 'Superintelligence', 'Psychology']
+  tags: ['SYSTEM/flossy'] → ['AI_ML', 'Philosophy', 'SYSTEM/flossy']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Elon Musk is wrong about GDP.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['Government Spending', 'GDP', 'Economics', 'Keynesian Economics', 'Elon Musk']
+  tags: ['new'] → ['elon-musk', 'new', 'economics', 'tim-harford', 'gdp']
+✓ File updated
+
+--- Processing: Email Clients.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['email clients', 'software', 'email', 'productivity']
+  tags: ['new'] → ['new', 'email', 'productivity', 'comparison', 'software']
+  tools_used: [] → ['ProtonMail', 'Microsoft Outlook', 'Thunderbird', 'BlueMail', 'Gmail', 'Mailbird']
+✓ File updated
+
+--- Processing: Email from Penny.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → reference
+  topics: [] → ['dementia', 'Bristol', 'pregnancy', 'doula', 'advice', 'birth', 'family']
+  tags: [] → ['client_potential', 'email', 'family_support']
+✓ File updated
+
+--- Processing: email to JMcG aug0524.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → note
+  topics: [] → ['Argentina', 'shed', 'wealth', 'humor', 'Brazil', 'poetry', 'community']
+  tags: ['new'] → ['Maurice Quinn', 'new', 'Whitchurch Shed', 'poetry']
+  tools_used: [] → ['AI', 'perplexity.ai']
+  status: new → completed
+✓ File updated
+
+--- Processing: embrace action not inaction.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → guide
+  topics: [] → ['procrastination', 'self-improvement', 'inaction', 'action', 'creative process', 'ADHD', 'motivation']
+  tags: ['new'] → ['procrastination', 'new', 'creative', 'ADHD', 'motivation']
+✓ File updated
+
+--- Processing: Ender 3 V 2 Printing Problems.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → documentation
+  topics: [] → ['Ender 3 V2', 'Configuration', '3D Printing', 'Firmware']
+  tags: ['new'] → ['new', 'configuration', 'troubleshooting', 'firmware', 'printer']
+  technology_stack: [] → ['Creality Ender 3 V2']
+  status: new → completed
+✓ File updated
+
+--- Processing: Ender 3 V2 Muse by Makers Muse.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Ender 3 V2', '3D Printing', 'FDM', 'FFF', 'Printer Recommendations']
+  tags: ['github/3dprintHowTo'] → ['github/3dprintHowTo', 'MakersMuse', 'Ender3V2', '3DPrinting']
+  technology_stack: [] → ['3D Printers']
+  tools_used: [] → ['MakersMuse Website', 'YouTube']
+  status: new → completed
+✓ File updated
+
+--- Processing: Energy in Water Stream.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['fluid mechanics', 'water', 'energy', 'tidal energy']
+  tags: ['new'] → ['new', 'calculations', 'physics', 'engineering']
+  status: new → completed
+✓ File updated
+
+--- Processing: Enhancing User Profile for Optimal AI Interaction in Obsidian.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['Home Automation', 'Obsidian', 'SystemSculpt', 'AI', 'Python', 'User Profile', 'Prompt Engineering']
+  tags: ['system/AIchat'] → ['system/AIchat', 'AI-interaction', 'user-profile']
+  technology_stack: [] → ['Obsidian', 'Python']
+  tools_used: [] → ['Gemini Pro 1.5', 'Home Assistant', 'SystemSculpt']
+  ai_model: None → Gemini Pro 1.5
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Equivalents for Python modules for pdf2txt py.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → reference
+  topics: [] → ['pymupdf4llm', 'OCR', 'PDF processing', 'TypeScript', 'Python', 'pytesseract']
+  tags: ['new'] → ['new', 'typescript', 'ocr', 'python', 'pdf']
+  technology_stack: [] → ['Python', 'JavaScript', 'TypeScript']
+  tools_used: [] → ['tesseract.js', 'pdfjs-dist', 'pymupdf4llm', 'pdf-lib', 'pytesseract']
+✓ File updated
+
+--- Processing: Essential Keyboard Shortcuts and Tips for Obsidian.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['shortcuts', 'Obsidian', 'tips', 'productivity']
+  tags: ['SYSTEM/obsidian/howto'] → ['shortcuts', 'SYSTEM/obsidian/howto', 'tips', 'productivity']
+  tools_used: [] → ['Rollover Daily Todos', 'Obsidian', 'Templater', 'Google Calendar']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Estate Agent in Manchester for Cara's flat.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → reference
+  topics: [] → ['trust', 'Cara', 'estate agent', 'rental property', 'Manchester', 'probate']
+  tags: ['HANNA'] → ['trust', 'Manchester', 'HANNA', 'probate', 'rental']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Estonian History Museo notes.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Currencies', 'Estonia', 'Museums', 'Viking Age', 'Estonian History']
+  tags: ['Estonia'] → ['Estonia', 'viking', 'museum']
+✓ File updated
+
+--- Processing: Everyone can't earn their pay rise by increasing productivity.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['education', 'Haydn', 'healthcare', 'economics', 'productivity', 'social care', "Baumol's cost disease", 'performing arts']
+  tags: ['new'] → ['new', 'economics', 'productivity', "Baumol's cost disease", 'Tim Harford']
+✓ File updated
+
+--- Processing: Example of AI introspection.md ---
+Changes suggested:
+  category:  → AI_ML
+  note_type:  → note
+  topics: [] → ['AI', 'AI safety', 'introspection', 'reasoning']
+  tags: [] → ['personal', 'AI', 'introspection']
+  ai_model: None → unknown
+✓ File updated
+
+--- Processing: Exercise for Asthma.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → guide
+  topics: [] → ['asthma', 'pulmonary rehabilitation', 'physical fitness', 'exercise', 'breathing techniques']
+  tags: ['flossy/health'] → ['exercise', 'asthma', 'flossy/health']
+  tools_used: [] → ['email client']
+  status: new → reference
+✓ File updated
+
+--- Processing: Exploration of Mars by NASA Probes Unveiling the Red Planets Mysteries.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → reference
+  topics: [] → ['solar system', 'NASA', 'Mars exploration', 'planets', 'space probes']
+  tags: ['new'] → ['new', 'NASA', 'planets', 'exploration', 'Mars', 'space']
+  status: new → completed
+✓ File updated
+
+--- Processing: Exploring the History and Highlights of the Western Kennet and Avon Canal.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → guide
+  topics: [] → ['Kennet and Avon Canal', 'Waterways', 'Devizes', 'Tourism', 'Crofton', 'Canal History', 'Bradford on Avon', 'Industrial Revolution']
+  tags: ['flossy/history'] → ['uk', 'flossy/history', 'travel', 'canals', 'heritage']
+  status: new → completed
+✓ File updated
+
+--- Processing: fairly useful from mistral nemo on german green stuff.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['wind turbines', 'e-commerce', 'Germany', 'renewable energy', 'solar panels', 'energy storage']
+  tags: ['jmcg/germany'] → ['wind', 'solar', 'renewable-energy', 'jmcg/germany', 'e-commerce']
+  tools_used: [] → ['Real.de', 'Amazon.de', 'eBay.de']
+  status: new → completed
+✓ File updated
+
+--- Processing: False Ceiling for Shed Machine Shop.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['workshop', 'construction', 'insulation', 'shed', 'energy efficiency', 'ceiling']
+  tags: ['new'] → ['workshop', 'new', 'construction', 'insulation', 'shed', 'energy efficiency', 'ceiling']
+  tools_used: [] → ['TrustATrader']
+✓ File updated
+
+--- Processing: Features for Ideal Seat.md ---
+Changes suggested:
+  category: None → Project
+  note_type: None → idea
+  topics: [] → ['park', 'seating', 'design', 'woodland', 'ergonomics', 'accessibility']
+  tags: ['seat'] → ['park', 'design', 'woodland', 'seat', 'accessibility']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Feedback.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → research
+  topics: [] → ['behavior', 'learning', 'perception', 'feedback', 'psychology', 'mistakes']
+  tags: ['new'] → ['one-way-street', 'new', 'feedback-bias', 'tim-harford']
+  status: new → completed
+✓ File updated
+
+--- Processing: file_summaries.md ---
+Changes suggested:
+  category: None → Maritime
+  note_type: None → reference
+  topics: [] → ['ship history', 'shipwrecks', 'historical events', 'drilling', 'Sedco 445']
+  tags: [] → ['drilling ship', 'maritime', 'history', 'ship', 'Sedco 445']
+  status: new → completed
+✓ File updated
+
+--- Processing: Finding graves.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → guide
+  topics: [] → ['genealogy', 'burial records', 'research', 'UK']
+  tags: ['WEBLOG/family_history/howto'] → ['burial', 'UK', 'research', 'howto', 'genealogy', 'WEBLOG/family_history/howto']
+  tools_used: [] → ['Findmypast', 'Commonwealth War Graves Commission', 'Deceased Online']
+  ai_model: None → Gemini
+  status: new → completed
+✓ File updated
+
+--- Processing: Finland Redsand Whites 14-44-10.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Finnish Civil War', 'Germany', 'Russian Revolution', 'Finland', 'Soviet Union', 'World War 2']
+  tags: ['History/finland'] → ['Civil War', 'WW2', 'Germany', 'History/finland', 'Soviet Union']
+  ai_model: None → Anthropic Claude 3.5 Sonnet
+  status: new → completed
+✓ File updated
+
+--- Processing: Finnish civil War and the memorial to Reds.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Political History', 'Historical Memory', 'Finnish Civil War', 'Whites (Finland)', 'Finland', 'Ekenäs (Tammisaari) Memorial', 'Reds (Finland)']
+  tags: None → ['Civil War', 'Family History', 'Memorial', 'History', 'Finland']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Finnish Trade and Uusikaupinki.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Swedish Empire', 'Vakka-Suomi', 'Maritime History', 'Trade', 'Finland', 'Uusikaupunki']
+  tags: ['History/finland'] → ['Trade History', 'Maritime', 'History/finland']
+✓ File updated
+
+--- Processing: First Question to WebUI about setting up and using WebUI.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['Ollama', 'Local AI', 'ChatGPT', 'WebUI', 'Open WebUI']
+  tags: ['new'] → ['setup', 'new', 'tutorial', 'Ollama', 'Local AI', 'ChatGPT', 'WebUI', 'Open WebUI']
+  technology_stack: [] → ['Docker']
+  tools_used: [] → ['Open WebUI', 'Ollama']
+✓ File updated
+
+--- Processing: first try 14g model slightly wrong question.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['AI', 'Donald Trump', 'persuasion', 'political communication', 'policy modulation']
+  tags: [] → ['communication', 'AI', 'politics']
+  ai_model: None → deepseek-r1:14b
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Fitness guy in Bath.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → reference
+  topics: [] → ['canal boats', 'Bath', 'lifestyle', 'travel', 'fitness']
+  tags: ['new'] → ['location', 'new', 'canal_boat', 'Bath', 'travel', 'fitness']
+✓ File updated
+
+--- Processing: Fix non Start pc part 2.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Recovery', 'Windows', 'Updates', 'Safe Mode', 'DISM']
+  tags: ['new'] → ['new', 'repair', 'troubleshooting', 'windows', 'dism']
+  technology_stack: [] → ['Windows']
+  tools_used: [] → ['Command Prompt', 'File Explorer', 'DISM']
+  status: new → completed
+✓ File updated
+
+--- Processing: Fix of problem with oriiginal instructions.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Virtual Environments', 'Raspberry Pi', 'Linux', 'Python', 'OctoPrint']
+  tags: ['new'] → ['Virtual Environment', 'new', 'Raspberry Pi', 'Troubleshooting', 'Python', 'OctoPrint']
+  technology_stack: [] → ['Raspberry Pi OS', 'Python 3']
+  tools_used: [] → ['OctoPrint', 'bash', 'virtualenv']
+  status: new → completed
+✓ File updated
+
+--- Processing: Flask site security.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['authorization', 'security', 'authentication', 'web development']
+  tags: ['github/python/flask'] → ['github/python/flask', 'flask-login', 'flask-sqlalchemy']
+  technology_stack: [] → ['Python', 'SQLAlchemy', 'Flask']
+  tools_used: [] → ['Flask-SQLAlchemy', 'pip', 'Flask-Login', 'Flask']
+  ai_model: None → GPT-4
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Forest landscape from Haminlahti.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → reference
+  topics: [] → ['landscape', 'nature', 'art', 'painting', 'Haminalahti', 'cultural landscape', 'birdwatching', 'von Wright family', 'Finland']
+  tags: ['1721209309340.jpg', '1721209033860.jpg', 'Finland/summer24/ateneum', '1721208655962.jpg', '1721208892478.jpg', '1721209636063.jpg', '1721208734482.jpg', '1721208809083.jpg'] → ['landscape', '1721208734482.jpg', 'von Wright', '1721209309340.jpg', 'cultural heritage', 'painting', 'Finland', 'Finland/summer24/ateneum', '1721209033860.jpg', 'Haminalahti', 'birdwatching', '1721208809083.jpg', '1721208655962.jpg', '1721208892478.jpg', '1721209636063.jpg']
+  status: new → completed
+✓ File updated
+
+--- Processing: Fossil fuels in ground.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['computing', 'history', "Moore's Law", 'technology', 'energy', "Wright's Law"]
+  tags: ['new'] → ['new', 'history', "Moore's Law", 'technology', 'energy', "Wright's Law"]
+✓ File updated
+
+--- Processing: Freedom fiber isps.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['XGS-PON', 'ISP', 'internet', 'broadband', 'Octaplus', 'fiber', 'Freedom Fibre']
+  tags: ['new'] → ['new', 'internet', 'ISP', 'broadband', 'comparison', 'fiber', 'Freedom Fibre']
+  technology_stack: [] → ['XGS-PON', 'FTTP']
+✓ File updated
+
+--- Processing: FTP to R Pi 5 with Filezilla.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Raspberry Pi', 'FTP', 'FileZilla', 'Networking', 'Server Configuration']
+  tags: ['new'] → ['raspberrypi', 'new', 'ftp', 'configuration', 'server', 'filezilla']
+  technology_stack: [] → ['Raspberry Pi 5', 'ufw', 'vsftpd']
+  tools_used: [] → ['FileZilla', 'nano', 'ufw', 'systemctl']
+✓ File updated
+
+--- Processing: Fully Uninstall Bluemail.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['email', 'software', 'reinstallation', 'windows', 'uninstallation']
+  tags: ['system/windows/howto'] → ['email/bluemail', 'system/windows/howto', 'troubleshooting']
+  technology_stack: [] → ['Windows 11']
+  tools_used: [] → ['BlueMail']
+  status: new → completed
+✓ File updated
+
+--- Processing: Gamification Like fun, but more hellish.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → research
+  topics: [] → ['technology', 'behavioral_economics', 'addiction', 'gamification', 'psychology']
+  tags: ['flossy/TimHarford'] → ['flossy/TimHarford', 'behavioral_design', 'attention_economy']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Gemeni advice on rockery.md ---
+Changes suggested:
+  category: None → Project
+  note_type: None → guide
+  topics: [] → ['landscaping', 'gardening', 'plants', 'rockery', 'weeds']
+  tags: ['HOME/garden'] → ['HOME/garden', 'plants', 'rockery', 'low-maintenance']
+✓ File updated
+
+--- Processing: Gemeni Pro Review ref Tuya.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['home automation', 'Raspberry Pi', 'OpenHAB', 'DIY sensors', 'ESP32', 'ESP8266', 'Google Home', 'Home Assistant', 'smart home', 'Tuya']
+  tags: [] → ['DIY', 'Home Assistant', 'smart home', 'Tuya', 'automation']
+  technology_stack: [] → ['Android', 'Python', 'Zigbee', 'Z-Wave']
+  tools_used: [] → ['OpenHAB', 'Google Home', 'Home Assistant', 'ESPHome']
+  ai_model: None → Claude 3.5 Haiku
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Gemma 2 Becomes New Favorite Local AI Model for Obsidian.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Local AI', 'Obsidian', 'LLMs', 'Note-Taking', 'AI']
+  tags: ['new'] → ['Gemma', 'new', 'Ollama', 'LLAMA3', 'SystemSculpt']
+  tools_used: [] → ['YouTube', 'Obsidian', 'Ollama']
+  ai_model: None → ['Gemma 2', 'LLAMA3']
+✓ File updated
+
+--- Processing: Gemma 2 Model Overview Recommended Local AI Model for Task Completion and Following Directions.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['Gemma 2', 'Ollama', 'Local AI', 'LLAMA3', 'AI Models', 'Model Management']
+  tags: ['LocalAI/Models'] → ['LLAMA3', 'LocalAI/Models', 'Ollama', 'Gemma2']
+  tools_used: [] → ['Obsidian', 'Ollama']
+  ai_model: None → Gemma 2, LLAMA3
+  status: new → in-progress
+✓ File updated
+
+--- Processing: General benifits German Energiewende.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['Energiewende', 'Germany', 'Europe', 'energy policy', 'carbon emissions', 'renewable energy', 'energy transition']
+  tags: ['jmcg/germany'] → ['renewable-energy', 'europe', 'jmcg/germany', 'policy', 'energy']
+  status: new → completed
+✓ File updated
+
+--- Processing: Generating Detailed Zoomable Scrollable Timeline for Joomla Website.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['Joomla', 'interactive content', 'web development', 'timeline']
+  tags: ['timeline'] → ['web', 'CMS', 'interactive', 'timeline', 'Joomla']
+  technology_stack: [] → ['D3.js', 'JavaScript', 'vis.js']
+  tools_used: [] → ['JoomlaWorks AllVideos Plugin', 'TimelineJS', 'Kunena Discuss Timeline Plugin', 'Google Sheets']
+  ai_model: None → Claude 3 Opus
+  status: new → in-progress
+✓ File updated
+
+--- Processing: getting docker-compose going on opensusu linux.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Docker', 'OpenSUSE', 'Linux', 'Troubleshooting', 'DevOps']
+  tags: ['github/Linux/howto'] → ['troubleshooting', 'opensuse', 'docker', 'github/Linux/howto']
+  technology_stack: [] → ['Docker', 'OpenSUSE Linux']
+  tools_used: [] → ['ls', 'chown', 'systemctl', 'docker', 'usermod']
+  status: new → completed
+✓ File updated
+
+--- Processing: Getting Things Done using Obsidian.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → guide
+  topics: [] → ['Obsidian', 'GTD', 'task management', 'productivity']
+  tags: ['new'] → ['new', 'Obsidian', 'task-management', 'GTD', 'productivity']
+  tools_used: [] → ['QuickAdd', 'Obsidian']
+  ai_model: None → Gemini Pro
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Getting.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Anthropic', 'AI models', 'LLMs', 'OpenRouter', 'Groq', 'OpenAI', 'comparison', 'performance', 'cost']
+  tags: ['new'] → ['LLM', 'new', 'benchmarking', 'AI', 'comparison']
+  ai_model: None → ['OpenAI', 'Groq', 'OpenRouter', 'Anthropic']
+✓ File updated
+
+--- Processing: GitHub in vscode.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → reference
+  topics: [] → ['GitHub', 'Copilot', 'AI', 'Code Assistance', 'VS Code']
+  tags: ['new'] → ['new', 'gpt4o', 'vscode', 'claude', 'copilot', 'github', 'ai']
+  technology_stack: [] → ['VS Code', 'GitHub']
+  tools_used: [] → ['VS Code', 'GitHub', 'Perplexity', 'Stack Overflow']
+  ai_model: None → ['GPT 4o', 'Claude 3.5 Sonnet']
+✓ File updated
+
+--- Processing: GitHub Repo to Markdown.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → documentation
+  topics: [] → ['GitHub', 'Markdown', 'Python', 'Automation', 'API']
+  tags: ['new'] → ['new', 'scripting', 'automation']
+  technology_stack: [] → ['requests', 'Python', 'GitHub API']
+  tools_used: [] → ['urllib', 'requests', 'Python', 'yaml']
+✓ File updated
+
+--- Processing: Good Local LLM Test Question Example.md ---
+Changes suggested:
+  category:  → AI_ML
+  note_type:  → research
+  topics: [] → ['Evaluation', 'LLMs', 'Local LLMs', 'Testing']
+  tags: [] → ['LLM', 'testing', 'evaluation']
+  ai_model: None → Unknown - requires further context
+  project:  → Unknown
+✓ File updated
+
+--- Processing: GPU and RAM use with Ollama.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['RAM', 'Ollama', 'Performance', 'Monitoring', 'GPU']
+  tags: ['new'] → ['new', 'htop', 'ollama', 'monitoring', 'nvidia-smi', 'nvtop', 'ram', 'gpu', 'performance']
+  technology_stack: [] → ['Windows', 'NVIDIA', 'Linux']
+  tools_used: [] → ['htop', 'ollama', 'Task Manager', 'nvidia-smi', 'nvtop']
+  ai_model: None → Ollama
+✓ File updated
+
+--- Processing: Grenfell Tower Fire report and issues with regulation..md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Grenfell Tower Fire', 'Housing Policy', 'Deregulation', 'Fire Safety Regulation', 'Building Safety']
+  tags: ['Grenfell'] → ['Fire Safety', 'Housing', 'Deregulation', 'Regulation', 'Grenfell']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Guidance on Working Self-Employed in the UK.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → guide
+  topics: [] → ['National Insurance', 'accounting', 'self-employment', 'business expenses', 'UK tax']
+  tags: [] → ['UK', 'tax', 'finance', 'self-assessment']
+  tools_used: [] → ['HMRC website']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Hacker Spaces.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['repair', 'hacking', 'UK', 'cybercrime', 'cybersecurity', 'hackerspaces']
+  tags: ['new'] → ['new', 'hacking', 'reference', 'UK', 'cybersecurity', 'hackerspaces']
+✓ File updated
+
+--- Processing: Halikko Church.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → reference
+  topics: [] → ['Halikko', 'Medieval Architecture', 'Churches', 'Finland', 'Salo']
+  tags: ['Finland/summer24'] → ['Finland/summer24', 'churches', 'historical_sites', 'architecture']
+✓ File updated
+
+--- Processing: Hanna by Dermot.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → log
+  topics: [] → ['memory', 'loss', 'grief', 'pregnancy', 'childhood', 'remembrance', 'family']
+  tags: ['HANNA'] → ['memory', 'loss', 'grief', 'HANNA', 'family']
+  status: new → archived
+✓ File updated
+
+--- Processing: Hats for Robot Car psu.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['robotics', 'raspberry pi', 'dc-dc converter', 'power management', 'battery power']
+  tags: ['robocar'] → ['power', 'raspberrypi', 'robocar']
+  technology_stack: [] → ['raspberry pi 4', 'dc-dc converter']
+  tools_used: [] → ['MP2315', 'INA226', 'Witty Pi 4 HAT', 'Waveshare Power Management HAT (B)']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: High growth doesn’t tell the story of the US economy.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['Public Opinion', 'Political Sentiment', 'Elections', 'US Economy', 'Economic Indicators']
+  tags: ['economic', 'TrumpMusk2025'] → ['Clinton', 'TrumpMusk2025', 'sentiment', 'economic', 'politics', 'Carville', 'Biden', 'elections']
+  status: new → completed
+✓ File updated
+
+--- Processing: History of Muffin The Mule.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['BBC', 'puppetry', 'television history', 'Jan Bussell', 'Muffin the Mule', 'Ann Hogarth', 'Fred Tickner', 'Annette Mills']
+  tags: ['WEBLOG/family_history/bussell'] → ['BBC', 'puppetry', 'history', 'television', 'WEBLOG/family_history/bussell']
+  status: new → completed
+✓ File updated
+
+--- Processing: House Price Drop Risk.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → research
+  topics: [] → ['recession', 'mortgages', 'housingMarket', 'UKeconomy', 'economicIndicators', 'interestRates']
+  tags: ['housePrice'] → ['housePrice', 'UK', 'economy', 'mortgages', 'housingMarket', 'finance']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: how to capture more meaningful knowledge.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → guide
+  topics: [] → ['DIKW pyramid', 'digital literacy', 'critical thinking', 'information overload', 'knowledge management']
+  tags: ['flossy/howtostudy'] → ['information', 'learning', 'flossy/howtostudy', 'digital age', 'knowledge', 'howtostudy']
+  tools_used: [] → ['Obsidian']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: How to do Text in FreeCAD.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['FreeCAD', 'Drafting', '3D Modeling', 'Text', 'CAD']
+  tags: ['github/3dprintHowTo'] → ['github/3dprintHowTo', 'text', 'FreeCAD', '3D printing']
+  technology_stack: [] → ['FreeCAD']
+  tools_used: [] → ['ShapeString', 'Extrude', 'FreeCAD', 'Pocket']
+  status: new → completed
+✓ File updated
+
+--- Processing: How to do without the Donald.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['attention', 'Donald Trump', 'social media', 'politics', 'media']
+  tags: ['trump-musk'] → ['attention-economy', 'trump', 'media-criticism', 'trump-musk']
+  status: new → completed
+✓ File updated
+
+--- Processing: How to get better broadband.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['home network', 'Wi-Fi', 'internet', 'networking', 'broadband', 'router']
+  tags: ['new'] → ['tech', 'new', 'internet', 'home']
+  technology_stack: [] → ['mesh wifi', 'Wi-Fi 6', 'Wi-Fi 6E']
+  tools_used: [] → ['QoS', 'router management tools']
+✓ File updated
+
+--- Processing: How to get the story told 'The Game Of Ships'.md ---
+Changes suggested:
+  category: None → Maritime
+  note_type: None → idea
+  topics: [] → ['storytelling', 'ship history', 'offshore oil', 'interviewing', 'writing', 'research', 'publishing']
+  tags: ['WEBLOG/stories/ship'] → ['maritime', 'storytelling', 'offshore', 'writing', 'WEBLOG/stories/ship']
+  ai_model: None → GPT-4
+  status: new → in-progress
+✓ File updated
+
+--- Processing: How to Grow an Oak Tree from an Acorn.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → guide
+  topics: [] → ['trees', 'propagation', 'oak trees', 'gardening', 'acorns', 'horticulture']
+  tags: ['HOME/garden'] → ['HOME/garden', 'trees', 'propagation', 'garden', 'acorns', 'oak', 'horticulture']
+  tools_used: [] → ['ziplock bags', 'garden trowel', 'watering can']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: How to stay curious while avoiding distraction.md ---
+Changes suggested:
+  category:  → Personal
+  note_type:  → guide
+  topics: [] → ['distraction', 'curiosity', 'self-improvement', 'productivity']
+  tags: [] → ['distraction', 'curiosity', 'productivity']
+✓ File updated
+
+--- Processing: How to use Tmux.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['session management', 'remote access', 'tmux', 'terminal']
+  tags: ['new'] → ['new', 'terminal', 'session', 'tmux', 'remote']
+  technology_stack: [] → ['bash', 'linux']
+  tools_used: [] → ['dnf', 'brew', 'apt', 'tmux']
+  status: new → completed
+✓ File updated
+
+--- Processing: How will Trump be viewed in years to come.md ---
+Changes suggested:
+  category:  → History
+  note_type:  → research
+  topics: [] → ['Political Legacy', 'Donald Trump', 'Historical Perspective', 'US Politics']
+  tags: [] → ['legacy', 'trump', 'politics', 'history']
+✓ File updated
+
+--- Processing: Immigrant’s Sons.md ---
+Changes suggested:
+  category:  → Personal
+  note_type:  → note
+  topics: [] → ['immigration', 'sons', 'personal reflections', 'family']
+  tags: [] → ['personal', 'immigration', 'family']
+✓ File updated
+
+--- Processing: Impact of AI on Software Development and Job Market - How to distinguish Hype from Reality.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['LLMs', 'Software Development', 'AI', 'Job Market', 'ChatGPT', 'AI Hype', 'Psychology', 'AI Ethics']
+  tags: ['flossy/AI'] → ['Ethics', 'Software', 'flossy/AI', 'Hype', 'AI', 'JobMarket', 'ChatGPT-4o']
+  ai_model: None → ['ChatGPT-4o', 'ChatGPT-4-Turbo']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Importing and Enhancing Notes with AI in Obsidian.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['Markdown', 'Obsidian', 'AI', 'Note-taking', 'Plugins', 'Smart Connections']
+  tags: ['SYSTEM/obsidian/howto'] → ['obsidian', 'notetaking', 'SYSTEM/obsidian/howto', 'plugins', 'ai', 'markdown']
+  tools_used: [] → ['Reflect', 'Obsidian', 'Notta', 'Smart Connections', 'Otter']
+✓ File updated
+
+--- Processing: Inequality.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['World Inequality Database', 'inequality', 'economics', 'UK', 'Tim Harford', 'taxation']
+  tags: ['new'] → ['new', 'data', 'inequality', 'economics', 'UK', 'Tim Harford', 'taxation']
+✓ File updated
+
+--- Processing: Info Tidal Turbines 20-17-56.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['image search', 'renewable energy', 'tidal energy', 'tidal turbines', 'ocean energy']
+  tags: ['tidal'] → ['image search', 'tidal', 'renewable energy']
+  tools_used: [] → ['Ocean Energy Europe', 'Google Images', 'Renewable Energy World', 'Getty Images', 'Adobe Stock', 'Bing Images', 'Shutterstock', 'iStockphoto', 'IRENA']
+  ai_model: None → Gemini Pro 1.5
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Inheritance Tax and time limits.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → research
+  topics: [] → ['estate administration', 'UK law', 'inheritance tax', 'tax law', 'probate']
+  tags: ['hanna/admin'] → ['probate', 'tax', 'hanna/admin', 'estate']
+  status: new → completed
+✓ File updated
+
+--- Processing: Initial Contact from BC reg Rent and Agreement.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → documentation
+  topics: [] → ['annual contribution', 'fire regulations', 'Beacon', 'agreement', 'rent', 'Men in Sheds', 'storage space']
+  tags: [] → ['legal', 'finance', 'contract', 'MiS', 'WMIS']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Install HACS when using Home Assistant in Docker.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Docker', 'Home Assistant', 'HACS', 'Installation']
+  tags: ['new'] → ['new', 'home-automation', 'docker', 'installation', 'hacs']
+  technology_stack: [] → ['Docker', 'Bash']
+  tools_used: [] → ['docker', 'wget']
+  status: new → completed
+✓ File updated
+
+--- Processing: Installing and Choosing the Best Desktop Environments on openSUSE Leap.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Linux', 'Desktop Environments', 'openSUSE', 'Xfce', 'Installation', 'KDE Plasma', 'GNOME', 'Configuration']
+  tags: ['github/Linux/howto'] → ['desktop-environment', 'github/Linux/howto', 'xfce', 'gnome', 'kde', 'opensuse']
+  technology_stack: [] → ['YaST', 'openSUSE Leap']
+  tools_used: [] → ['YaST']
+  status: new → completed
+✓ File updated
+
+--- Processing: Installing Ollama in a Docker Container.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['LLM', 'Docker', 'Ollama', 'AI', 'Containerization']
+  tags: [] → ['llm', 'ollama', 'container', 'docker', 'ai']
+  technology_stack: [] → ['Docker', 'Python']
+  tools_used: [] → ['Docker', 'pip', 'Python']
+  ai_model: None → gpt-4o
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Instructions for Setting Up Secretary  Account in Outlook Manually.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['email', 'account setup', 'smtp', 'outlook', 'imap']
+  tags: [] → ['email', 'secretary', 'outlook', 'whitchurchwaterway']
+  technology_stack: [] → ['outlook', 'microsoft edge']
+  tools_used: [] → ['outlook', 'microsoft edge']
+  status: new → completed
+✓ File updated
+
+--- Processing: Is February a good time for a fresh start.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → guide
+  topics: [] → ['resolutions', 'self-improvement', 'goal setting', 'behavior change', 'motivation']
+  tags: ['new'] → ['new', 'february', 'tim-harford']
+✓ File updated
+
+--- Processing: Jetson nano as local A I server Sept 16 24.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['LLM', 'Jetson Nano', 'Edge Computing', 'AI', 'Private AI']
+  tags: ['ai', 'NVIDIA', 'new'] → ['LLM', 'new', 'NVIDIA', 'EdgeAI', 'Jetson', 'ChatGPT', 'ai']
+  technology_stack: [] → ['FastChat', 'pip', 'Python', 'text-generation-webui', 'K3s']
+  tools_used: [] → ['GitHub', 'YouTube', 'FastChat', 'text-generation-webui', 'K3s']
+  ai_model: None → ['ChatGPT', 'Llama-2']
+✓ File updated
+
+--- Processing: Jevons paradox.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['economics', 'industrial revolution', 'energy', 'efficiency', 'behavioral economics']
+  tags: ['new'] → ['new', 'jevons paradox', 'technology', 'efficiency', 'tim harford']
+  tools_used: [] → ['WhatsApp']
+✓ File updated
+
+--- Processing: Joe and Jane Hurn Work with Gypsy and Traveller Communities in Cheshire.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Gypsy and Traveller Communities', 'Community Engagement', 'Accommodation Needs Assessment', 'Social Services', 'Cheshire']
+  tags: [] → ['Gypsy and Traveller Communities', 'Assessment', 'Cheshire', 'Social Work']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: John Mavrick How to Master Obsidian.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → guide
+  topics: [] → ['Personal Knowledge Management', 'Obsidian', 'Evergreen Notes', 'Note-Taking', 'Knowledge Base']
+  tags: ['SYSTEM/obsidian/howto'] → ['SYSTEM/obsidian/howto', 'Evergreen', 'PKM', 'Learning']
+  tools_used: [] → ['Obsidian', 'Reddit', 'Discord']
+  status: new → completed
+✓ File updated
+
+--- Processing: Join Camra.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → research
+  topics: [] → ['CAMRA', 'pubs', 'consumer advocacy', 'cider', 'membership', 'beer']
+  tags: ['new'] → ['uk', 'new', 'organizations']
+✓ File updated
+
+--- Processing: June 16th 24 System Sculpt Email.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → documentation
+  topics: [] → ['SystemSculpt AI', 'AI Workflow', 'Software Release', 'Product Update']
+  tags: ['new'] → ['new', 'update', 'Ollama', 'AI', 'release']
+  tools_used: [] → ['SystemSculpt AI', 'Ollama']
+✓ File updated
+
+--- Processing: Killerton Estate and The NationalTrust.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['British History', 'Killerton Estate', 'Estate Management', 'National Trust', 'Aclands', 'Charitable Giving']
+  tags: ['new'] → ['new', 'Devon', 'history', 'Killerton', 'Aclands', 'NationalTrust']
+✓ File updated
+
+--- Processing: Kultaranta.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → reference
+  topics: [] → ['Diplomacy', 'Political History', 'National Romanticism', 'Finnish History', 'Finland', 'Cold War', 'Architecture']
+  tags: ['Finland/summer24'] → ['Diplomacy', 'Finland/summer24', 'Kultaranta', 'Alfred Kordelin', 'Naantali', 'Summer Residence', 'Lars Sonck', 'Finland', 'Cold War']
+  status: new → completed
+✓ File updated
+
+--- Processing: l an s info.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['roofing', 'local_business', 'UK', 'contractors', 'building']
+  tags: ['new'] → ['new', 'roofing', 'local_business', 'contractors', 'research', 'building']
+✓ File updated
+
+--- Processing: Lab Leak Could Smallpox Come Back.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → reference
+  topics: [] → ['Birmingham', 'epidemiology', 'public health', 'lab leak', 'disease outbreak', 'smallpox', 'biosecurity']
+  tags: ['tumharford'] → ['smallpox', 'tumharford', 'lab_leak', 'biosecurity']
+  status: new → completed
+✓ File updated
+
+--- Processing: Learn Birdsong.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → guide
+  topics: [] → ['machine learning (potential)', 'birdsong', 'python programming', 'audio recognition']
+  tags: ['birdsong'] → ['birdsong', 'audio', 'python', 'pygame', 'tkinter']
+  technology_stack: [] → ['python', 'pygame', 'tkinter']
+  tools_used: [] → ['pygame', 'tkinter']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Learn Typscript.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → guide
+  topics: [] → ['web development', 'javascript', 'programming', 'typescript']
+  tags: ['new'] → ['new', 'typescript', 'learning', 'programming', 'javascript']
+  technology_stack: [] → ['javascript', 'typescript']
+  tools_used: [] → ['learntypescript.dev']
+✓ File updated
+
+--- Processing: Letter to Barclays Bank.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → documentation
+  topics: [] → ['communication', 'banking', 'Barclays', 'mandate', 'account management', 'inefficiency', 'charity']
+  tags: ['WMIS'] → ['banking', 'Barclays', 'mandate', 'charity', 'WMIS']
+  tools_used: [] → ['phone']
+  status: new → completed
+✓ File updated
+
+--- Processing: Leveling the Ender 3.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Ender 3', '3D Printing', 'Calibration', 'Tramming', 'Bed Leveling']
+  tags: ['github/3dprintHowTo'] → ['github/3dprintHowTo', 'Ender3', 'Leveling', 'Calibration']
+  technology_stack: [] → ['3D Printing']
+  tools_used: [] → ['BLTouch', 'feeler gauge']
+  status: new → reference
+✓ File updated
+
+--- Processing: lg Comparing UK and US with respect to Tax, Healthcare, Government and Dept..md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → research
+  topics: [] → ['economic comparison', 'healthcare', 'US politics', 'debt', 'taxation', 'UK politics', 'government']
+  tags: ['new'] → ['Musk', 'US', 'new', 'tax', 'Trump', 'healthcare', 'UK', 'debt', 'NHS']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: lg Trump`s Economics.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Trump', 'inflation', 'economics', 'economic policy', 'deregulation']
+  tags: ['trump-musk'] → ['inflation', 'economics', 'policy', 'trump', 'deregulation', 'trump-musk']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Lighting for Birdboxes with Camera.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['Raspberry Pi', 'birdbox', 'camera', 'LED', 'lighting', 'wildlife camera']
+  tags: ['shed/birdbox'] → ['raspberrypi', 'wildlife', 'camera', 'shed/birdbox', 'led', 'lighting']
+  technology_stack: [] → ['Raspberry Pi Camera', 'Raspberry Pi']
+  tools_used: [] → ['Raspberry Pi Camera', 'Raspberry Pi']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: LM Studio Issue.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → documentation
+  topics: [] → ['API Endpoint', 'Troubleshooting', 'Obsidian', 'LM Studio', 'SystemSculpt AI Plugin']
+  tags: [] → ['Windows', 'macOS', 'SystemSculpt', 'Obsidian Plugin', 'API', 'LM Studio']
+  technology_stack: [] → ['Obsidian', 'LM Studio']
+  tools_used: [] → ['Obsidian', 'LM Studio', 'SystemSculpt AI Plugin']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Local AI on R Pi5 Simpler by Gemeni.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Docker', 'Ollama', 'Raspberry Pi', 'Local AI', 'Open WebUI', 'Nginx']
+  tags: ['RPi5'] → ['Docker', 'Ollama', 'AI', 'RPi5', 'WebUI', 'Nginx']
+  technology_stack: [] → ['Docker', 'Ollama', 'Open WebUI', 'Nginx']
+  tools_used: [] → ['Docker', 'Ollama', 'Portainer', 'Open WebUI', 'Dataplicity Wormhole', 'Nginx']
+  ai_model: None → Ollama
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Local RAG Setup with Llama 3 Ollama Milvus and LangChain.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['LLM', 'Vector Database', 'RAG', 'Local AI']
+  tags: ['localAI'] → ['LLM', 'Llama3', 'Ollama', 'LocalAI', 'RAG', 'LangChain', 'Milvus', 'localAI']
+  technology_stack: [] → ['Milvus', 'Python', 'Ollama', 'LangChain']
+  tools_used: [] → ['Milvus', 'Llama 3', 'Ollama', 'LangChain']
+  ai_model: None → Llama 3
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Location Of Louisiana.md ---
+Changes suggested:
+  category: None → Maritime
+  note_type: None → reference
+  topics: [] → ['SSV Louisiana', 'India', 'shipping', 'Brazil', 'location tracking', 'drilling rigs']
+  tags: ['new'] → ['location', 'new', 'maritime', 'vessels', 'AIS']
+  tools_used: [] → ['Marine Vessel Traffic', 'MyShipTracking']
+✓ File updated
+
+--- Processing: Loosing weight and bereavement advice advice from surgery.md ---
+Changes suggested:
+  category:  → Health
+  note_type:  → guide
+  topics: [] → ['bereavement', 'surgery', 'advice', 'weight loss']
+  tags: [] → ['health', 'advice', 'bereavement', 'surgery', 'weight-loss']
+✓ File updated
+
+--- Processing: Lymphedema.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → reference
+  topics: [] → ['treatment', 'medical conditions', 'swelling', 'lymphatic system', 'lymphedema', 'diagnosis']
+  tags: ['new'] → ['health', 'new', 'lymphedema', 'medical']
+✓ File updated
+
+--- Processing: Make Speech.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → guide
+  topics: [] → ['communication', 'public speaking', 'psychology', 'anxiety']
+  tags: ['new'] → ['communication', 'anxiety', 'new', 'public speaking', 'tim harford']
+✓ File updated
+
+--- Processing: Marathons for All.md ---
+Changes suggested:
+  category:  → Personal
+  note_type:  → note
+  topics: [] → ['marathons', 'personal goals', 'running', 'fitness']
+  tags: [] → ['goals', 'running', 'fitness', 'marathon']
+✓ File updated
+
+--- Processing: Mari rautanen.md ---
+Changes suggested:
+  category:  → Personal
+  note_type:  → note
+  topics: [] → ['Mari Rautanem', 'personal reflections']
+✓ File updated
+
+--- Processing: Markdown on Joomla Website.md ---
+Changes suggested:
+  category:  → Technical
+  note_type:  → documentation
+  topics: [] → ['joomla', 'website', 'content management', 'markdown']
+  tags: [] → ['joomla', 'website', 'markdown']
+  technology_stack: [] → ['joomla']
+  project:  → Website
+✓ File updated
+
+--- Processing: Marlin Firmware Modifications for Arduino Monoprice Mini Select V2 3D Printer.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Arduino', '3D Printing', 'Monoprice Mini Select V2', 'Marlin Firmware']
+  tags: ['new'] → ['marlin', 'new', 'firmware', 'arduino', 'monoprice', '3dprinting']
+  technology_stack: [] → ['Arduino', 'Marlin Firmware', 'C++']
+  tools_used: [] → ['Hackaday', 'Instructables', 'GitHub', 'Arduino IDE']
+✓ File updated
+
+--- Processing: Master Plan from Claude.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → guide
+  topics: [] → ['Productivity', 'Obsidian', 'GTD', 'Organization', 'Task Management']
+  tags: ['SYSTEM/obsidian/howto'] → ['Productivity', 'SYSTEM/obsidian/howto', 'GTD']
+  tools_used: [] → ['Daily Notes plugin', 'Obsidian', 'Calendar plugin', 'Dataview', 'Tasks plugin']
+  ai_model: None → Claude
+✓ File updated
+
+--- Processing: Meaning of context window 2024-07-13.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → reference
+  topics: [] → ['context window', 'NLP', 'tokenization', 'AI', 'large language models']
+  tags: ['system/AIchat/howto'] → ['context_window', 'LLM', 'system/AIchat/howto', 'howto', 'AIchat']
+  ai_model: None → Mixtral 8x7B
+  status: new → completed
+✓ File updated
+
+--- Processing: Mega Shield Connection Information.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Wiring', '3D Printing', 'Stepper Motors', 'Arduino', 'Electronics', 'RAMPS 1.4']
+  tags: [] → ['3D Printer Upgrade', 'Wiring', 'RAMPS', 'Mega Shield', 'Arduino']
+  technology_stack: [] → ['RAMPS 1.4', 'Arduino MEGA 2560']
+  tools_used: [] → ['Instructables', 'RepRap']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Memorial to the Victims of Occupation - Inscriptions text.md ---
+Changes suggested:
+  category:  → History
+  note_type:  → research
+  topics: [] → ['occupation', 'history', 'inscriptions', 'victims', 'memorials']
+  tags: [] → ['memorial', 'research', 'history']
+✓ File updated
+
+--- Processing: message encryption.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['security', 'encryption', 'WhatsApp', 'E2EE', 'cryptography']
+  tags: ['new'] → ['new', 'security', 'privacy', 'WhatsApp', 'E2EE', 'cryptography']
+  technology_stack: [] → ['WhatsApp']
+  tools_used: [] → ['WhatsApp']
+✓ File updated
+
+--- Processing: Methods using AI aid..md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['AI', 'UX Design', 'Python', 'Prompt Engineering', 'Chat GPT', 'User Experience']
+  tags: ['system/AIchat/howto'] → ['Python', 'AI', 'UX', 'system/AIchat/howto']
+  tools_used: [] → ['Bing', 'Chat GPT']
+  ai_model: None → Chat GPT
+✓ File updated
+
+--- Processing: Michio Kaku Just Revealed  - THIS PROVES GOD - James Webb Telescope SHOCKING Discovery.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Michio Kaku', 'Time', 'God', 'Cosmology', 'James Webb Telescope', 'String Theory', 'Big Bang Theory']
+  tags: ['flossy'] → ['flossy', 'Religion', 'JWST', 'Science', 'Cosmology', 'Kaku']
+  tools_used: [] → ['YouTube']
+✓ File updated
+
+--- Processing: Microsoft's Secret Plan to Dominate Tech and You Again!.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['LLM', 'Copilot', 'Technology Trends', 'Windows', 'Data Security', 'AI', 'Privacy', 'Microsoft']
+  tags: ['new'] → ['new', 'security', 'data', 'privacy', 'copilot', 'windows', 'microsoft', 'ai']
+  technology_stack: [] → ['LLM', 'Windows 11']
+  tools_used: [] → ['YouTube', 'OpenAI']
+  ai_model: None → OpenAI
+✓ File updated
+
+--- Processing: Mike's Patreon post about SystemSculpt AI update to 0.4.0.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → documentation
+  topics: [] → ['Software Updates', 'SystemSculpt AI', 'Obsidian Plugin', 'AI Chat Interface']
+  tags: ['system/chatHowTo'] → ['obsidian', 'systemsculpt', 'system/chatHowTo', 'update', '0.4.0', 'chat', 'ai', 'plugin']
+  technology_stack: [] → ['Local AI', 'Obsidian', 'JavaScript', 'Groq']
+  tools_used: [] → ['GitHub', 'Obsidian']
+  status: new → completed
+✓ File updated
+
+--- Processing: Misinformation about misinformation.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['disinformation', 'fact-checking', 'Brexit', 'political discourse', 'misinformation', 'cynicism', 'Donald Trump', 'media', 'truth']
+  tags: ['flossy/TimHarford'] → ['flossy/TimHarford', 'political_analysis', 'misinformation']
+  status: new → completed
+✓ File updated
+
+--- Processing: Models for Ollama.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → reference
+  topics: [] → ['AI Models', 'LLMs', 'Large Language Models', 'Ollama']
+  tags: ['jmcg/germany'] → ['LLM', 'AI', 'jmcg/germany']
+  tools_used: [] → ['OpenAI API', 'Hugging Face Model Hub', 'Google Cloud AI Platform', 'Ollama']
+  ai_model: None → ['GPT-4', 'LLaMA', 'Perplexity AI', 'PaLM 2', 'LLaMa-7B', 'GPT-J-6B']
+✓ File updated
+
+--- Processing: Mooring Refund Calculation.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → documentation
+  topics: [] → ['mooring', 'contracts', 'legal', 'fees', 'refund']
+  tags: [] → ['mooring', 'contracts', 'refunds', 'legal', 'finance']
+  status: new → completed
+✓ File updated
+
+--- Processing: More detailed History of John Barry.md ---
+Changes suggested:
+  category: None → Maritime, History
+  note_type: None → reference
+  topics: [] → ['Liberty Ships', 'Merchant Marine', 'World War II', 'Shipping', 'ARAMCO', 'Saudi Arabia', 'Sinking']
+  tags: ['WEBLOG/stories/ship'] → ['WWII', 'ship', 'Saudi Arabia', 'ARAMCO', 'merchant marine', 'WEBLOG/stories/ship', 'sinking']
+  status: new → completed
+✓ File updated
+
+--- Processing: Motioneye.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['motion detection', 'surveillance', 'Raspberry Pi', 'motioneye', 'security cameras', 'motion']
+  tags: ['new'] → ['DIY', 'new', 'security', 'automation']
+  technology_stack: [] → ['Raspberry Pi', 'Linux']
+  tools_used: [] → ['Motion', 'MotionEyeOS']
+✓ File updated
+
+--- Processing: MQTT Server in The Cloud.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['Infrastructure', 'Cloud Computing', 'IoT', 'MQTT']
+  tags: ['new'] → ['mqtt', 'new', 'cloud']
+  technology_stack: [] → ['AWS IoT Core', 'EMQX', 'HiveMQ']
+  tools_used: [] → ['AWS IoT Core', 'EMQX', 'HiveMQ']
+✓ File updated
+
+--- Processing: MSTY with Ollama.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → reference
+  topics: [] → ['Ollama', 'Local AI', 'MSTY', 'LLMs', 'GUI']
+  tags: ['new'] → ['new', 'Ollama', 'Local AI', 'MSTY', 'GUI']
+  technology_stack: [] → ['Python', 'Ollama']
+  tools_used: [] → ['Ollama', 'MSTY']
+  ai_model: None → LLMs
+  status: new → completed
+✓ File updated
+
+--- Processing: My biggest Productivity Mistakes.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → reference
+  topics: [] → ['time management', 'mindset', 'self-improvement', 'productivity']
+  tags: ['new'] → ['new', 'mindset', 'productivity', 'tim-harford', 'personal-development']
+✓ File updated
+
+--- Processing: My Custom System Prompt.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['AI', 'LLMs', 'system prompts', 'prompt engineering']
+  tags: ['systemPrompt'] → ['systemPrompt', 'AI', 'LLMs', 'promptEngineering']
+  technology_stack: [] → ['Python', 'Raspberry Pi']
+  tools_used: [] → ['Obsidian', 'Perplexity AI']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: My Grandmother Dorothea Bussell.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['authorship', 'Dorothea Bussell', 'family history', 'war widows pension', 'historical income']
+  tags: ['new'] → ['pension', 'new', 'history', 'authors', 'WW1', 'family']
+✓ File updated
+
+--- Processing: My meds list July 2023.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → reference
+  topics: [] → ['allergies', 'health', 'blood pressure', 'asthma', 'bladder function', 'medications']
+  tags: ['Lists'] → ['reference', 'health', 'Lists', 'lists', 'medications']
+  status: new → completed
+✓ File updated
+
+--- Processing: Naming of Ministry of Defence.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['military', 'naming', 'Department of Defense', 'Ministry of War', 'government', 'historical terminology']
+  tags: None → ['naming conventions', 'government terminology', 'Trump', 'military history']
+  status: new → completed
+✓ File updated
+
+--- Processing: NanoGPT Models to Use..md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → reference
+  topics: [] → ['agent AI', 'models', 'LLMs', 'nano-gpt', 'API', 'code generation']
+  tags: ['new'] → ['new', 'models', 'LLMs', 'agents', 'nano-gpt', 'code']
+  tools_used: [] → ['TabbyML', 'nano-gpt']
+  ai_model: None → ['GPT-4.1 Nano', 'Athene V2 Chat', 'Anubis Pro 105b v1', 'GPT-4.1 Mini', 'GPT-4.1']
+✓ File updated
+
+--- Processing: Nate White describes Trump.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Cultural Differences', 'United Kingdom', 'Public Opinion', 'Donald Trump', 'Political Commentary']
+  tags: ['new'] → ['new', 'Trump', 'Political Analysis', 'UK', 'Cultural Criticism']
+✓ File updated
+
+--- Processing: Navigating Grief Building a Positive Relationship with Your Son-in-Law.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → guide
+  topics: [] → ['grandparenting', 'grief', 'relationships', 'support', 'in-laws', 'family']
+  tags: ['flossy/mentalhealth'] → ['flossy/mentalhealth', 'grandparenting', 'grief', 'relationships', 'support', 'in-laws', 'family']
+  ai_model: None → GPT-4
+  status: new → completed
+✓ File updated
+
+--- Processing: Nearly right story of Sedco 445 and the John Barry.md ---
+Changes suggested:
+  category: None → Maritime, History
+  note_type: None → reference
+  topics: [] → ['Shell', 'ships', 'World War II', 'Gabon', 'Saudi Arabia', 'Japan', 'dynamic positioning', 'offshore technology', 'drilling rigs']
+  tags: ['WEBLOG/stories/ship'] → ['maritime', 'history', 'johnbarry', 'ship', 'sedco445', 'drilling', 'dynamic positioning', 'WEBLOG/stories/ship']
+  technology_stack: [] → ['subsea blowout preventer', 'thrusters', 'dynamic positioning']
+  status: new → completed
+✓ File updated
+
+--- Processing: New Broadband Plusnet contract Ends June 15th.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → reference
+  topics: [] → ['Plusnet', 'contracts', 'internet', 'broadband', 'pricing']
+  tags: ['home/broadband'] → ['contracts/end_date_2024', 'home/broadband', 'financial/subscriptions']
+✓ File updated
+
+--- Processing: Next Cloud on Pi.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Docker', 'Nextcloud', 'Raspberry Pi', 'cloud storage', 'Portainer']
+  tags: ['storage'] → ['raspberrypi', 'portainer', 'docker', 'nextcloud', 'storage']
+  technology_stack: [] → ['Raspberry Pi OS', 'Docker', 'MariaDB']
+  tools_used: [] → ['apt', 'curl', 'docker', 'docker-compose', 'Portainer']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: nginx.conf.md ---
+Changes suggested:
+  category:  → Technical
+  note_type:  → documentation
+  topics: [] → ['nginx', 'configuration', 'web server']
+  tags: [] → ['server', 'nginx', 'configuration']
+  technology_stack: [] → ['nginx']
+  project:  → Unknown
+✓ File updated
+
+--- Processing: Nick Milo Obsidian For Beginers.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → guide
+  topics: [] → ['Note-Taking', 'Productivity', 'Obsidian', 'Knowledge Management']
+  tags: ['SYSTEM/obsidian/howto'] → ['SYSTEM/obsidian/howto', 'productivity', 'learning']
+  tools_used: [] → ['Markdown', 'Obsidian']
+  status: new → completed
+✓ File updated
+
+--- Processing: Non Slip Surface for Decking.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['safety', 'woodworking', 'coatings', 'decking', 'materials', 'home improvement']
+  tags: ['HOME/garden'] → ['HOME/garden', 'safety', 'DIY', 'decking', 'wood']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Nonsense Parking Rules.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['urban planning', 'economics', 'Donald Shoup', 'policy', 'parking']
+  tags: ['sensibleEconomics'] → ['policy', 'sensibleEconomics', 'urbanism']
+  status: new → completed
+✓ File updated
+
+--- Processing: Notes about Using Yaml for  Dictionary of Dictionaries.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Data Structures', 'YAML', 'Python', 'Dictionaries', 'Configuration']
+  tags: ['github/python/yaml'] → ['data', 'configuration', 'python', 'yaml', 'programming', 'github/python/yaml']
+  technology_stack: [] → ['Python']
+  tools_used: [] → ['pip', 'pyyaml']
+  status: new → completed
+✓ File updated
+
+--- Processing: Notes For Finland Trip.md ---
+Changes suggested:
+  category:  → Personal
+  note_type:  → note
+  topics: [] → ['finland', 'travel', 'trip planning']
+  tags: [] → ['trip', 'finland', 'travel']
+✓ File updated
+
+--- Processing: Notes on Possible Software Projects.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → idea
+  topics: [] → ['MQTT', 'scheduling', 'software development', 'YAML', 'IoT', 'automation']
+  tags: ['github/python'] → ['MQTT', 'scheduling', 'YAML', 'github/python', 'python', 'IoT', 'automation']
+  technology_stack: [] → ['Python', 'Raspberry Pi', 'Tuya', 'MQTT']
+  tools_used: [] → ['VSCode', 'Lister', 'ChatGPT', 'Raspberry Pi 3', 'Raspberry Pi 4']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Notes on SystemSculpt AI Set Up Notes.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → documentation
+  topics: [] → ['AI', 'Prompt Engineering', 'Chatbots', 'SystemSculpt']
+  tags: ['SYSTEM/obsidian'] → ['AI', 'Chat', 'SYSTEM/obsidian', 'SystemSculpt']
+  tools_used: [] → ['Obsidian', 'SystemSculpt']
+  ai_model: None → Unknown
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Obsidian  the best Tool for Makers.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → reference
+  topics: [] → ['Software', 'Productivity', 'Obsidian', 'Knowledge Management', 'Markdown', 'Makers']
+  tags: [] → ['Obsidian', 'knowledge-management', 'makers', 'productivity']
+  technology_stack: [] → ['Markdown']
+  tools_used: [] → ['Obsidian', 'Claude 3.5 Sonnet']
+  ai_model: None → Claude 3.5 Sonnet
+  status: new → completed
+✓ File updated
+
+--- Processing: Obsidian and System Sculpt.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → documentation
+  topics: [] → ['LLM', 'Obsidian', 'SystemSculpt', 'Note-Taking', 'AI']
+  tags: ['system/obsidian/systemsculpt'] → ['LLM', 'AI', 'system/obsidian/systemsculpt', 'Mistral']
+  technology_stack: [] → ['GitHub', 'Obsidian', 'LM Studio']
+  tools_used: [] → ['GitHub', 'Patreon', 'LM Studio', 'Buy Me A Coffee']
+  ai_model: None → Mistral 7B Instruct 0.2
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Obsidian Help and Docs.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → task
+  topics: [] → ['shed', 'productivity', 'technology', 'fitness', 'home improvement']
+  tags: ['SYSTEM/obsidian/howto', 'markdown'] → ['SYSTEM/obsidian/howto', 'tasks', 'markdown', 'home']
+  tools_used: [] → ['3D printing', 'Obsidian', 'Google Calendar']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Obsidian Notes.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Obsidian', 'software', 'keyboard shortcuts', 'productivity']
+  tags: ['SYSTEM/obsidian/howto'] → ['SYSTEM/obsidian/howto', 'productivity']
+  technology_stack: [] → ['Obsidian']
+  tools_used: [] → ['Obsidian']
+  status: new → completed
+✓ File updated
+
+--- Processing: Obsidian Second Brain Setup for Productivity and Task Management.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Productivity', 'Obsidian', 'Second Brain', 'ADHD', 'Task Management']
+  tags: ['SYSTEM/obsidian'] → ['SYSTEM/obsidian', 'second-brain', 'task-management', 'productivity']
+  technology_stack: [] → ['Google Drive', 'Todoist', 'Obsidian', 'iCloud Drive']
+  tools_used: [] → ['Todoist', 'Obsidian']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Obsidian_CoPilot_Plugin_Issue@20250902_143725.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → log
+  topics: [] → ['CoPilot Plugin', 'UI Bug', 'Obsidian', 'Android', 'Keyboard']
+  tags: ['copilot-conversation'] → ['bug', 'android', 'copilot-conversation', 'mobile']
+  technology_stack: [] → ['Android', 'Obsidian', 'Gboard', 'SwiftKey']
+  tools_used: [] → ['Gboard', 'Obsidian', 'SwiftKey', 'CoPilot Plugin']
+  status: new → completed
+✓ File updated
+
+--- Processing: octaprint download and setup on R Pi 3.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Raspberry Pi', 'Linux', '3D Printing', 'Systemd', 'Automation', 'OctoPrint']
+  tags: ['github/3dprintHowTo'] → ['raspberrypi', '3dprintHowTo', 'octoprint', 'github/3dprintHowTo', 'systemd', 'automation']
+  technology_stack: [] → ['OctoPrint', 'Python 3.11', 'Systemd', 'Raspberry Pi OS (Debian)']
+  tools_used: [] → ['pip', 'Python', 'bash', 'systemctl']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: old Hospital Story.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → reference
+  topics: [] → ['Tammisaari', 'Events', 'Wellness', 'Hospital History', 'Knipnäs Well-being Center', 'Finland', 'Architecture', 'Yoga']
+  tags: None → ['wellness', 'place', 'event-venue', 'history']
+  status: new → completed
+✓ File updated
+
+--- Processing: on Echo chambers making extremists.md ---
+Changes suggested:
+  category: None → Social Science
+  note_type: None → research
+  topics: [] → ['extremism', 'echo chambers', 'polarization', 'politics', 'public opinion', 'social trends']
+  tags: ['flossy/TimHarford'] → ['flossy/TimHarford', 'social-science', 'politics', 'polarization']
+  status: new → completed
+✓ File updated
+
+--- Processing: one drive file linking fromObsidian.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Windows', 'OneDrive', 'synchronization', 'file linking']
+  tags: ['SYSTEM/obsidian/howto'] → ['obsidian', 'file management', 'SYSTEM/obsidian/howto', 'cloud storage', 'howto']
+  technology_stack: [] → ['Windows', 'OneDrive']
+  tools_used: [] → ['mklink', 'OneDrive']
+  status: new → completed
+✓ File updated
+
+--- Processing: OnLine Forms for WWT.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['Elementor', 'web development', 'forms', 'events', 'WordPress', 'charity']
+  tags: [] → ['Elementor', 'forms', 'WordPress', 'charity', 'WWT']
+  technology_stack: [] → ['Elementor', 'WordPress']
+  tools_used: [] → ['Elementor', 'Ninja Forms', 'WPForms', 'Contact Form 7', 'Google Forms', 'Typeform', 'JotForm', 'Gravity Forms']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: open aibemail sept 13th 24.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → reference
+  topics: [] → ['LLM', 'AI Models', 'OpenAI', 'ChatGPT']
+  tags: ['new'] → ['new', 'announcement', 'models', 'OpenAI', 'o1']
+  ai_model: None → OpenAI o1
+✓ File updated
+
+--- Processing: OpenAI AP on Android.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Security', 'ChatGPT', 'OpenAI', 'Android', 'API']
+  tags: ['system/AIchat/howto'] → ['Security', 'Mobile', 'ChatGPT', 'OpenAI', 'system/AIchat/howto', 'Android', 'API', 'howto']
+  technology_stack: [] → ['Android', 'OpenAI API']
+  tools_used: [] → ['ChatBoost', 'ChatBoxAI']
+  ai_model: None → ChatGPT
+  status: new → completed
+✓ File updated
+
+--- Processing: openAI email 12 09 24.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → reference
+  topics: [] → ['GPT-4o', 'OpenAI', 'AI Models', 'Pricing']
+  tags: ['new'] → ['pricing', 'new', 'gpt4o', 'openai']
+  ai_model: None → GPT-4o
+✓ File updated
+
+--- Processing: Optimizing Print Speeds for an  Ender 3 V2.md ---
+Changes suggested:
+  category:  → Technical
+  note_type:  → guide
+  topics: [] → ['Ender 3 V2', '3D Printing', 'Optimization', 'Print Speed']
+  tags: [] → ['optimization', 'ender3', '3d-printing']
+  technology_stack: [] → ['3D Printing']
+✓ File updated
+
+--- Processing: Organic Shapes for 3D Printing.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Modeling', '3D Printing', 'Generative Design', 'Organic Shapes']
+  tags: ['github/3dprintHowTo'] → ['3D Design', 'Generative Design', 'Organic Shapes', '3D Printing', 'github/3dprintHowTo', 'Modeling']
+  tools_used: [] → ['Blender', 'ZBrush', 'SculptGL', 'Sculptris']
+  ai_model: None → Perplexity.AI
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Outlook Settings Access.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['email', 'smtp', 'configuration', 'outlook', 'imap']
+  tags: ['IT/howto'] → ['email', 'configuration', 'outlook', 'IT/howto', 'howto']
+  technology_stack: [] → ['imap', 'smtp', 'outlook']
+  tools_used: [] → ['outlook']
+  status: new → completed
+✓ File updated
+
+--- Processing: parking in Wells.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → guide
+  topics: [] → ['Somerset', 'Travel', 'Parking', 'Wells Somerset']
+  tags: ['new'] → ['new', 'Wells', 'Somerset', 'travel', 'parking', 'budget']
+  tools_used: [] → ['ECP', 'Morrisons', 'Lidl', 'Waitrose', 'Tesco']
+✓ File updated
+
+--- Processing: Part of story of Cegelec DP used on Flex LD.md ---
+Changes suggested:
+  category: None → Maritime
+  note_type: None → reference
+  topics: [] → ['cable lay vessels', 'MSV Seaspread', 'marine systems', 'DP systems', 'offshore oil', 'Cegelec', 'dynamic positioning']
+  tags: ['WEBLOG/stories/ship'] → ['WEBLOG/stories/ship', 'Cegelec Projects', 'DP901', 'Rugby']
+  technology_stack: [] → ['DP control systems']
+  status: new → completed
+✓ File updated
+
+--- Processing: Pasture in Hame.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['art', 'painting', 'agriculture', 'biodiversity', 'landrace', 'pasture', 'cattle', 'environmental change', 'Finland']
+  tags: ['1721226020623.jpg', 'Finland/summer24'] → ['genetic diversity', 'Finland/summer24', 'cattle breeds', '1721226020623.jpg', 'Hjalmar Munsterhjelm']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: pdf-to-markdown-converter.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → documentation
+  topics: [] → ['PDF conversion', 'Markdown', 'Insurance documents', 'AI', 'Text extraction']
+  tags: ['localAI'] → ['python', 'pdf', 'localAI', 'ai', 'markdown', 'text-extraction']
+  technology_stack: [] → ['Python', 'pdfminer']
+  tools_used: [] → ['Python', 'pdfminer']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Perplexity Llama 3.1 8B answer Test Q.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['intelligent systems', 'robotics', 'hardware', 'AI', 'software']
+  tags: ['new'] → ['new', 'robotics', 'intelligent-robots', 'hardware', 'software', 'ai']
+  technology_stack: [] → ['TensorFlow Lite Micro', 'Raspberry Pi', 'OpenCV', 'Arduino', 'ROS']
+  tools_used: [] → ['Raspberry Pi OS', 'TensorFlow', 'Arduino IDE', 'OpenCV']
+✓ File updated
+
+--- Processing: Pharmaceutical Payments to Doctors UK USA and Brazil Comparison.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → research
+  topics: [] → ['doctor payments', 'healthcare', 'comparative analysis', 'ethics', 'transparency', 'pharmaceuticals']
+  tags: ['history/medicine'] → ['history/medicine', 'healthcare', 'international', 'ethics', 'pharmaceuticals']
+  tools_used: [] → ['Perplexity.AI']
+  status: new → completed
+✓ File updated
+
+--- Processing: Planting a Tree.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → guide
+  topics: [] → ['trees', 'gardening', 'memorial', 'daughter', 'planting']
+  tags: ['new'] → ['new', 'trees', 'personal', 'gardening', 'memorial', 'daughter', 'planting']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Please_look_through_[[Insights_on_Enhancing_SystemSculpt_AI_Amid_Growing@20250724_093208.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Obsidian', 'SystemSculpt AI', 'Knowledge Management', 'Competitive Analysis', 'AI Plugins']
+  tags: ['copilot-conversation'] → ['obsidian-plugins', 'ai', 'systemsculpt', 'copilot-conversation']
+  tools_used: [] → ['Obsidian', 'Local Copilot', 'AI Assistant', 'OpenWebUI', 'AnythingLLM', 'Obsidian Copilot', 'Smart Connections', 'GPT4All']
+  status: new → needs-review
+✓ File updated
+
+--- Processing: Plugging Gaps in Known unknowns.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → reference
+  topics: [] → ['Tim Harford', 'Archie Cochrane', 'medicine', 'research', 'systematic reviews', 'evidence-based practice']
+  tags: ['new'] → ['knowledge management', 'new', 'research', 'critical thinking']
+✓ File updated
+
+--- Processing: Pneumonia and How to avoid Getting as sick as a Pope.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → guide
+  topics: [] → ['aging', 'vaccinations', 'respiratory health', 'pneumonia', 'prevention', 'immune system']
+  tags: ['avoidingIllness'] → ['aging', 'health', 'vaccines', 'immunity', 'pneumonia', 'prevention', 'avoidingIllness']
+  status: new → completed
+✓ File updated
+
+--- Processing: Possible Desktop Upgrades.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['Ollama', 'motherboard compatibility', 'AMD Ryzen', 'BIOS update', 'PC performance', 'PC upgrades']
+  tags: ['new'] → ['new', 'cpu', 'ollama', 'pc', 'hardware', 'ai']
+  technology_stack: [] → ['NVIDIA', 'MSI', 'AMD']
+  tools_used: [] → ['MSI website', 'Ollama']
+  ai_model: None → ['Ollama']
+✓ File updated
+
+--- Processing: Post and Reply ref Need for Documentation.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → idea
+  topics: [] → ['Obsidian', 'LLMs', 'AI', 'Documentation', 'Agents', 'Plugins']
+  tags: ['python/obsidian/plugins'] → ['obsidian', 'llms', 'documentation', 'ollama', 'plugins', 'python/obsidian/plugins', 'agents', 'ai']
+  technology_stack: [] → ['Obsidian', 'Python']
+  tools_used: [] → ['Obsidian', 'Ollama']
+✓ File updated
+
+--- Processing: Potential Fraud by that fencing guy.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → research
+  topics: [] → ['UK', 'scams', 'fraud', 'phone numbers', 'Vodafone']
+  tags: ['new'] → ['new', 'phone_number', 'scam', 'investigation', 'fraud']
+  tools_used: [] → ['Spokeo', 'Truecaller']
+✓ File updated
+
+--- Processing: Power Connections for RAMPS Board.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['RAMPS', '3D Printing', 'Power Supply', 'Arduino', 'Electronics']
+  tags: ['new'] → ['new', 'Power', 'Wiring', 'RAMPS', '3D Printing', 'Arduino', 'Electronics']
+  technology_stack: [] → ['RAMPS 1.4', 'Arduino Mega']
+✓ File updated
+
+--- Processing: Predictions aren’t always about the future.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → reference
+  topics: [] → ['John Dee', 'history', 'Queen Elizabeth I', 'predictions', 'forecasting', 'divination', 'Cameroon']
+  tags: ['new'] → ['new', 'history', 'predictions', 'tim-harford', 'divination']
+✓ File updated
+
+--- Processing: Press Briefing style analysis Trump Speech August 16th 2024.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Press', 'Trump', 'Politics', 'Economics', 'Speeches', 'Policy']
+  tags: ['history/Turmp'] → ['economics', 'speech-analysis', 'politics/policy', 'history/Turmp', 'history/Trump']
+  ai_model: None → Anthropic Claude 3 Opus
+  status: new → completed
+✓ File updated
+
+--- Processing: Proper Storage and Maintenance of 3D Printer Filaments.md ---
+Changes suggested:
+  category:  → Technical
+  note_type:  → guide
+  topics: [] → ['Storage', '3D Printing', 'Maintenance', 'Filament']
+  tags: [] → ['filament', 'storage', '3d-printing', 'maintenance']
+✓ File updated
+
+--- Processing: Proposed Insurance Report for Whitchurch Men in Sheds Charity.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → report
+  topics: [] → ['trustees', 'compliance', 'risk management', 'insurance', 'charity']
+  tags: ['wmis/insurance'] → ['trustees', 'wmis/insurance', 'report', 'risk', 'charity']
+  ai_model: None → GPT4o
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Pros and Cons Varios LLM UIs..md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Ollama', 'Local AI', 'LLM UIs', 'HuggingChat', 'AnythingLLM', 'Open WebUI', 'LibreChat']
+  tags: ['new'] → ['LLM', 'UI', 'new', 'Ollama', 'comparison', 'WebUI']
+  technology_stack: [] → ['R Pi 5', 'Pinggy', 'Python']
+  tools_used: [] → ['Ollama', 'Obsidian', 'OpenRouter', 'HuggingChat', 'AnythingLLM', 'Open WebUI', 'LibreChat']
+✓ File updated
+
+--- Processing: Publication Bias.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → reference
+  topics: [] → ['statistics', 'English football', 'publication bias', 'research', 'cognitive bias']
+  tags: ['flossy/TimHarford'] → ['flossy/TimHarford', 'bias', 'research_methods']
+  status: new → completed
+✓ File updated
+
+--- Processing: Pyhämaan uhrikirkko.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → reference
+  topics: [] → ['Cultural Heritage', 'Religious History', 'Southwest Finland', 'Churches', 'Finland', 'Uusikaupunki', 'Architecture']
+  tags: ['history/Finland'] → ['churches', 'history/Finland', 'cultural_heritage', 'historical_sites', 'landmarks']
+  status: new → completed
+✓ File updated
+
+--- Processing: Python Good Practice For Modules.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['documentation', 'best practices', 'coding standards', 'modules', 'python']
+  tags: ['github/python/modules/howto'] → ['github/python/modules/howto', 'python-general']
+  technology_stack: [] → ['python']
+  tools_used: [] → ['github']
+  ai_model: None → GPT-3.5
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Python module class best practice.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['documentation', 'best practices', 'coding standards', 'python', 'programming']
+  tags: ['github/python/modules'] → ['documentation', 'pep8', 'github/python/modules', 'best-practices', 'python', 'coding']
+  technology_stack: [] → ['python']
+  tools_used: [] → ['black', 'flake8']
+  ai_model: None → GPT-4
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Python pdf to text.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → documentation
+  topics: [] → ['Markdown', 'Python', 'Automation', 'Text Extraction', 'PDF']
+  tags: ['new'] → ['new', 'Python', 'PDF', 'automation']
+  technology_stack: [] → ['pymupdf4llm', 'Python']
+  tools_used: [] → ['pymupdf4llm', 'Python', 're']
+✓ File updated
+
+--- Processing: Python window with instructions from yaml.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['GUI', 'YAML', 'Python', 'Clipboard']
+  tags: ['github/python/tkinter'] → ['github/python/tkinter', 'pyyaml', 'pyperclip', 'gui', 'python', 'yaml', 'tkinter']
+  technology_stack: [] → ['pyperclip', 'Python', 'PyYAML', 'tkinter']
+  tools_used: [] → ['pyperclip', 'PyYAML', 'tkinter']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Query ref Python code that writes to file 21-02-28.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → reference
+  topics: [] → ['File I/O', 'Code Explanation', 'Python', 'Markdown']
+  tags: ['github/python/howto'] → ['markdown', 'file-io', 'code-explanation', 'github/python/howto']
+  technology_stack: [] → ['Python']
+  tools_used: [] → ['Python', 'VS Code (implied)']
+  ai_model: None → Claude 3.5 Sonnet
+  status: new → completed
+✓ File updated
+
+--- Processing: Question jmsg August 21st 2024.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['generator costs', 'micro-hydro', 'water power', 'tidal energy', 'renewable energy']
+  tags: ['AIqa'] → ['tidal', 'johnmcg', 'AIqa']
+  technology_stack: [] → ['micro-hydro systems', 'generators']
+  tools_used: [] → ['perplexity.ai']
+  ai_model: None → perplexity.ai
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Quiet Quitting.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['workplace', 'Gallup', 'quiet quitting', 'economy', 'management', 'employee engagement']
+  tags: ['history/jobsAndAI'] → ['workplace', 'history/jobsAndAI', 'quiet quitting', 'employee engagement']
+  tools_used: [] → ['Perplexity AI', 'Gallup report']
+  ai_model: None → Perplexity AI
+  status: new → completed
+✓ File updated
+
+--- Processing: R Pi 3 A Plus as Camera  Q A.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → reference
+  topics: [] → ['Raspberry Pi', 'DIY projects', 'remote sensing', 'wildlife monitoring', 'camera systems']
+  tags: ['new'] → ['camera', 'raspberrypi', 'new', 'wildlife']
+  technology_stack: [] → ['libcamera', 'Raspberry Pi 3 A+', 'TensorFlow Lite', 'Raspbian OS']
+  tools_used: [] → ['My Naturewatch Camera', 'rpicam-hello', 'rpicam-jpeg', 'Nerves System', 'Naturebytes Live-View', 'rpicam-vid', 'rpicam-detect']
+✓ File updated
+
+--- Processing: R Pi Camera Manual Focus Tool.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Camera', '3D Printing', 'Focus Adjustment', 'Raspberry Pi']
+  tags: ['new'] → ['raspberrypi', 'new', 'focus', 'camera', '3dprinting']
+  technology_stack: [] → ['STL', 'Raspberry Pi']
+  tools_used: [] → ['STLFinder', 'raspistill', 'Printables']
+✓ File updated
+
+--- Processing: RAG (1) - Local AI RAG Setup with Ollama and Custom Data Sources.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['LLM', 'Ollama', 'RAG', 'LangChain', 'Spring AI', 'Vector Database']
+  tags: ['system/AIchat/howto'] → ['LLM', 'Ollama', 'Local AI', 'RAG', 'LangChain', 'Spring AI', 'Milvus', 'system/AIchat/howto']
+  technology_stack: [] → ['Docker', 'Python', 'YAML']
+  tools_used: [] → ['Docker', 'Ollama', 'Docker Compose', 'YAML', 'LangChain', 'Spring AI', 'Milvus', 'Python']
+  ai_model: None → Llama 3
+  status: new → in-progress
+✓ File updated
+
+--- Processing: RAG (2) - Building a Local AI Server with Ollama and Stable Diffusion.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['Ollama', 'OpenWeb UI', 'AI', 'Local AI Server', 'WSL', 'Stable Diffusion']
+  tags: ['localAI'] → ['Ollama', 'OpenWebUI', 'AI', 'localAI', 'WSL', 'Stable Diffusion']
+  technology_stack: [] → ['Ollama', 'Linux', 'OpenWeb UI', 'WSL', 'Ubuntu']
+  tools_used: [] → ['Stable Diffusion', 'OpenWeb UI', 'WSL', 'Ollama']
+  ai_model: None → llama2
+  status: new → in-progress
+✓ File updated
+
+--- Processing: RAG (3a) - Setting Up and Using GPaT-Like Systems Offline AMA and Anything LLM Guide.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['LLM', 'Offline AI', 'RAG', 'Local AI']
+  tags: ['system/AIchat/howto'] → ['ama', 'anythingllm', 'ollama', 'rag', 'system/AIchat/howto']
+  technology_stack: [] → ['PowerShell', 'Ollama', 'Anything LLM']
+  tools_used: [] → ['YouTube', 'AMA', 'Ollama', 'Anything LLM']
+  ai_model: None → llama-2
+✓ File updated
+
+--- Processing: RAG (3b) - Setting Up and Using GPT-Like Systems Locally with AMA and Anything LLM.md ---
+Changes suggested:
+  category:  → AI_ML
+  note_type:  → guide
+  topics: [] → ['LLM', 'AMA', 'RAG', 'Anything LLM', 'Local LLM']
+  tags: [] → ['LLM', 'AI', 'RAG', 'local']
+  ai_model: None → AMA, Anything LLM
+✓ File updated
+
+--- Processing: Reading Well for Dementia.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → guide
+  topics: [] → ['Cognitive Impairment', 'Obsidian', 'Memory', 'Dementia', 'Reading', 'Kindle', 'Note Taking']
+  tags: ['flossy/mentalhealth'] → ['obsidian', 'flossy/mentalhealth', 'reading', 'kindle', 'workflow']
+  tools_used: [] → ['Kindle', 'Amazon', 'Obsidian']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Rebecca types.md ---
+Changes suggested:
+  category:  → Personal
+  note_type:  → note
+  topics: [] → ['typing', 'writing', 'productivity']
+  tags: [] → ['rebecca', 'typing']
+✓ File updated
+
+--- Processing: Recomendations for Octoprint Plugins for Commisioning.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['3D Printing', 'MonoPrice Select Mini', 'RepRap', 'Arduino', 'OctoPrint']
+  tags: [] → ['setup', 'commissioning', 'plugins']
+  technology_stack: [] → ['Arduino', 'OctoPrint', 'RepRap 1.4']
+  tools_used: [] → ['Print Time Genius', 'Pretty GCode', 'Simple Emergency Stop', 'Sidebar Webcam', 'Detailed Progress', 'Dashboard']
+  ai_model: None → Anthropic Claude 3.5 Sonnet
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Redone Report including all the Documents.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → documentation
+  topics: [] → ['trustees', 'liability', 'risk management', 'insurance', 'legal', 'charity']
+  tags: ['WMIS/insurance'] → ['trustees', 'compliance', 'legal', 'risk', 'charity', 'WMIS/insurance']
+  tools_used: [] → ['Talisman Specialty', 'ARAG']
+  status: new → completed
+✓ File updated
+
+--- Processing: Regular Expression to detect tags.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → documentation
+  topics: [] → ['text processing', 'markdown', 'python', 'regular expressions']
+  tags: ['github/python'] → ['obsidian', 'github/python', 'python', 'markdown', 'regex']
+  technology_stack: [] → ['python']
+  tools_used: [] → ['python', 'regex']
+  status: new → completed
+✓ File updated
+
+--- Processing: Report 1 WMIS Insurance.md ---
+Changes suggested:
+  category:  → Project
+  note_type:  → report
+  topics: [] → ['insurance', 'WMIS']
+  tags: [] → ['insurance', 'report']
+  project:  → WMIS Insurance
+✓ File updated
+
+--- Processing: Report 2 WMIS Insurance.md ---
+Changes suggested:
+  category: None → Project
+  note_type: None → guide
+  topics: [] → ['non-profit', 'risk management', 'insurance', 'workshops', 'charity', "men's sheds"]
+  tags: ['WMIS'] → ['insurance', 'charity', 'risk', 'WMIS']
+  tools_used: [] → ['Anthropic Claude 3.5 Sonnet', 'Markdown']
+  ai_model: None → Anthropic Claude 3.5 Sonnet
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Report 3 WMIS Insurance.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → documentation
+  topics: [] → ['risk management', 'insurance', 'trustee liability', 'policy review', 'AXA XL']
+  tags: ['WMIS/insurance'] → ['trustee liability', 'insurance policy', 'AXA XL', 'WMIS/insurance']
+  tools_used: [] → ['Adobe Acrobat', 'PDF']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Resolving Git Pull Conflicts.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['version control', 'git', 'development', 'conflict resolution']
+  tags: ['git/howto'] → ['git/troubleshooting', 'git/howto', 'development/git']
+  technology_stack: [] → ['git']
+  tools_used: [] → ['git', 'bash']
+  status: new → completed
+✓ File updated
+
+--- Processing: Roasted Oats.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → guide
+  topics: [] → ['oats', 'roasting', 'cooking', 'breakfast', 'muesli']
+  tags: ['new'] → ['new', 'food', 'recipe']
+✓ File updated
+
+--- Processing: Roman Concrete.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Pozzolan', 'Roman Engineering', 'Ancient Technology', 'Materials Science', 'Opus Caementicium', 'Concrete']
+  tags: [] → ['construction', 'geology', 'ancient-rome', 'chemistry']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Roy Wood.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → guide
+  topics: [] → ['comedy', 'streaming', 'Roy Wood Jr.', 'stand-up', 'television']
+  tags: ['comedy'] → ['comedy', 'Roy Wood Jr.']
+  tools_used: [] → ['Netflix', 'Hulu', 'YouTube', 'Comedy Central', 'Amazon Prime Video']
+  status: new → completed
+✓ File updated
+
+--- Processing: Running Obsidian on Raspberry Pi 4 Step-by-Step Guide and Troubleshooting.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Raspberry Pi', 'Linux', 'Obsidian', 'Software Installation', 'ARM']
+  tags: ['github/RPI/setup'] → ['ARM', 'Obsidian', 'Raspberry Pi', 'github/RPI/setup']
+  technology_stack: [] → ['Raspberry Pi OS', 'ARM', 'Linux']
+  tools_used: [] → ['nano', 'Obsidian', 'apt-get']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Ryzen Mini PC with NPU.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Ryzen AI', 'AI Hardware', 'NPU', 'AMD', 'mini PC']
+  tags: ['new'] → ['new', 'hardware', 'AI', 'Ryzen', 'mini PC']
+  technology_stack: [] → ['AMD Ryzen AI 9 HX 370', 'XDNA 2']
+  tools_used: [] → ['Aoostar', 'BeeLink', 'ServetheHome', 'Minisforum', "Tom's Hardware", 'BetaNews', 'Reddit', 'GMKtec', 'Soyo']
+  ai_model: None → AMD Ryzen AI 9 HX 370
+✓ File updated
+
+--- Processing: Saint Hendrik the patron Saint of Finland.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Church History', 'Saint Henry', 'Scandinavian History', 'Catholicism', 'Finland']
+  tags: [] → ['Religion', 'Saint_Henry', 'Martyrdom', 'History/finland']
+  project: None → History
+✓ File updated
+
+--- Processing: Saving SMS messages.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Backup', 'Text Messages', 'Data Export', 'SMS', 'Android', 'iPhone']
+  tags: ['new'] → ['new', 'android', 'data', 'ios', 'backup', 'mobile']
+  tools_used: [] → ['Droid Transfer', 'SMS Backup & Restore', 'Decipher TextMessage']
+✓ File updated
+
+--- Processing: Scot and Bickerton overlap.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Australasian Antarctic Expedition', 'Terra Nova Expedition', 'Robert Falcon Scott', 'Family History', 'Antarctic Exploration', 'Heroic Age of Antarctic Exploration']
+  tags: ['WEBLOG/family_history/bussell'] → ['AAE', 'WEBLOG/family_history/bussell', 'Scott Expedition']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Search for best Earpuece.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['bluetooth', 'reviews', 'headphones', 'audio', 'earpieces']
+  tags: ['new'] → ['new', 'bluetooth', 'reviews', 'headphones', 'audio']
+  technology_stack: [] → ['bluetooth']
+✓ File updated
+
+--- Processing: Secure Remote Access Strategies for Python on Raspberry Pi.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['SSH', 'Raspberry Pi', 'Remote Access', 'Security', 'Python']
+  tags: ['github/RPI/remoteCon'] → ['remote-development', 'github/RPI/remoteCon', 'security']
+  technology_stack: [] → ['Python', 'Raspberry Pi', 'SSH']
+  tools_used: [] → ['code-server', 'SSH', 'Visual Studio Code']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Secuureing nginx.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['nginx', 'raspberrypi', 'security', 'html', 'authentication', 'webserver']
+  tags: ['github/python/nginx'] → ['raspberrypi', 'nginx', 'security', 'authentication', 'github/python/nginx', 'webserver']
+  technology_stack: [] → ['nginx', 'bash', 'apache2-utils', 'php', 'perl']
+  tools_used: [] → ['htpasswd', 'systemctl', 'apt-get']
+  status: new → completed
+✓ File updated
+
+--- Processing: Sending Multiple Emails.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['email', 'automation', 'scripting', 'PDF', 'invoicing']
+  tags: ['new'] → ['new', 'email', 'scripting', 'python', 'automation']
+  technology_stack: [] → ['reportlab', 'pdfkit', 'Python', 'smtplib']
+  tools_used: [] → ['Mailchimp', 'reportlab', 'pdfkit', 'smtplib', 'SendGrid']
+✓ File updated
+
+--- Processing: Set Up DDNS on RPi4 Server.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Networking', 'DDNS', 'Port Forwarding', 'Raspberry Pi']
+  tags: ['DDNSsetUP'] → ['SkyRouter', 'RPi4', 'RaspberryPi', 'DDNSsetUP', 'Networking']
+  technology_stack: [] → ['Bash', 'Linux', 'Raspberry Pi 4']
+  tools_used: [] → ['nano', 'systemctl', 'ddclient']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Setting Reverse Proxy for AI server..md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['Apache', 'Raspberry Pi', 'Ollama', 'Python', 'reverse proxy', 'Wake-on-LAN', 'Nginx']
+  tags: ['new'] → ['new', 'wol', 'reverse proxy', 'python', 'ai', 'automation']
+  technology_stack: [] → ['Apache', 'Raspberry Pi 5', 'Ollama', 'Python', 'Nginx']
+  tools_used: [] → ['Apache', 'Python', 'Ollama', 'Nginx']
+✓ File updated
+
+--- Processing: Setting up Octaprint in Docker on R Pi 4.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Docker', '3D Printing', 'OctoPrint', 'Raspberry Pi']
+  tags: [] → ['raspberrypi', 'dual-printer', 'docker', 'octoprint']
+  technology_stack: [] → ['Docker', 'OctoPrint', 'Raspberry Pi OS']
+  tools_used: [] → ['Docker Compose', 'Docker', 'Bash']
+  ai_model: None → Claude 3.5 Sonnet
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Setting Up Rest API to Access R Pi 4 at Home.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['REST API', 'Raspberry Pi', 'Home Automation', 'Security', 'Python']
+  tags: ['new'] → ['raspberrypi', 'new', 'security', 'flask', 'api', 'python', 'homeautomation']
+  technology_stack: [] → ['RPi.GPIO', 'Python', 'Flask']
+  tools_used: [] → ['ngrok', 'Nginx', 'Flask']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Setting Up USB Webcam Microphone for Rhasspy on Raspberry Pi 4 Docker.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Docker', 'Raspberry Pi', 'Audio', 'Rhasspy', 'USB Microphone']
+  tags: ['github/rpi/rhasspy'] → ['rpi', 'rhasspy', 'alsa', 'audio', 'docker', 'usb', 'github/rpi/rhasspy']
+  technology_stack: [] → ['Docker', 'ALSA', 'Raspberry Pi']
+  tools_used: [] → ['bash', 'arecord', 'docker']
+  ai_model: None → GPT-4
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Setting Up Wake-on-LAN Between Windows 11 PC and Raspberry Pi 5 for Ollama Access.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['raspberrypi', 'ollama', 'wake-on-lan', 'networking', 'windows']
+  tags: [] → ['raspberrypi5', 'ollama', 'windows11', 'wol', 'wakeonlan', 'bios']
+  technology_stack: [] → ['windows 11', 'raspberry pi 5', 'msi b850-a pro']
+  tools_used: [] → ['msi support', 'device manager', 'control panel']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Seven Truths About Trade.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['tariffs', 'self-sufficiency', 'economics', 'The Toaster Project', 'Thomas Thwaites', 'trade']
+  tags: ['flossy/TimHarford'] → ['flossy/TimHarford', 'economics', 'trade']
+  tools_used: [] → ['commemorative coins']
+✓ File updated
+
+--- Processing: Sharepoint for WWT.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['SharePoint', 'File Sharing', 'Trustee Management', 'Cloud Storage', 'Microsoft Office']
+  tags: ['wwt/office'] → ['trustees', 'sharepoint', 'microsoft-office', 'wwt/office']
+  technology_stack: [] → ['SharePoint', 'Microsoft Office 365', 'OneDrive']
+  tools_used: [] → ['SharePoint', 'OneDrive', 'Microsoft Teams']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Shed Facebook notes.md ---
+Changes suggested:
+  category: None → Project
+  note_type: None → reference
+  topics: [] → ['Volunteering', 'Building', 'Charity', 'Relocation', 'Community']
+  tags: ['WMIS'] → ['Whitchurch', 'Shed', 'Watergate Centre', 'WMIS']
+  tools_used: [] → ['Facebook', 'Website', 'Taillift Luton Van', 'WMIS website']
+  status: new → completed
+✓ File updated
+
+--- Processing: Sintti Henttu spelt wrong result.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['Helsinki', 'Sintti Henttu', 'Design Museum', 'artists', 'Sini Henttu', 'Finland']
+  tags: ['flossy/mentalhealth'] → ['artist', 'finnish_art', 'flossy/mentalhealth']
+  status: new → completed
+✓ File updated
+
+--- Processing: Sky and how to do wi fi.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['802.11ax', 'networking', 'wireless communication', 'wifi6', 'wifi']
+  tags: ['system/windows/howto'] → ['networking', 'wifi6', 'system/windows/howto']
+  technology_stack: [] → ['802.11ax', 'wifi']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Sky Router Issues.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['connectivity', 'internet', 'sky', 'broadband', 'firmware', 'router']
+  tags: ['new'] → ['new', 'internet', 'troubleshooting', 'sky', 'router']
+  technology_stack: [] → ['Sky Hub']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Slow Menu.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Shell Extensions', 'Windows', 'Troubleshooting', 'Performance', 'Registry']
+  tags: ['new'] → ['new', 'right-click', 'slow', 'windows', 'performance']
+  technology_stack: [] → ['Windows']
+  tools_used: [] → ['Registry Editor', 'Device Manager', 'msconfig', 'ShellExView', 'System File Checker (SFC)', 'DISM']
+  status: new → completed
+✓ File updated
+
+--- Processing: Small Scale Hydro.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['small scale hydro', 'hydroelectric power', 'Pakistan', 'engineering', 'renewable energy', 'physics']
+  tags: ['new'] → ['new', 'hydro', 'renewable', 'energy', 'physics']
+✓ File updated
+
+--- Processing: Smoke Detector Installation Rules and Power Connection Guidelines.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['fire safety', 'smoke detectors', 'home improvement', 'safety regulations']
+  tags: ['homeSecurity'] → ['homeSecurity', 'homeMaintenance', 'safety']
+  status: new → completed
+✓ File updated
+
+--- Processing: Solution to issue with Hot Water Controller.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['troubleshooting', 'smart home', 'connectivity', 'tuya', 'wifi']
+  tags: ['new'] → ['tuya-smart', 'new', 'smart-home']
+  technology_stack: [] → ['tuya smart']
+✓ File updated
+
+--- Processing: Solving Quickstep Hangups on Android.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Android', 'Launcher', 'Troubleshooting', 'Quickstep']
+  tags: ['launcher'] → ['android', 'quickstep', 'performance', 'launcher']
+  technology_stack: [] → ['Android']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Sorting Path.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['PATH', 'Windows', 'Environment Variables', 'Command Line']
+  tags: [] → ['path', 'commandline', 'windows', 'environmentvariables']
+  technology_stack: [] → ['Windows', 'Command Prompt', 'PowerShell']
+  tools_used: [] → ['echo', 'start', 'setx']
+  ai_model: None → Llama 3.1 Sonar 405B
+  status: new → completed
+✓ File updated
+
+--- Processing: Sowing Wild Flower Seeds.md ---
+Changes suggested:
+  category: None → Project
+  note_type: None → guide
+  topics: [] → ['wildflowers', 'propagation', 'seeds', 'gardening']
+  tags: ['garden/wildParts'] → ['wildflowers', 'gardening/propagation', 'garden/wildParts', 'seeds']
+✓ File updated
+
+--- Processing: Speech Coach's Advice for Improving a Trump Speech.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['rhetoric', 'Trump', 'public_speaking', 'speech_analysis', 'political_speech']
+  tags: ['history/Turmp'] → ['rhetoric', 'political_analysis', 'history/Turmp', 'history/Trump', 'speech_coaching']
+  ai_model: None → Claude 3 Opus
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Speech Writers Advice to Trump after Economics Speech.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Trump', 'Rhetoric', 'Economics', 'Speechwriting', 'Speeches', 'Political Discourse']
+  tags: ['history/Turmp'] → ['rhetoric', 'political_analysis', 'speech_analysis', 'history/Turmp', 'history/Trump']
+  ai_model: None → Anthropic Claude 3 Opus
+  status: new → completed
+✓ File updated
+
+--- Processing: SS Great Britain, the first propeller..md ---
+Changes suggested:
+  category: None → Maritime, History
+  note_type: None → reference, research
+  topics: [] → ['ships', 'Isambard Kingdom Brunel', 'propulsion', 'maritime history', 'technology', 'engineering']
+  tags: ['new'] → ['new', 'ships', 'maritime', 'propellers', 'Brunel', 'technology']
+  status: new → completed
+✓ File updated
+
+--- Processing: starting up docker.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Docker Compose', 'Docker', 'DevOps', 'Command Line']
+  tags: [] → ['cli', 'docker-compose', 'scripting', 'docker']
+  technology_stack: [] → ['Docker', 'Bash', 'Batch Script']
+  tools_used: [] → ['NPM', 'Make', 'Docker Desktop']
+  status: new → completed
+✓ File updated
+
+--- Processing: Stce energy AGM.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → reference
+  topics: [] → ['Community Energy', 'Governance', 'Funding', 'Membership', 'Solar Farm', 'AGM']
+  tags: ['SolarFarm'] → ['Whitchurch', 'Shropshire', 'Community Benefit Fund', 'Twemlows', 'SolarFarm', 'Telford', 'STCE']
+  tools_used: [] → ['Zoom', 'Email']
+✓ File updated
+
+--- Processing: Strandbeests.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → reference
+  topics: [] → ['Robotics', '3D Printing', 'Theo Jansen', 'Strandbeest']
+  tags: ['new'] → ['new', 'DIY', '3D Printing', 'Robotics', 'Strandbeest']
+  tools_used: [] → ['Instructables', 'Shapeways', 'STL', 'Yeggi']
+✓ File updated
+
+--- Processing: Strategy for sleep.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → guide
+  topics: [] → ['anxiety', 'wellbeing', 'stress', 'sleep', 'routine']
+  tags: ['new'] → ['anxiety', 'new', 'health', 'sleep', 'routine']
+  tools_used: [] → ['Obsidian']
+✓ File updated
+
+--- Processing: Synchronizing a Second Obsidian Vault with the Core Sync Plugin.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Configuration', 'Obsidian', 'Sync', 'Vault']
+  tags: ['SYSTEM/obsidian'] → ['obsidian', 'configuration', 'vault', 'sync', 'SYSTEM/obsidian']
+  technology_stack: [] → ['Obsidian']
+  tools_used: [] → ['Core Sync Plugin', 'Obsidian']
+  status: new → completed
+✓ File updated
+
+--- Processing: Syria Maps.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → reference
+  topics: [] → ['Maps', 'Population', 'Syria', 'Geography', 'Desert', 'Agriculture']
+  tags: ['new'] → ['Geography', 'new', 'Syria', 'Maps']
+✓ File updated
+
+--- Processing: System Prompt for Delphi Oracle.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['System Prompt', 'Delphi Oracle', 'Email Automation', 'AI', 'Men in Sheds']
+  tags: ['new'] → ['new', 'email', 'AI', 'oracle', 'sheds', 'prompt', 'automation']
+  ai_model: None → Gemini
+  status: new → completed
+✓ File updated
+
+--- Processing: System Prompts For Chat Ver 0.01.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['LLMs', 'AI', 'Chatbots', 'System Prompts', 'Prompt Engineering']
+  tags: ['new'] → ['new', 'prompting', 'system-prompt']
+  ai_model: None → Unknown - Generic LLM
+  status: new → in-progress
+✓ File updated
+
+--- Processing: System Ram as GPU ram. For llm.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['LLM', 'RAM', 'VRAM', 'Performance', 'GPU', 'Optimization']
+  tags: ['new'] → ['LLM', 'new', 'RAM', 'VRAM', 'optimization', 'GPU', 'performance']
+  technology_stack: [] → ['Windows', 'PyTorch', 'nvidia-smi', 'TensorFlow', 'CUDA']
+  tools_used: [] → ['nvidia-smi', 'TensorFlow', 'Task Manager', 'PyTorch']
+  ai_model: None → LLaMA-2
+  status: new → in-progress
+✓ File updated
+
+--- Processing: System Sculpt AI Update 2024 04 13.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → documentation
+  topics: [] → ['UI', 'Obsidian', 'SystemSculpt', 'AI', 'Settings', 'Chat API']
+  tags: ['system/obsidian/systemsculpt'] → ['ai', 'update', 'systemsculpt', 'system/obsidian/systemsculpt']
+  technology_stack: [] → ['OpenAI', 'JavaScript']
+  tools_used: [] → ['Patreon', 'Obsidian']
+  ai_model: None → OpenAI
+  status: new → completed
+✓ File updated
+
+--- Processing: System Scupt From Patreon.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['hotkeys', 'Obsidian', 'text generation', 'AI', 'OpenAI', 'GPT-4']
+  tags: ['system/obsidian/systemsculpt'] → ['AI', 'text-generation', 'system/obsidian/systemsculpt']
+  technology_stack: [] → ['Obsidian', 'OpenAI']
+  tools_used: [] → ['GPT-4', 'OpenAI']
+  ai_model: None → GPT-4
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Terminal interface like raspi-config.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['raspberrypi', 'terminal', 'curses', 'python', 'dialog', 'ui']
+  tags: ['github/python/dialog'] → ['terminalui', 'raspberrypi', 'github/python/dialog', 'curses']
+  technology_stack: [] → ['python', 'curses']
+  tools_used: [] → ['python', 'curses']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: tetuornepo_aiv_5_tzPG_gnissecca_smelborp_evah_otapps_spps_emos@20250822_101537.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['Access Issues', 'GPT-5', 'Troubleshooting', 'AI Models', 'OpenRouter', 'API']
+  tags: ['copilot-conversation'] → ['OpenAI', 'GPT', 'copilot-conversation']
+  technology_stack: [] → ['OpenAI', 'OpenRouter']
+  tools_used: [] → ['OpenAI', 'OpenRouter']
+  ai_model: None → GPT-5
+  status: new → completed
+✓ File updated
+
+--- Processing: Text to speech systems to investigate.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → research
+  topics: [] → ['voice recognition', 'Raspberry Pi', 'offline AI', 'text-to-speech', 'speech-to-text']
+  tags: ['new'] → ['new', 'Raspberry Pi', 'STT', 'speech', 'TTS', 'AI', 'offline']
+  technology_stack: [] → ['Raspberry Pi 5', 'C++', 'Raspberry Pi 4']
+  tools_used: [] → ['Mozilla DeepSpeech', 'Picovoice Cheetah', 'Piper', 'Picovoice Leopard', 'Whisper']
+  ai_model: None → ['DeepSpeech', 'Whisper', 'Piper', 'Leopard', 'Cheetah']
+✓ File updated
+
+--- Processing: That Yorkshire Posh Hotel.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['Luxury', 'Travel', 'Yorkshire', 'Hotels']
+  tags: ['Hotels'] → ['Travel', 'Yorkshire', 'Grantley Hall', 'Hotels']
+  status: new → completed
+✓ File updated
+
+--- Processing: The Absurdity of VAT Flapjacks Pasties and the UKs Broken Tax System.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → reference
+  topics: [] → ['Tax Law', 'Food', 'UK', 'Biscuits', 'Cakes', 'Taxation', 'Legal', 'VAT']
+  tags: ['new'] → ['uk', 'new', 'food', 'tax']
+  status: new → completed
+✓ File updated
+
+--- Processing: The Agenda Part 1.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Aldous Huxley', 'Yuval Noah Harari', 'surveillance', 'technocracy', 'global control', 'dystopian literature', 'social engineering', 'World Economic Forum', 'Great Reset', 'Brave New World']
+  tags: ['new'] → ['control', 'new', 'dystopia']
+✓ File updated
+
+--- Processing: The best Description of Trump..md ---
+Changes suggested:
+  category: None → History
+  note_type: None → reference
+  topics: [] → ['Character Analysis', 'British Perspective', 'Donald Trump', 'Humor', 'Political Commentary']
+  tags: ['Trump'] → ['Trump', 'Character', 'Political Analysis', 'Humor', 'International Relations']
+  status: new → completed
+✓ File updated
+
+--- Processing: The Cae for Late Bloomers.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → research
+  topics: [] → ['creativity', 'productivity', 'ageism', 'biography', 'psychology']
+  tags: ['flossy/TimHarford'] → ['flossy/TimHarford', 'creativity', 'ageism', 'biography', 'late-bloomers']
+  status: new → completed
+✓ File updated
+
+--- Processing: The Collapse of the Conservative Party and the Rise of the Reform Party.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Reform Party', 'Political Analysis', 'Brexit', 'Nigel Farage', 'Conservative Party', 'British Politics']
+  tags: ['flossy/history'] → ['farage', 'uk', 'brexit', 'flossy/history', 'politics', 'leadership', 'conservative', 'reform']
+  status: new → completed
+✓ File updated
+
+--- Processing: The Selfish Guide to Decarbonising.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → guide
+  topics: [] → ['climate change', 'economics', 'decarbonization', 'US policy', 'international relations']
+  tags: ['flossy/tim'] → ['climate', 'policy', 'flossy/tim', 'economics']
+  status: new → completed
+✓ File updated
+
+--- Processing: The Tao of bad Buildings.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['stirling prize', 'urban planning', 'buildings', 'how buildings learn', 'design', 'tim harford', 'architecture']
+  tags: ['new'] → ['new', 'buildings', 'design', 'architecture', 'urbanism']
+✓ File updated
+
+--- Processing: The value of institutional memory.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → reference
+  topics: [] → ['Blitz', 'institutional memory', 'British Waterways', 'preservation', 'knowledge management', 'Bodleian Library']
+  tags: ['flossy/TimHarford'] → ['flossy/TimHarford', 'memory', 'knowledge']
+  status: new → completed
+✓ File updated
+
+--- Processing: The WWT CRT accounts question answered by SystemSculpt Deepseek R1.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → guide
+  topics: [] → ['financial reporting', 'accrual accounting', 'CRT fees', 'charity accounting', 'mooring fees']
+  tags: [] → ['WWT', 'charity', 'finance', 'accounting']
+  ai_model: None → SystemSculpt Deepseek R1
+  status: new → completed
+✓ File updated
+
+--- Processing: The zero-sum mindset is no mystery.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['inflation', 'Brexit', 'tariffs', 'economics', 'policy', 'public opinion']
+  tags: ['sensibleEconomics'] → ['publicPerception', 'sensibleEconomics', 'economicPolicy']
+  status: new → completed
+✓ File updated
+
+--- Processing: Thermal Calcs for Rockwool.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['building_science', 'insulation', 'rockwool', 'heat_transfer', 'thermal_physics']
+  tags: ['new'] → ['new', 'insulation', 'r-value', 'thermal_conductivity', 'rockwool', 'u-value']
+  tools_used: [] → ['Obsidian', 'calculator']
+  status: new → completed
+✓ File updated
+
+--- Processing: Things in system sculpt 1.0.8.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → documentation
+  topics: [] → ['Obsidian', 'SystemSculpt', 'AI', 'Release Notes', 'Plugins']
+  tags: ['new'] → ['new', 'SystemSculpt', 'AI', 'release', 'plugin']
+  technology_stack: [] → ['JavaScript', 'JSON', 'CSS']
+  tools_used: [] → ['GitHub', 'Obsidian']
+✓ File updated
+
+--- Processing: Things to Take to Boat.md ---
+Changes suggested:
+  category: None → Maritime
+  note_type: None → task
+  topics: [] → ['checklist', 'travel', 'packing', 'boat']
+  tags: ['new'] → ['new', 'packing', 'travel', 'checklist', 'boat']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: think twice.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → reference
+  topics: [] → ['puzzles', 'critical thinking', 'decision making', 'problem solving', 'cognitive biases']
+  tags: ['new'] → ['thinking', 'new', 'tim harford', 'second order thinking']
+✓ File updated
+
+--- Processing: Thyroid.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → research
+  topics: [] → ['hypothyroidism', 'thyroid', 'levothyroxine', 'blood tests']
+  tags: ['health/bloodTests'] → ['health/bloodTests', 'health/medication', 'health/thyroid']
+  tools_used: [] → ['Perplexity.ai']
+  ai_model: None → Perplexity.ai
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Tim - The Games I am Playing.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → reference
+  topics: [] → ['philosophy', 'Finite and Infinite Games', 'play', 'games', 'Tim Harford', 'psychology']
+  tags: ['new'] → ['games', 'new', 'philosophy']
+✓ File updated
+
+--- Processing: Tim H what can we learn from fraud or folly.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → research
+  topics: [] → ['Tim Harford', 'economics', 'Dan Davies', 'Ig Nobel Prize', 'behavioral economics', 'fraud', 'failure']
+  tags: ['new'] → ['new', 'learning', 'economics', 'IgNobel', 'behavioral_economics', 'fraud', 'failure']
+✓ File updated
+
+--- Processing: Tim Harford compares spreadsheets to ai.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['history of computing', 'Dan Bricklin', 'innovation', 'technology', 'VisiCalc', 'spreadsheet']
+  tags: ['flossy/TimHarford'] → ['flossy/TimHarford', 'spreadsheet', 'history', 'technology']
+  tools_used: [] → ['Apple II', 'VisiCalc']
+  status: new → completed
+✓ File updated
+
+--- Processing: Tim Harford The Inconvenient Trusth about Productivity.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → research
+  topics: [] → ['Digital Minimalism', 'time management', 'productivity', 'Cal Newport', 'GTD', 'planning', 'David Allen']
+  tags: ['flossy/TimHarford'] → ['flossy/TimHarford', 'planning', 'timemanagement', 'productivity']
+  tools_used: [] → ['Getting Things Done', 'Digital Minimalism', 'TikTok']
+✓ File updated
+
+--- Processing: Tim on fakes.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['consumer behavior', 'economics', 'authenticity', 'conspicuous consumption', 'branding', 'luxury goods', 'counterfeiting']
+  tags: ['flossy/tim'] → ['counterfeits', 'flossy/tim', 'economics', 'luxury']
+  status: new → completed
+✓ File updated
+
+--- Processing: Tim on Fitness Trackers.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → research
+  topics: [] → ['quantified self', 'fitness trackers', 'exercise', 'Parkrun', 'behavioral science']
+  tags: ['new'] → ['new', 'productivity', 'technology', 'fitness', 'motivation']
+  tools_used: [] → ['Strava']
+✓ File updated
+
+--- Processing: tim ref forcasting.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → reference
+  topics: [] → ['New Orleans', 'hurricanes', 'decision making', 'risk management', 'behavioral economics', 'forecasting']
+  tags: ['new'] → ['forecasts', 'new', 'paradox', 'action', 'tim-harford', 'risk']
+✓ File updated
+
+--- Processing: Tim thing needs edit and better title.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → research
+  topics: [] → ['market psychology', 'behavioral finance', 'Norse mythology', 'investing', 'risk management']
+  tags: ['flossy/TimHarford'] → ['market psychology', 'behavioral finance', 'flossy/TimHarford', 'investing', 'Loki']
+  status: new → completed
+✓ File updated
+
+--- Processing: Tim's look at Trump's Favourite Word.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → research
+  topics: [] → ['Trump', 'history', 'tariffs', 'economics', 'trade policy']
+  tags: ['flossy/TimHarford'] → ['flossy/TimHarford', 'economics', 'trade']
+  status: new → completed
+✓ File updated
+
+--- Processing: Title Trumps Economic Proposals in August 16th 2024 Speech.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Politics', 'Policy Analysis', 'Economics', 'Donald Trump', 'Speeches']
+  tags: ['history/Turmp'] → ['Trump', 'EconomicPolicy', '2024Election', 'TrumpSpeech', 'history/Turmp']
+  ai_model: None → Claude 3 Opus
+✓ File updated
+
+--- Processing: To Quit or To Add that is the qustion.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → idea
+  topics: [] → ['self-improvement', 'behavioral_science', 'decision-making', 'habit_formation', 'productivity']
+  tags: ['flossy/TimHarford'] → ['flossy/TimHarford', 'oblique_strategies', 'subtract', 'Leidy_Klotz']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Tony's Workflow Lab.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → idea
+  topics: [] → ['productivity', 'workflow', 'ADHD', 'community', 'knowledge management']
+  tags: ['flossy/getitdone'] → ['flossy/getitdone', 'flow-labs', 'adhd', 'workflow', 'community']
+  tools_used: [] → ['Obsidian']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: TonyRamella emails.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → idea
+  topics: [] → ['synthesizer', 'self-improvement', 'resilience', 'career', 'personal development', 'ADHD', 'divergent thinking']
+  tags: ['flossy/mentalhealth'] → ['self-development', 'flossy/mentalhealth', 'resilience', 'ADHD', 'mentalhealth', 'career-change']
+  status: new → completed
+✓ File updated
+
+--- Processing: Tooth Ache Mitication.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → guide
+  topics: [] → ['dental health', 'pain management', 'home remedies', 'toothache']
+  tags: ['flossy/health'] → ['pain', 'flossy/health', 'dental']
+  status: new → completed
+✓ File updated
+
+--- Processing: Tricky memory.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['memory', 'cognitive psychology', 'perception', 'historical events', 'Mandela Effect', 'false memories']
+  tags: ['flossy/TimHarford'] → ['flossy/TimHarford', 'MandelaEffect', 'memory']
+  status: new → completed
+✓ File updated
+
+--- Processing: Trump Economic Proposals Analysis.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Economics', 'Donald Trump', 'Political Analysis', 'Speech Analysis']
+  tags: ['history/Turmp'] → ['economics', 'speech-analysis', 'AI', 'political-analysis', 'history/Turmp', 'history/Trump']
+  ai_model: None → Claude 3 Opus
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Trump Speech Notes for Republican Press Officer.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Trump', 'US Policy', 'economics', 'politics', 'Republican Party']
+  tags: ['Files', 'history/Turmp'] → ['Trump', 'inflation', 'speech', 'economics', 'policy', 'press-release', 'Republican', 'Files', 'history/Turmp']
+  ai_model: None → Claude 3 Opus
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Try the worst to get the best.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → idea
+  topics: [] → ['Donna Summer', 'music', 'creativity', 'innovation', 'Star Wars', 'Tim Harford', 'Brian Eno']
+  tags: ['flossy/TimHarford'] → ['flossy/TimHarford', 'music', 'creativity', 'innovation', 'worst-idea']
+✓ File updated
+
+--- Processing: Trying to get info on generators.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['power generation', 'renewable energy', 'DC generators', 'generators', 'tidal turbines']
+  tags: ['new'] → ['tidal', 'new', 'generators']
+  technology_stack: [] → ['DC power']
+  tools_used: [] → ['Alibaba', 'Amazon', 'Stirlingkit', 'Ebay']
+✓ File updated
+
+--- Processing: Turku Castle History.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Swedish History', 'Renaissance', 'Finland', 'Medieval History', 'Turku Castle']
+  tags: ['History/finland'] → ['castles', 'medieval', 'turku', 'renaissance', 'sweden', 'History/finland']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: UK Forensic Science Problems.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['forensic science', 'government policy', 'public services', 'UK', 'privatization', 'criminal justice']
+  tags: ['newsItemBackground'] → ['UK', 'newsItemBackground', 'forensic science', 'government']
+  status: new → completed
+✓ File updated
+
+--- Processing: Understanding ADHD.  Productivity Tools.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → guide
+  topics: [] → ['Time Management', 'Productivity', 'Self-Help', 'ADHD']
+  tags: ['flossy/health'] → ['time-management', 'self-help', 'productivity', 'flossy/health', 'ADHD']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Use ngrok not dataplicity wormhole  to do WebUI and Ollama.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['ollama', 'remote access', 'raspberry pi', 'dataplicity wormhole', 'ngrok', 'webui']
+  tags: ['github/RPI/remoteCon'] → ['raspberrypi', 'ollama', 'github/RPI/remoteCon', 'ngrok', 'webui']
+  technology_stack: [] → ['raspberry pi 5', 'linux', 'docker']
+  tools_used: [] → ['bash', 'dataplicity wormhole', 'ngrok', 'docker']
+  status: new → completed
+✓ File updated
+
+--- Processing: Using AI Basics.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['Obsidian', 'LLMs', 'Tokenization', 'AI', 'Hotkeys', 'Plugins']
+  tags: ['new'] → ['obsidian', 'llms', 'new', 'ollama', 'plugins', 'ai']
+  technology_stack: [] → ['Markdown', 'Ollama']
+  tools_used: [] → ['Obsidian', 'Ollama']
+✓ File updated
+
+--- Processing: Using Grep Linux Command.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['command line', 'Linux', 'log analysis', 'debugging', 'grep', 'troubleshooting']
+  tags: ['howto/rpi'] → ['command-line', 'debugging', 'grep', 'linux', 'troubleshooting', 'howto/rpi']
+  technology_stack: [] → ['Linux']
+  tools_used: [] → ['ps', 'grep', 'syslog']
+  status: new → completed
+✓ File updated
+
+--- Processing: Using Hotkeys on Android Devices for Obsidian.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Android', 'Obsidian', 'Keyboard Shortcuts', 'Hotkeys']
+  tags: ['SYSTEM/obsidian/howto'] → ['obsidian', 'android', 'SYSTEM/obsidian/howto', 'hotkeys', 'howto', 'mobile']
+  tools_used: [] → ['Obsidian', 'KeyCombiner', "Hacker's Keyboard"]
+  status: new → completed
+✓ File updated
+
+--- Processing: Using ObsidianTools For extracting Data from Obsidian Fikes.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['Obsidian', 'Python', 'Automation', 'Data Extraction', 'Tags']
+  tags: ['system/obsidian/python'] → ['obsidian', 'tags', 'data-extraction', 'obsidiantools', 'python', 'system/obsidian/python', 'automation']
+  technology_stack: [] → ['Obsidian', 'Python']
+  tools_used: [] → ['Obsidian', 'keep-it-markdown', 'ObsidianTools']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Using Serial Cable to R Pi..md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Hardware', 'Raspberry Pi', 'GPIO', 'Serial Communication', 'Console Access']
+  tags: ['howto/rpi'] → ['rpi', 'hardware', 'serial', 'gpio', 'howto/rpi', 'howto']
+  technology_stack: [] → ['USB', 'Raspberry Pi']
+  tools_used: [] → ['Terminal Emulator', 'PuTTY']
+✓ File updated
+
+--- Processing: Using Serial Port for 3D Printer Commisioning.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → reference
+  topics: [] → ['3D Printing', 'G-code', 'Serial Communication', 'Marlin Firmware']
+  tags: [] → ['marlin', 'gcode', 'commissioning', 'serial']
+  technology_stack: [] → ['Marlin Firmware']
+  tools_used: [] → ['OctoPrint', 'PronterFace', 'Arduino IDE']
+  status: new → completed
+✓ File updated
+
+--- Processing: Using the MSTY app for AI with Ollama.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['Productivity', 'Obsidian', 'Knowledge Management', 'AI', 'Organization']
+  tags: ['new'] → ['new', 'Ollama', 'MSTY']
+  technology_stack: [] → ['Obsidian', 'Ollama', 'MSTY']
+  tools_used: [] → ['Dataview', 'Ollama', 'MSTY']
+  ai_model: None → Supernova Medius Q4
+✓ File updated
+
+--- Processing: Using WSL to Install Fabric on Debian.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['pipx', 'Fabric', 'Python', 'virtual environment', 'installation', 'WSL']
+  tags: ['system/fabric/howto'] → ['pipx', 'system/fabric/howto', 'fabric', 'python', 'installation', 'wsl']
+  technology_stack: [] → ['WSL', 'Python', 'Ubuntu', 'Linux']
+  tools_used: [] → ['fabric', 'pip', 'git', 'pipx']
+  ai_model: None → OpenAI
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Vanhanlinna.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['archaeology', 'Iron Age', 'castle hill', 'Bronze Age', 'Turku', 'Vanhanlinna', 'Finland', 'ancient history']
+  tags: ['VID_20240801_163531.mp4', '1722586196575.jpg', 'History/finland'] → ['Linnavuori', 'Aura River Valley', 'History/finland', 'Halisten rapids', 'VID_20240801_163531.mp4', '1722586196575.jpg']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Velhovesi Freshwater Reservoir A Significant Engineering Achievement and Essential Regional Ecosystem.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → reference
+  topics: [] → ['Baltic Sea', 'Ecosystems', 'Freshwater Reservoirs', 'Water Management', 'Engineering', 'Finland', 'Uusikaupunki']
+  tags: ['History/finland'] → ['Water Resources', 'Geography', 'Environment', 'History/finland']
+  status: new → completed
+✓ File updated
+
+--- Processing: Vertual Environment For Python.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Virtual Environment', 'Dependency Management', 'Python']
+  tags: ['github/python/virtenv'] → ['virtualenv', 'requirements.txt', 'venv', 'python', 'github/python/virtenv']
+  technology_stack: [] → ['Python']
+  tools_used: [] → ['pip', 'venv', 'python']
+  status: new → completed
+✓ File updated
+
+--- Processing: VideoProc for downloading You Tube videos.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['YouTube', 'video downloading', 'software', 'VideoProc']
+  tags: ['new'] → ['new', 'video', 'download']
+  tools_used: [] → ['VideoProc Converter AI']
+  status: new → completed
+✓ File updated
+
+--- Processing: Viking Boat Helka.md ---
+Changes suggested:
+  category: None → Maritime
+  note_type: None → research
+  topics: [] → ['Boatbuilding', 'Maritime History', 'Finland', 'Archaeology', 'Historical Reconstruction', 'Viking Age']
+  tags: ['1722586886912.jpg', '1722517064319.jpg', 'History/finland'] → ['1722517064319.jpg', 'Helka', 'Lapur Wreck', 'History/finland', '1722586886912.jpg', 'Vanhalinna']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Volterol.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → guide
+  topics: [] → ['nsaids', 'voltarol', 'diclofenac', 'joint pain', 'pain relief', 'asthma', 'muscle pain', 'ibuprofen', 'medication']
+  tags: ['new'] → ['voltarol', 'new', 'health', 'pain', 'asthma', 'medication']
+  status: new → completed
+✓ File updated
+
+--- Processing: Want to  change.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → research
+  topics: [] → ['situational influence', 'social psychology', 'behavior', 'decision making', 'altruism', 'psychology']
+  tags: ['new'] → ['situational-influence', 'new', 'behavior', 'tim-harford', 'psychology']
+✓ File updated
+
+--- Processing: Wars and Conflict Review April 20th 2024.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Napoleonic Wars', 'Iran', 'Israel', 'Ukraine', 'World War I', 'World War II', 'conflict', 'Europe', 'war', 'international relations']
+  tags: ['new'] → ['analysis', 'new', 'news', 'geopolitics']
+  ai_model: None → OpenAI Chatbot
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Ways to add Ollama to Automatoons.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['natural language processing', 'Ollama', 'Python', 'smart home', 'IoT', 'automation']
+  tags: ['addOllama'] → ['LLM', 'Ollama', 'Python', 'Home Assistant', 'smart home', 'addOllama', 'automation']
+  technology_stack: [] → ['Home Assistant', 'Python', 'Ollama']
+  tools_used: [] → ['Python', 'Ollama']
+  ai_model: None → llama3.2
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Webui and ollama on R pi 5.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['Docker', 'Raspberry Pi', 'Ollama', 'LLMs', 'WebUI']
+  tags: ['RPi5'] → ['Docker', 'Ollama', 'LLMs', 'Performance', 'RPi5', 'WebUI']
+  technology_stack: [] → ['Docker', 'Raspberry Pi 5', 'Ollama', 'WebUI']
+  tools_used: [] → ['Docker', 'nano', 'Ollama', 'WebUI', 'raspi-config']
+  ai_model: None → ['Mistral 7B', 'Phi-2', 'Llama-2 7B']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Weed prevention.md ---
+Changes suggested:
+  category: None → Project
+  note_type: None → guide
+  topics: [] → ['landscaping', 'weed control', 'rock garden', 'gardening', 'horticulture']
+  tags: ['new'] → ['garden', 'new', 'weeds', 'maintenance']
+✓ File updated
+
+--- Processing: Well that explains it.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → log
+  topics: [] → ['anxiety', 'stress', 'loneliness', 'grief', 'contractor issues', 'bereavement', 'mental health']
+  tags: ['flossy/mentalhealth'] → ['personal', 'grief', 'flossy/mentalhealth', 'anxiety']
+  status: new → completed
+✓ File updated
+
+--- Processing: wester again.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Liverpool', 'Intelligence', 'Anti-Submarine Warfare', 'World War II', 'Western Approaches Museum', 'Royal Navy', 'Battle of the Atlantic', 'Military Tactics']
+  tags: ['new'] → ['wwii', 'new', 'naval', 'military']
+✓ File updated
+
+--- Processing: Western Approaches Museum and the battle of the Atlantic.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Intelligence', 'World War II', 'Battle of the Atlantic', 'Technology', 'Military Tactics', 'Naval Warfare']
+  tags: ['new'] → ['U-boats', 'new', 'naval', 'WWII']
+  tools_used: [] → ['Radar', 'Sonar']
+✓ File updated
+
+--- Processing: what are the keys .....md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → reference
+  topics: [] → ['self-improvement', 'habits', 'productivity', 'personal development', 'Tools of Titans', 'Tim Ferriss']
+  tags: ['new'] → ['new', 'habits', 'self-improvement', 'productivity']
+✓ File updated
+
+--- Processing: What does it take to stand up to tyranny.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['courage', 'tyranny', 'sociology', 'World War II', 'Holocaust', 'Moral Ambition', 'heroism', 'psychology', 'Rutger Bregman']
+  tags: ['new'] → ['new', 'history', 'sociology', 'moral philosophy', 'ethics', 'psychology']
+✓ File updated
+
+--- Processing: What Elon can learn from the original Doge.md ---
+Changes suggested:
+  category:  → Learning
+  note_type:  → idea
+  topics: [] → ['Business Strategy', 'Dogecoin', 'Memes', 'Elon Musk', 'Cryptocurrency']
+  tags: [] → ['Elon', 'Business', 'Doge', 'Cryptocurrency']
+✓ File updated
+
+--- Processing: What Geeks can learn from Sport.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → research
+  topics: [] → ['sport', 'football', 'discrimination', 'economics', 'data analysis', 'behavioral economics', 'baseball']
+  tags: ['flossy/tim'] → ['sport', 'flossy/tim', 'behavioral-science', 'economics']
+✓ File updated
+
+--- Processing: What if DogeCoin became the official US currency.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → research
+  topics: [] → ['DogeCoin', 'wealth', 'currency', 'economics', 'redistribution']
+  tags: ['new'] → ['hypothetical', 'new', 'economics', 'thought-experiment']
+  status: new → completed
+✓ File updated
+
+--- Processing: What if WW2 Operation Market Gardens had Succeeded..md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Geopolitics', 'Operation Market Garden', 'Berlin', 'Counterfactual History', 'Soviet Relations', 'World War 2']
+  tags: ['new'] → ['new', 'WhatIf', 'WW2', 'Market Garden', 'Europe', 'History']
+✓ File updated
+
+--- Processing: What is Pomodoro.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → guide
+  topics: [] → ['productivity', 'Pomodoro Technique', 'time management']
+  tags: ['new'] → ['new', 'time-management', 'productivity']
+  tools_used: [] → ['Obsidian', 'Pomodoro Timer', 'Pomodoro Plugin']
+✓ File updated
+
+--- Processing: What Three Books.md ---
+Changes suggested:
+  category: None → Personal
+  note_type: None → idea
+  topics: [] → ['philosophy', 'human behavior', 'peace', 'decision-making', 'ethics']
+  tags: ['philosophy'] → ['philosophy', 'self-improvement', 'reading list', 'wisdom', 'book recommendations']
+  status: new → completed
+✓ File updated
+
+--- Processing: What vaccine hesitancy teaches us about politics.md ---
+Changes suggested:
+  category: None → Health
+  note_type: None → research
+  topics: [] → ['smallpox', 'vaccine hesitancy', 'public health', 'variolation', 'politics', 'HPV vaccine', 'Covid-19', 'Robert F Kennedy Jr']
+  tags: ['new'] → ['new', 'vaccines', 'US politics', 'politics', 'health policy']
+✓ File updated
+
+--- Processing: What Zebras can Teach us about International Trade.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → research
+  topics: [] → ['DoyneFarmer', 'trophic_levels', 'tariffs', 'electric_vehicles', 'economics', 'JamesMcNerney', 'international_trade', 'ecology', 'trade']
+  tags: ['flossy/TimHarford'] → ['flossy/TimHarford', 'economics', 'trade']
+✓ File updated
+
+--- Processing: when to write.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → research
+  topics: [] → ['memory', 'handwriting', 'learning', 'productivity', 'cognition', 'writing', 'ADHD']
+  tags: ['new'] → ['new', 'handwriting', 'learning', 'productivity', 'ADHD']
+✓ File updated
+
+--- Processing: When your Smartphone tries to be too smart.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → reference
+  topics: [] → ['usability', 'The Design of Everyday Things', 'human-computer interaction', 'technology', 'design', 'Donald Norman']
+  tags: ['flossy/TimHarford'] → ['flossy/TimHarford', 'usability-ux', 'design-thinking']
+  status: new → completed
+✓ File updated
+
+--- Processing: which marlin config to use.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Malyan M200', '3D Printing', 'Marlin Firmware', 'Monoprice Select Mini V2', 'Configuration']
+  tags: [] → ['marlin', 'monoprice', 'configuration', 'malyan']
+  technology_stack: [] → ['Marlin Firmware']
+  tools_used: [] → ['GitHub', '3DWork.io']
+  ai_model: None → Llama 3.1 Sonar 3.1
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Whitchurch Country Park Lease (2025) – Compact Reference.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → documentation
+  topics: [] → ['charity law', 'public space', 'land lease', 'property law', 'Shropshire Council', 'Whitchurch Waterway Trust', 'canal']
+  tags: ['#rent-payable', 'countryPark', '#authorised-use', '#underletting', '#schedule-one-management', '#charity-statement', '#insurance-obligations', '#particulars', '#1-definitions', '#2-what-the-tso-gets'] → ['#charity-statement', '#1-definitions', 'property', '#2-what-the-tso-gets', '#schedule-one-management', 'lease', 'countryPark', 'public access', '#particulars', 'legal', 'charity', 'rent', '#underletting', 'insurance', 'tenure', 'country park', '#authorised-use', '#insurance-obligations', '#rent-payable']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Whitchurch Country Park Lease (2025) – Compact Reference2.md ---
+Changes suggested:
+  category: None → Reference
+  note_type: None → documentation
+  topics: [] → ['canal waterways', 'charity law', 'land lease', 'property law', 'public parks']
+  tags: ['countryPark'] → ['Shropshire', 'lease', 'countryPark', 'property', 'legal', 'charity']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: White Screen Issue with R Pi 5 and Remote Desktop.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Troubleshooting', 'Obsidian', 'Remote Desktop', 'Raspberry Pi']
+  tags: ['new'] → ['obsidian', 'raspberrypi', 'new', 'troubleshooting', 'rpi5', 'remote-desktop']
+  technology_stack: [] → ['X11', 'Raspberry Pi 5', 'Wayland', 'VNC', 'XRDP']
+  tools_used: [] → ['apt-get', 'sudo', 'Obsidian', 'Pi Apps', 'raspi-config']
+✓ File updated
+
+--- Processing: Who wrote Gullivers travels..md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['British History', 'Politics', 'Colonialism', 'Imperialism', 'Whigs', 'Jonathan Swift', 'Tories', 'Irish History', 'Satire', '18th Century', 'Gullivers Travels']
+  tags: ['new'] → ['new', 'history', 'satire', 'politics', 'literature']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Why are governments so bad at problem solving.md ---
+Changes suggested:
+  category: None → Learning
+  note_type: None → research
+  topics: [] → ['Donald Campbell', 'problem solving', 'policy', 'randomized trials', 'psychology', 'government']
+  tags: ['new'] → ['new', 'public policy', 'behavioral science']
+✓ File updated
+
+--- Processing: Why JavaScript.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Raspberry Pi', 'web development', 'AI', 'Python', 'API', 'programming', 'JavaScript']
+  tags: ['github/js/howto'] → ['raspberrypi', 'api', 'python', 'webdev', 'programming', 'github/js/howto', 'ai', 'javascript']
+  technology_stack: [] → ['Bash', 'JavaScript', 'Python', 'Node.js']
+  tools_used: [] → ['Obsidian', 'Node.js']
+  status: new → in-progress
+✓ File updated
+
+--- Processing: Why Lee that fencing guy was suspicious.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → log
+  topics: [] → ['contractor', 'scam', 'legal', 'fraud', 'home improvement']
+  tags: ['new'] → ['new', 'contractor', 'scam', 'legal', 'suspicious', 'finance']
+✓ File updated
+
+--- Processing: Why Swifties, holidaymakers and the hygienic should cheer for surge pricing.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → research
+  topics: [] → ['competition law', "Wendy's", 'economics', 'surge pricing', 'supply and demand', 'pricing', 'Coca-Cola']
+  tags: ['flossy/TimHarford'] → ['TimHarford', 'flossy/TimHarford', 'economics', 'surge pricing', 'pricing']
+  status: new → completed
+✓ File updated
+
+--- Processing: Win 11 Stopping stuff.md ---
+Changes suggested:
+  category: None → Technical
+  note_type: None → guide
+  topics: [] → ['Windows 11', 'System Optimization', 'CPU Usage', 'Indexing']
+  tags: [] → ['optimization', 'windows', 'performance']
+  technology_stack: [] → ['Windows 11']
+  tools_used: [] → ['task manager', 'services.msc', 'control panel']
+  ai_model: None → Llama 3.1
+  status: new → completed
+✓ File updated
+
+--- Processing: Woodwork_Ideas_That_Rock@20250903_104502.md ---
+Changes suggested:
+  category: None → Project
+  note_type: None → idea
+  topics: [] → ['music', 'DIY', 'woodworking', 'rocking toys', "men's sheds", 'crafts']
+  tags: ['copilot-conversation'] → ['rocking', 'DIY', 'woodworking', 'copilot-conversation', 'toys', "men's sheds", 'crafts']
+✓ File updated
+
+--- Processing: WSI - Trustee Insurance Advice for Whitchurch Men in Sheds.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → guide
+  topics: [] → ['liability insurance', 'legal advice', 'risk management', 'trustee insurance', 'charity insurance']
+  tags: ['WMIS'] → ['trustees', 'insurance', 'legal', 'risk', 'WMIS']
+  ai_model: None → Anthropic Claude 3.5sonnetbeta
+  status: new → completed
+✓ File updated
+
+--- Processing: WSI RagTest Task a  Method 3   Output Record for Shed Insurance.md ---
+Changes suggested:
+  category: None → Financial
+  note_type: None → guide
+  topics: [] → ['trustees', 'risk management', 'insurance', 'charity', 'compliance']
+  tags: ['localAI/TaskA/Methos3'] → ['trustees', 'compliance', 'insurance', 'risk', 'charity', 'localAI/TaskA/Methos3']
+  status: new → completed
+✓ File updated
+
+--- Processing: WW1 good guys - bad guys.md ---
+Changes suggested:
+  category: None → History
+  note_type: None → research
+  topics: [] → ['Ethics', 'Historical Perspective', 'World War I', 'World War II', 'Propaganda', 'Moral Ambiguity']
+  tags: ['new'] → ['new', 'WWII', 'history', 'WW1', 'ethics']
+✓ File updated
+
+--- Processing: You Tube Transcript 06.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → guide
+  topics: [] → ['LLM', 'RAG', 'Ollama', 'Local AI']
+  tags: ['new'] → ['LLM', 'new', 'Ollama', 'Tutorial', 'RAG', 'AI']
+  technology_stack: [] → ['Ollama', 'Anything LLM']
+  tools_used: [] → ['YouTube', 'Ollama']
+  ai_model: None → ['Gemma', 'Llama 2', 'Mistral']
+✓ File updated
+
+--- Processing: You Tube Transcript 09.md ---
+Changes suggested:
+  category: None → AI_ML
+  note_type: None → reference
+  topics: [] → ['Local AI Models', 'Obsidian', 'LLMs', 'Note-Taking', 'AI']
+  tags: ['YTTranscripts'] → ['LLAMA3', 'Ollama', 'YTTranscripts', 'Gemma2']
+  tools_used: [] → ['Obsidian', 'Ollama']
+  ai_model: None → Gemma 2, LLAMA3
+  status: new → completed
+✓ File updated
