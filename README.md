@@ -16,7 +16,7 @@ This project was created to solve the challenge of maintaining consistent metada
 
 ## The Three Scripts
 
-### 1. Phase 1: Frontmatter Structure Insertion (`front_01_Nov_fixed.py`)
+### 1. Phase 1: Frontmatter Structure Insertion (`front.py`)
 
 **Purpose**: Inserts the standardized 31-parameter frontmatter template into all markdown files.
 
@@ -30,7 +30,7 @@ This project was created to solve the challenge of maintaining consistent metada
 
 **When to use**: Run this first on new notes or notes without proper frontmatter structure.
 
-### 2. Phase 2: AI-Powered Value Population (`setFronts_fixed.py`)
+### 2. Phase 2: AI-Powered Value Population (`setfront.py`)
 
 **Purpose**: Uses Ollama to intelligently analyze note content and populate frontmatter fields.
 
