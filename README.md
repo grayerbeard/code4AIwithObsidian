@@ -30,7 +30,7 @@ This project was created to solve the challenge of maintaining consistent metada
 
 **When to use**: Run this first on new notes or notes without proper frontmatter structure.
 
-### 2. Phase 2: AI-Powered Value Population (`setfront.py`)
+### 2. Phase 2: AI-Powered Value Population (`setFront.py`)
 
 **Purpose**: Uses Ollama to intelligently analyze note content and populate frontmatter fields.
 
